@@ -140,4 +140,5 @@ date : 25-09-2023
         <p><strong> Robert Biel：</strong> Political Ecology and Sustainable Food （政治生态学与可持续食品）。</p>
         <p><strong> Camillo Boano：</strong> Urban Design and Critical Theory (城市设计和批判理论)。</p>
 <p><strong> Yves Cabannes：</strong> Development Planning （发展规划）。</p>
+</div>
 
