@@ -88,6 +88,6 @@ date : 24-12-2023
     <br>
     <div class="project-box">
         <h3>主要教授与研究方向</h3>
-        <p><strong> Fredrik Liljeros：</strong> how human interaction patterns influence the spread of social influence and diseases in different populations。</p>
+        <p><strong> Fredrik Liljeros：</strong> 人类互动模式如何影响不同人群中社会影响和疾病的传播。</p>
     </div>
 
