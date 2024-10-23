@@ -46,15 +46,15 @@ date : 09-12-2023
     <br>
     <div class="project-box">
         <h3>主要教授与研究方向</h3>
-        <p><strong> Sophie Blackburn：</strong> Development geography,Political ecology, politics of scale,Disaster risk reduction, resilience and vulnerability,Post-disaster politics and risk governance,Climate change adaptation,Participation, local agency and resistance。</p>
-        <p><strong> Ruth Evans：</strong> Care, intersecting inequalities and wellbeing in transnational families,Land politics, food security and gender and intergenerational relations in West Africa,Geographies of children, youth and families,Social exclusion/inclusion and the participation of marginalised groups in research and policy。</p>
-        <p><strong> Hilary Geoghegan：</strong>Cultural geography，Science and technology as leisure and work，Natural environment and climate change through landscape and volunteering，Architecture, heritage and museum collections，Citizen science, civic geographies and public histories。</p>
-        <p><strong> Michael Goodman：</strong> Critical cultural geographies of food, humanitarianism and the environment，Political ecology and the politics of sustainable consumption，Digital politics and cultures。</p>
-        <p><strong> Anna Jackman：</strong> Geographies of volume, verticality, and airspace,Feminist geopolitics,Drone geographies,Political geographies of technology。</p>
-        <p><strong> Sally Lloyd-Evans：</strong> Work, employment and the informal sector in the UK and developing countries;Gender, ethnicity and equal opportunities,Recent trends in urbanisation in developing countries,Regional interests - the Caribbean and Latin America。</p>
-        <p><strong> Avril Maddrell：</strong> gender,emotional-affective geographies,deathscapes,sacred mobilities,place, landscape and heritage,historiography,charity shops as socio-cultural spaces。</p>
-        <p><strong> Steve Musson：</strong> local government austerity in the United Kingdom,the local politics of infrastructure investment,the relationship between the University of Reading and its local community,urban renewal and town centre regeneration。</p>
-        <p><strong> Nathan Salvidge：</strong> Precarious urban livelihoods,Urban spaces,Spatial and temporal livelihood mobilities,Digital technologies,Geographies of youth,Mobile GPS。</p>
+        <p><strong> Sophie Blackburn：</strong> 发展地理学、政治生态学、规模政治学、灾害风险减少、恢复力和脆弱性、灾后政治和风险治理、气候变化适应、参与、地方机构和抵抗。</p>
+        <p><strong> Ruth Evans：</strong> 跨国家庭的关怀、交叉不平等和福祉、西非的土地政治、粮食安全、性别和代际关系、儿童、青年和家庭的地理分布、社会排斥/包容以及边缘群体在研究和政策中的参与。</p>
+        <p><strong> Hilary Geoghegan：</strong>文化地理学、休闲与工作中的科学技术、通过景观和志愿服务实现的自然环境和气候变化、建筑、遗产和博物馆收藏、公民科学、公民地理和公共历史。</p>
+        <p><strong> Michael Goodman：</strong> 食品、人道主义和环境的批判文化地理学、政治生态学和可持续消费政治、数字政治和文化。</p>
+        <p><strong> Anna Jackman：</strong> 体积、垂直度和空域地理、女权主义地缘政治、无人机地理、技术政治地理。</p>
+        <p><strong> Sally Lloyd-Evans：</strong> 英国和发展中国家的工作、就业和非正规部门；性别、种族和平等机会，发展中国家城市化的最新趋势，区域利益——加勒比和拉丁美洲。</p>
+        <p><strong> Avril Maddrell：</strong> 性别、情感地理、死亡景观、神圣流动性、地点、景观和遗产、史学、慈善商店作为社会文化空间。</p>
+        <p><strong> Steve Musson：</strong> 英国地方政府紧缩政策、基础设施投资的地方政治、雷丁大学与当地社区的关系、城市更新和市中心重建。</p>
+        <p><strong> Nathan Salvidge：</strong> 不稳定的城市生计、城市空间、空间和时间生计流动性、数字技术、青年地理、移动 GPS。</p>
     </div>
     <br>
     <br>
@@ -91,17 +91,17 @@ date : 09-12-2023
     <br>
        <div class="project-box">
        <h3>主要教授与研究方向</h3>
-        <p><strong> Howard Cooke：</strong> Corporate Real Estate,Lease Restructuring,Asset Management。</p>
-        <p><strong> Nicholas Millard：</strong> Agricultural Law and Valuations,Property strategies,Infrastructure and compulsory purchase,Public sector property。</p>
-        <p><strong> Emma Street：</strong> Urban policy, planning and governance,Built environment,Urban design and architecture。</p>
-<p><strong> Simon Thaler：</strong> Behavioural Real Estate, Property valuation,Valuation Biases,Computer Vision,Machine Learning。</p>
-<p><strong> Xiaolun Yu：</strong> Urban Economics,Policy Evaluation,Real Estate Finance,Land Use Regulation,Spatial Econometrics。</p>
-<p><strong> Angelique Chettiparamb：</strong> Public participation and Multi-level governance,Solid waste management, recycling and the circular economy,Land management techniques, regulation and community land trusts,Circular internal migration,Conservation and Urban History。</p>
-<p><strong> Carlo Corradini：</strong> Regional innovation,Regional and urban entrepreneurship,Regional and urban economic development,Spatial dynamics of technological change,Clusters and innovation,Regional and urban development policy。</p>
-<p><strong> Angela Cropley：</strong> Agricultural law,Farm and estate diversification,Rural estate management。</p>
-<p><strong> Eamonn D'Arcy：</strong> Real estate and urban economics,International real estate markets,International developments in real estate education。</p>
-<p><strong> Claire Xiaoying Deng：</strong> International Capital Flows and Investment,Corporate Finance and Asset Securitization,Household Finance,FinTech and PropTech,ESG and Green Finance。</p>
-<p><strong> Yiquan Gu：</strong> Spatial Economics,Industrial Organisation,Digital Economy,Game Theory。</p>
+        <p><strong> Howard Cooke：</strong> 企业房地产、租赁重组、资产管理。</p>
+        <p><strong> Nicholas Millard：</strong> 农业法和估价、财产战略、基础设施和强制购买、公共部门财产。</p>
+        <p><strong> Emma Street：</strong> 城市政策、规划和治理、建筑环境、城市设计和建筑。</p>
+<p><strong> Simon Thaler：</strong> 行为房地产、房地产估价、估值偏差、计算机视觉、机器学习。</p>
+<p><strong> Xiaolun Yu：</strong> 城市经济学、政策评估、房地产金融、土地利用管制、空间计量经济学。</p>
+<p><strong> Angelique Chettiparamb：</strong> 公众参与和多层次治理、固体废物管理、回收和循环经济、土地管理技术、法规和社区土地信托、循环内部迁移、保护和城市历史。</p>
+<p><strong> Carlo Corradini：</strong> 区域创新、区域和城市创业、区域和城市经济发展、技术变革的空间动态、集群和创新、区域和城市发展政策。</p>
+<p><strong> Angela Cropley：</strong> 农业法、农场和庄园多样化、农村庄园管理。</p>
+<p><strong> Eamonn D'Arcy：</strong> 房地产与城市经济、国际房地产市场、国际房地产教育发展。</p>
+<p><strong> Claire Xiaoying Deng：</strong> 国际资本流动与投资、企业金融与资产证券化、家庭金融、金融科技与PropTech、ESG与绿色金融。</p>
+<p><strong> Yiquan Gu：</strong> 空间经济学、产业组织、数字经济、博弈论。</p>
     </div>
 
 
@@ -110,10 +110,10 @@ date : 09-12-2023
 
        <div class="project-box">
        <h3>主要教授与研究方向</h3>
-        <p><strong> Andreas Behnke：</strong> nternational political theory, in particular Carl Schmitt,Critical approaches to war, security and geopolitics,The politics of fashion。</p>
-        <p><strong> Sarah von Billerbeck：</strong> peacekeeping and peacebuilding,international organisations,the UN,legitimacy,civil war and post-conflict reconstruction。</p>
-        <p><strong> Alan Cromartie：</strong> The history of political thought (especially, but not exclusively, in early modern England),Military ethics,The idea of rights,The philosophy of history。</p>
-<p><strong> Jonathan Golub：</strong> European Union institutions and policymaking,International political economy,Research methods,Environmental policy,Judicial politics。</p>
-<p><strong> David Marshall：</strong> Policy making, interest representation (corporate and citizen), European politics, comparative politics, British Politics and research methods。</p>
+        <p><strong> Andreas Behnke：</strong> 国际政治理论，特别是卡尔·施密特，对战争、安全和地缘政治的批判方法，时尚政治。</p>
+        <p><strong> Sarah von Billerbeck：</strong> 维持和平与建设和平、国际组织、联合国、合法性、内战和冲突后重建。</p>
+        <p><strong> Alan Cromartie：</strong> 政治思想史（特别是但不限于近代英国的政治思想史）、军事伦理、权利观念、历史哲学。</p>
+<p><strong> Jonathan Golub：</strong> 欧盟机构与政策制定、国际政治经济、研究方法、环境政策、司法政治。</p>
+<p><strong> David Marshall：</strong> 政策制定、利益代表（企业和公民）、欧洲政治、比较政治、英国政治和研究方法。</p>
     </div>
 
