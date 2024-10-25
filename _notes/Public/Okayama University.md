@@ -48,9 +48,9 @@ date : 15-12-2023
     <p><strong>入学要求：</strong>无信息</p>
     <p><strong>课程链接：</strong><a href=" https://www.elst.okayama-u.ac.jp/en/wp-content/uploads/sites/2/2023/03/pamphlet_en.pdf " target="_blank">链接</a></p>
     
-<h3 id="硕士项目">🎓2.1 <a href=" https://www.elst.okayama-u.ac.jp/en/wp-content/uploads/sites/2/2023/03/pamphlet_en.pdf " target="_blank">硕士项目</a></h3>
+<h3 id="硕士项目">📖2.2 <a href=" https://www.elst.okayama-u.ac.jp/en/wp-content/uploads/sites/2/2023/03/pamphlet_en.pdf " target="_blank">硕士项目</a></h3>
 
-    <h4 id="地球、环境和生命科学硕士">2.1.1 <a href=" https://www.elst.okayama-u.ac.jp/en/wp-content/uploads/sites/2/2023/03/pamphlet_en.pdf " target="_blank">地球、环境和生命科学硕士</a></h4>
+    <h4 id="地球、环境和生命科学硕士">2.2.1 <a href=" https://www.elst.okayama-u.ac.jp/en/wp-content/uploads/sites/2/2023/03/pamphlet_en.pdf " target="_blank">地球、环境和生命科学硕士</a></h4>
     <p><strong>介绍：</strong>培养能够钻研地球科学、环境科学、生命科学等理、工、农基础学科，能够解决人口与粮食问题、全球环境变化等人类共同面临的问题的人才 和自然灾害。</p>
     <p><strong>学位、学制和学费：</strong>无信息</p>
     <p><strong>申请截止时间：</strong>无信息（申请截止日期每年变更，请查询官网）</p>
@@ -88,4 +88,3 @@ date : 15-12-2023
 
 </body>
 </html>
-
