@@ -13,7 +13,7 @@ date : 02-10-2023
 <body>
     <h3>温哥华市，不列颠哥伦比亚省，加拿大</h3>
 
-    <h2 id="地理系">🏫1 <a href="https://www.grad.ubc.ca/unit/department-geography" target="_blank">地理系1</a></h2>
+    <h2 id="地理系">🏫1 <a href="https://www.grad.ubc.ca/unit/department-geography" target="_blank">地理系</a></h2>
     <p><strong>介绍：</strong>UBC地理系在研究成果方面被广泛认为是世界领先的系之一。教职员工和研究生的学术兴趣涵盖广泛的学科领域、哲学方法、分析方法和地理位置</p>
 
 <h3 id="博士项目">🎓1.1 <a href="https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-geography" target="_blank">博士项目</a></h3>
@@ -72,13 +72,7 @@ date : 02-10-2023
 
 <h3 id="硕士项目">📖2.2 <a href="硕士主页链接" target="_blank">硕士项目</a></h3>
 
-    <h4 id="资源、环境与可持续发展文学硕士">2.2.1 <a href="https://ires.ubc.ca/graduate-program/prospective-students" target="_blank">资源、环境与可持续发展文学硕士    <p><strong>介绍：</strong>该项目是一个以问题为中心和好奇心驱动的跨学科研究机构和研究生课程，对环境和可持续发展领域的广泛主题感兴趣和专业知识。我们的使命是通过对人类和自然系统之间联系的综合研究和学习来促进可持续的未来，并支持从地方到全球范围的决策。通常情况下，我们通过学生和教师之间的合作来实现这一目标，这种合作承认我们的集体技能、思想史和方法论，同时鼓励我们在考虑现实世界问题时相互依赖。资源、环境和可持续性（RES）研究生课程为跨学科学生提供了一个家，专注于在可持续、健康环境的背景下整合资源管理的生物物理（生态）、社会经济和政治现实。</p>
-    <p><strong>学位、学制和学费：</strong>硕士，2年</p>
-    <p><strong>申请截止时间：</strong>2024年12月15日（申请截止日期每年变更，请查询官网）</p>
-    <p><strong>入学要求：</strong>托福100（24）、成绩单、推荐信三封、意向陈述</p>
-    <p><strong>课程链接：</strong><a href="https://ires.ubc.ca/graduate-program/prospective-students" target="_blank">链接</a></p>
-
-    <h4 id="资源、环境与可持续发展理学硕士">2.2.2 <a href="https://ires.ubc.ca/graduate-program/prospective-students" target="_blank">资源、环境与可持续发展理学硕士</a></h4>
+    <h4 id="资源、环境与可持续发展理学硕士">2.2.1 <a href="https://ires.ubc.ca/graduate-program/prospective-students" target="_blank">资源、环境与可持续发展理学硕士</a></h4>
     <p><strong>介绍：</strong>该项目是一个以问题为中心和好奇心驱动的跨学科研究机构和研究生课程，对环境和可持续发展领域的广泛主题感兴趣和专业知识。我们的使命是通过对人类和自然系统之间联系的综合研究和学习来促进可持续的未来，并支持从地方到全球范围的决策。通常情况下，我们通过学生和教师之间的合作来实现这一目标，这种合作承认我们的集体技能、思想史和方法论，同时鼓励我们在考虑现实世界问题时相互依赖。资源、环境和可持续性（RES）研究生课程为跨学科学生提供了一个家，专注于在可持续、健康环境的背景下整合资源管理的生物物理（生态）、社会经济和政治现实。</p>
     <p><strong>学位、学制和学费：</strong>硕士，2年</p>
     <p><strong>申请截止时间：</strong>2024年12月15日（申请截止日期每年变更，请查询官网）</p>
@@ -127,7 +121,7 @@ date : 02-10-2023
     <p><strong>入学要求：</strong>托福100（21）、成绩单、推荐信三封、意向陈述</p>
     <p><strong>课程链接：</strong><a href="https://www.grad.ubc.ca/unit/school-community-regional-planning" target="_blank">链接</a></p>
 
-<h4 id="城市系统工程领导力硕士">3.2.2 <a href="https://www.grad.ubc.ca/unit/school-community-regional-planning" target="_blank">城市系统工程领导力硕士</a></h4>
+<h4 id="城市系统工程领导力硕士">3.2.3 <a href="https://www.grad.ubc.ca/unit/school-community-regional-planning" target="_blank">城市系统工程领导力硕士</a></h4>
     <p><strong>介绍：</strong>该项目希望解决复杂基础设施挑战的系统思想家的专业学位。这个跨学科课程将研究生水平的工程和城市规划课程与UBC Sauder的Robert H. Lee研究生院课程相结合，为您提供技能和信心，以建立自己的职业生涯并推动城市规划的创新。城市系统中的 MEL 课程提供技术和业务课程的独特组合——为您提供在前瞻性组织中发挥主导作用的战略技能。工程和城市规划课程涵盖整个行业价值链，从基础设施和规划的社会背景到工程和设计、项目交付和资产管理。由排名第一的UBC Sauder商学院提供的商业课程为您提供了商业战略和创新，运营和物流，项目管理和组织领导力方面的坚实基础</p>
     <p><strong>学位、学制和学费：</strong>硕士，1年</p>
     <p><strong>申请截止时间：</strong>2025年3月25日和6月25日（申请截止日期每年变更，请查询官网）</p>
