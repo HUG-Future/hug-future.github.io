@@ -83,7 +83,7 @@ date: 21-10-2023
 <br>
 <br>
 
-<h2 id="社会与政治学学院">🏫3 <a href=" https://www.sps.ed.ac.uk/study/postgraduate-taught-programmes " target="_blank">社会与政治学学院"</a></h2>
+<h2 id="社会与政治学学院">🏫3 <a href=" https://www.sps.ed.ac.uk/study/postgraduate-taught-programmes " target="_blank">社会与政治学学院</a></h2>
 
 <div class="project-box">
          <h3 id="主要教授与研究方向"><a href=" https://www.sps.ed.ac.uk/people " target="_blank">主要教授与研究方向</a></h3>
