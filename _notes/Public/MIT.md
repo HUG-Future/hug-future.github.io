@@ -1,7 +1,7 @@
 ---
-title :麻省理工学院，Massachusetts Institute of Technology (MIT)
+title: 麻省理工学院，Massachusetts Institute of Technology (MIT)
 feed: show
-date : 04-12-2023
+date: 04-12-2023
 ---
 
 <html lang="zh">
