@@ -1,6 +1,7 @@
 ---
-title : 阿姆斯特丹自由大学，Vrije University Amsterdam
-date : 20-01-2024
+title: 阿姆斯特丹自由大学，Vrije University Amsterdam
+feed: show
+date: 20-01-2024
 ---
 
 <html lang="zh">
