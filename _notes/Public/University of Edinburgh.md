@@ -1,7 +1,7 @@
 ---
-title :爱丁堡大学，University of Edinburgh
+title: 爱丁堡大学，University of Edinburgh
 feed: show
-date : 21-10-2023
+date: 21-10-2023
 ---
 
 <html lang="zh">
