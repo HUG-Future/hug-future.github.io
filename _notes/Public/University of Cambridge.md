@@ -20,14 +20,14 @@ date : 21-09-2023
 
 <h3 id="硕士项目">📖1.2 <a href=" https://www.geog.cam.ac.uk/postgraduate/mphil/ " target="_blank">硕士项目</a></h3>
 
-    <h4 id=" 地理学硕士 ">1.1.1 <a href=" https://www.geog.cam.ac.uk/postgraduate/mphil/  " target="_blank"> 地理学硕士</a></h4>
+    <h4 id=" 地理学硕士 ">1.2.1 <a href=" https://www.geog.cam.ac.uk/postgraduate/mphil/  " target="_blank"> 地理学硕士</a></h4>
     <p><strong>介绍：</strong> 为期11个月的硕士研究、探索和批判人类世（Anthropocene）的思想。地理系人类世研究硕士于2020年10月启动。近几十年来，当今世界面临的环境和社会挑战的规模急剧增长，而且在资源稀缺和不平等、人口不断增长和人类发展需求未得到满足的世界中，挑战的规模还会更大。我们现在生活在人类世，这一说法为人类在一个不断变化的星球上提出了根本性的问题。这项为期11个月的新高级学习和研究计划将使学生能够利用地理思想、分析和实践的跨学科优势，了解“人类世”的起源、主张和政治。 </p>
     <p><strong>学位、学制和学费：</strong>哲学硕士学位（MPhil），11个月，£49,433</p>
     <p><strong>申请截止时间：</strong>12月5号（24年申请已于23年12月截止，25年的申请尚未开始）</p>
     <p><strong>入学要求：</strong> 对本科专业和学校有要求，雅思小分7/托福小分25，2名推荐人，不需要提前联系导师。 </p>
 <p><strong>课程链接：</strong><a href=" https://www.postgraduate.study.cam.ac.uk/courses/directory/eaggmpans/apply " target="_blank">链接</a></p>
 
-    <h4 id=" 地理学硕士 ">1.1.1 <a href=" https://www.postgraduate.study.cam.ac.uk/courses/directory/eaggmpans/apply  " target="_blank"> 地理学硕士</a></h4>
+    <h4 id=" 地理学硕士 ">1.2.2 <a href=" https://www.postgraduate.study.cam.ac.uk/courses/directory/eaggmpans/apply  " target="_blank"> 地理学硕士</a></h4>
     <p><strong>介绍：</strong> 地理硕士是一个为期12个月的全日制研究课程，向学生介绍研究技能和专业知识。它涉及进行一项原创研究，并在论文的基础上进行审查；没有课程，但如果相关，您可以参加社会科学研究方法计划或大学提供的其他类似计划提供的培训。如果你正在探索地理硕士学位的可能性，你应该：拥有地理或相关学科的本科学位，物理科学或社会科学/人文学科或两者兼修；正在寻找一门以研究为重点的课程，让你作为一名独立的研究人员发展技能和获得知识；渴望在我们的一名学术人员的监督下进行一项研究。 </p>
     <p><strong>学位、学制和学费：</strong>哲学硕士学位（MPhil），12个月，£50,485</p>
     <p><strong>申请截止时间：</strong>3月26日</p>
