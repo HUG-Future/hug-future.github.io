@@ -1,7 +1,7 @@
 ---
-title :雪城大学, Syracuse University
+title: 雪城大学, Syracuse University
 feed: show
-date : 05-11-2023
+date: 05-11-2023
 ---
 
 <html lang="zh">
