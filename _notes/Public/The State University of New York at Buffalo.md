@@ -14,7 +14,7 @@ date : 04-11-2023
     <h3>布法罗市，纽约州，美国</h3>
 
     <h2 id=" Department of Geography，地理系">🏫1 <a href=" https://www.buffalo.edu/cas/geography/about-us.html " target="_blank"> Department of Geography，地理系</a></h2>
-    <p><strong>介绍：</strong> Geography is primarily concerned with the location and arrangement in space of human and natural phenomena, and with the interrelationships between people and their environments. Geographers have an intense curiosity about the world. They ask questions and investigate the "why" and "where" of various social, economic and environmental phenomena. They contribute to the development of public policy and influence the way society views itself and the world. Geography touches almost every aspect of our lives. Geographers are interested in such topics as the location of industry and business, urban growth and development, regional planning and policy, physical and ecological environments, interactions of people and places over space and time, and the diffusion of information and innovation. Our faculty and students come from all over the globe. We teach regularly in our Singapore program. We have an international focus in our research. And UB is an excellent place for the international student to feel at home.</p>
+    <p><strong>介绍：</strong> 地理学主要关注的是人类和自然现象在空间中的位置和排列，以及人与环境之间的相互关系。地理学家对世界有强烈的好奇心。他们提出问题，调查各种社会、经济和环境现象的“为什么”和“在哪里”。他们促进公共政策的发展，影响社会看待自身和世界的方式。地理几乎涉及我们生活的方方面面。地理学家感兴趣的主题是工业和商业的位置，城市增长和发展，区域规划和政策，物理和生态环境，人和地方在空间和时间上的相互作用，以及信息和创新的传播。我们的教师和学生来自世界各地。我们定期在新加坡授课。我们的研究着眼于国际。UB是一个让国际学生有宾至如归感觉的好地方。</p>
 
 <h3 id="博士项目">🎓1.1 <a href=" https://www.buffalo.edu/cas/geography/graduate-program/doctoral-program.html " target="_blank">博士项目</a></h3>
 
@@ -25,7 +25,7 @@ date : 04-11-2023
     <p><strong>入学要求：</strong> GPA 3.0，需要GRE成绩</p>
     <p><strong>课程链接：</strong><a href=" https://www.buffalo.edu/grad/programs/geography-phd.html " target="_blank">链接</a></p>
 
-<h3 id="硕士项目">📖1.2 <a href=" M.A. in International Trade，国际贸易" target="_blank">硕士项目</a></h3>
+<h3 id="硕士项目">📖1.2 <a href=" https://www.buffalo.edu/cas/geography/graduate-program/master-s-degree-program.html " target="_blank">硕士项目</a></h3>
 
     <h4 id=" M.A. in International Trade，国际贸易">1.2.1 <a href="https://www.buffalo.edu/grad/programs/international-trade-ma.html" target="_blank"> M.A. in International Trade，国际贸易</a></h4>
     <p><strong>介绍：</strong>国际贸易硕士课程主要旨在帮助学生为在政府、商业和教育领域就业做好准备。 这个以职业为导向的课程为学生提供了获得国际商务和世界贸易的理论、政策和发展方面的强大背景的机会，特别强调对全球化进程和影响的地理理解。 该计划还为那些希望继续攻读博士学位或专业学位课程的人提供了坚实的理论和方法基础。</p>
@@ -34,14 +34,14 @@ date : 04-11-2023
     <p><strong>入学要求：</strong> GPA 3.0</p>
     <p><strong>课程链接：</strong><a href=" https://catalogs.buffalo.edu/preview_program.php?catoid=2&poid=509&returnto=68" target="_blank">链接</a></p>
 
-    <h4 id=" M.A. in Geography，地理学">1.2.2 <a href="项目网页链接" target="_blank"> M.A. in Geography，地理学</a></h4>
+    <h4 id=" M.A. in Geography，地理学">1.2.2 <a href="https://catalogs.buffalo.edu/preview_program.php?catoid=2&poid=483&returnto=68" target="_blank"> M.A. in Geography，地理学</a></h4>
     <p><strong>介绍：</strong>地理系提供了一个具有智力挑战性的环境，鼓励调查各种社会、经济和环境现象的“地点”和“原因”。 我们的教师致力于在协作环境中进行教学和指导。 我们提供个性化的指导，并鼓励学生与教师密切合作。</p>
     <p><strong>学位、学制和学费：</strong>文学硕士（M.A.）、4个学期</p>
     <p><strong>申请截止时间：</strong>5月 1日（秋季学期），12月1日（春季学期）（申请截止日期每年变更，请查询官网）</p>
     <p><strong>入学要求：</strong> GPA 3.0</p>
     <p><strong>课程链接：</strong><a href="https://catalogs.buffalo.edu/preview_program.php?catoid=2&poid=483&returnto=68" target="_blank">链接</a></p>
 
-<h4 id=" M.S. in Geography，地理学">1.2.3 <a href=https://www.buffalo.edu/grad/programs/geography-ms.html" target="_blank"> M.S. in Geography，地理学</a></h4>
+<h4 id=" M.S. in Geography，地理学">1.2.3 <a href="https://www.buffalo.edu/grad/programs/geography-ms.html" target="_blank"> M.S. in Geography，地理学</a></h4>
     <p><strong>介绍：</strong>地理系提供了一个具有智力挑战性的环境，鼓励调查各种社会、经济和环境现象的“地点”和“原因”。 我们的教师致力于在协作环境中进行教学和指导。 我们提供个性化的指导，并鼓励学生与教师密切合作。</p>
     <p><strong>学位、学制和学费：</strong>理学硕士（M.S.）、4个学期</p>
     <p><strong>申请截止时间：</strong>5月 1日（秋季学期），12月1日（春季学期）（申请截止日期每年变更，请查询官网）</p>
@@ -151,8 +151,10 @@ date : 04-11-2023
    <br>
    <br>
 
-<h2 id=" Department of Anthropology，人类学系">🏫4 <a href=" https://www.buffalo.edu/cas/anthropology.html " target="_blank"> Department of Anthropology，人类学系</a></h2>
-<p><strong>介绍：</strong人类学是对人类过去和现在的研究。 为了理解整个人类历史上文化的全面性和复杂性，人类学借鉴并建立在社会科学、自然科学和人文科学的知识之上。 它是唯一检验并试图理解人类整体的学科。传统上，人类学包含四个基本子领域：考古学、文化人类学、语言学和体质人类学。布法罗大学的人类学包括各个子领域的广泛代表性，并在欧洲考古学、欧洲文化人类学和医学人类学方面具有独特的优势。</p>
+
+  <h2 id=" Department of Anthropology，人类学系">🏫4 <a href=" https://www.buffalo.edu/cas/anthropology.html " target="_blank"> Department of Anthropology，人类学系</a></h2>
+    <p><strong>介绍：</strong>人类学是对人类过去和现在的研究。 为了理解整个人类历史上文化的全面性和复杂性，人类学借鉴并建立在社会科学、自然科学和人文科学的知识之上。 它是唯一检验并试图理解人类整体的学科。传统上，人类学包含四个基本子领域：考古学、文化人类学、语言学和体质人类学。布法罗大学的人类学包括各个子领域的广泛代表性，并在欧洲考古学、欧洲文化人类学和医学人类学方面具有独特的优势。</p>
+
 
 <h3 id="博士项目">🎓4.1 <a href=" https://www.buffalo.edu/cas/anthropology/graduate-program/phd-requirements.html " target="_blank">博士项目</a></h3>
 
@@ -165,7 +167,8 @@ date : 04-11-2023
 
 <h3 id="硕士项目">📖4.2 <a href=" https://www.buffalo.edu/grad/programs/anthropology-ma.html " target="_blank">硕士项目</a></h3>
 <h4 id=" M.A. in Anthropology，人类学硕士">4.2.1 <a href=" https://www.buffalo.edu/grad/programs/anthropology-ma.html " target="_blank"> M.A. in Anthropology，人类学硕士</a></h4>
-    <p><strong>介绍：</strong>人类学系在考古学、文化人类学、医学人类学和体质人类学等子领域提供广泛的研究生学习，旨在为学生提供作为人类学家成功职业生涯所需的关键技能。 子领域的关注可以与其他学科的工作相结合或补充。 从第一年开始，学生将必修课程与根据他们的需求和兴趣量身定制的研究和课程作业结合起来。 我们的设施提供广泛的实验室、办公室、教室和博物馆空间。</p>
+<p><strong>介绍：</strong>人类学系在考古学、文化人类学、医学人类学和体质人类学等子领域提供广泛的研究生学习，旨在为学生提供作为人类学家成功职业生涯所需的关键技能。 子领域的关注可以与其他学科的工作相结合或补充。 从第一年开始，学生将必修课程与根据他们的需求和兴趣量身定制的研究和课程作业结合起来。 我们的设施提供广泛的实验室、办公室、教室和博物馆空间。</p>
+
     <p><strong>学位、学制和学费：</strong>文学硕士（M.A.）、4个学期</p>
     <p><strong>申请截止时间：</strong>3月15日（申请截止日期每年变更，请查询官网）</p>
     <p><strong>入学要求：</strong> GPA 3.0</p>
@@ -183,8 +186,8 @@ date : 04-11-2023
 <br>
 <br>
 
-<h2 id=" Department of Sociology and Criminology ，社会学和犯罪学系">🏫5 <a href=" https://arts-sciences.buffalo.edu/sociology.html " target="_blank"> Department of Sociology and Criminology ，社会学和犯罪学系</a></h2>
-<p><strong>介绍：</strong无论是攻读硕士还是博士学位，我们的研究生都成为独立的研究人员，在社会学理论、研究方法（定性和定量）以及包括家庭和生命历程在内的实质性领域接受全面和先进的培训； 法律和社会政策； 社会不平等； 和城市社会学。 许多研究生通过助教和讲师实践和发展他们的教学技能。 此外，研究生受到教师的密切指导，受益于定期的研讨会和客座演讲者，并在紧密团结的群体中利用同伴支持。</p>
+<h2 id="Department of Sociology and Criminology ，社会学和犯罪学系">🏫5 <a href=" https://arts-sciences.buffalo.edu/sociology.html " target="_blank"> Department of Sociology and Criminology ，社会学和犯罪学系</a></h2>
+<p><strong>介绍：</strong>无论是攻读硕士还是博士学位，我们的研究生都成为独立的研究人员，在社会学理论、研究方法（定性和定量）以及包括家庭和生命历程在内的实质性领域接受全面和先进的培训； 法律和社会政策； 社会不平等； 和城市社会学。 许多研究生通过助教和讲师实践和发展他们的教学技能。 此外，研究生受到教师的密切指导，受益于定期的研讨会和客座演讲者，并在紧密团结的群体中利用同伴支持。</p>
 
 <h3 id="博士项目">🎓5.1 <a href=" https://arts-sciences.buffalo.edu/sociology/graduate/phd.html " target="_blank">博士项目</a></h3>
 
@@ -216,5 +219,4 @@ date : 04-11-2023
 </div>
 <br>
 <br>
-
 
