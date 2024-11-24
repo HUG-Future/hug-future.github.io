@@ -1,6 +1,6 @@
 ---
 title : 中文名，英文名（例如，加利福尼亚大学伯克利分校，University of California, Berkeley (UCB).此括号内备注需删去）
-feed: show
+feed: (show)
 date : 01-01-2024
 ---
 
