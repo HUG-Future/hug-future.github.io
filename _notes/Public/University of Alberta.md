@@ -13,7 +13,7 @@ date: 18-11-2023
 <body>
     <h3>阿尔伯塔省会埃德蒙顿，加拿大</h3>
 
-<h2 id="人类生态学部">🏫4 <a href=" https://www.ualberta.ca/en/human-ecology/index.html " target="_blank">人类生态学部</a></h2>
+<h2 id="人类生态学部">🏫1 <a href=" https://www.ualberta.ca/en/human-ecology/index.html " target="_blank">人类生态学部</a></h2>
 
 <div class="project-box">
          <h3 id="主要教授与研究方向"><a href=" https://www.ualberta.ca/en/human-ecology/people/faculty-and-staff.html " target="_blank">主要教授与研究方向</a></h3>
