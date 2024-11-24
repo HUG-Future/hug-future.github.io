@@ -13,8 +13,8 @@ date : 01-11-2023
 <body>
     <h3>华盛顿州，美国</h3>
 
-    <h2 id="地理学院">🏫1 <a href="https://guide.wisc.edu/graduate/geography/" target="_blank">地理学院</a></h2>
-    <p><strong>介绍：</strong>该学院xxx</p>
+    <h2 id="地理学院">🏫1 <a href="https://geography.wisc.edu/" target="_blank">地理学院</a></h2>
+    <p><strong>介绍：</strong>UWM地理系是全球著名地理学府，在GIS和人文地理领域均具有广大影响力。著名华裔人文地理学者、人文主义地理学（humanistic geography）创始人段义孚先生曾再次任教。</p>
 
 <h3 id="博士项目">🎓1.1 <a href="https://guide.wisc.edu/graduate/geography/geography-phd/" target="_blank">博士项目</a></h3>
 
@@ -27,7 +27,7 @@ date : 01-11-2023
 
   <h3 id="硕士项目">📖1.2 <a href="硕士主页链接" target="_blank">硕士项目</a></h3>
 
-    <h4 id="地理学硕士">1.2.2 <a href="https://guide.wisc.edu/graduate/geography/" target="_blank">地理学硕士</a></h4>
+    <h4 id="地理学硕士">1.2.1 <a href="https://guide.wisc.edu/graduate/geography/" target="_blank">地理学硕士</a></h4>
     <p><strong>介绍：</strong>该项目是地理学领域的领导者，为研究生教育提供特殊的机会。该系一直被评为全国最好的系之一，100 多年来一直是几代地理学家的训练场。该系的优势体现在它吸引顶尖学生、争夺大量研究资金和发表基础学术著作的能力上。该系在学科内的所有子领域都保持着优势，并分为四个主要主题领域：自然地理学和地球系统科学、人与环境、人文地理学和制图学/GIS。</p>
     <p><strong>学位、学制和学费：</strong>硕士</p>
     <p><strong>申请截止时间：</strong>2024年10月5日（申请截止日期每年变更，请查询官网）</p>
@@ -46,7 +46,7 @@ date : 01-11-2023
     <br>
 
     <h2 id="规划与景观建筑系">🏫2 <a href="https://guide.wisc.edu/graduate/planning-landscape-architecture/" target="_blank">规划与景观建筑系</a></h2>
-    <p><strong>介绍：</strong>该学院xxx</p>
+    <p><strong>介绍：</strong>城市和区域规划以及景观建筑领域正在重新形成强大的学科联盟，围绕土地使用、社区食品系统、公共卫生和福利、社会正义、环境保护和恢复、社区和经济发展以及它们与增长、发展、空间和社会变革的交集等共同利益。这两个专业都强调社会和生物物理系统在多个层面上的可持续性和弹性。两者都让政府官员、非营利组织、私营企业和公民参与特定地点的社区、市政、区域、州、国家甚至国际层面的规划、设计、政策、开发和实施项目。这两个学科的学术基础都借鉴并整合了社会科学、生物/物理科学、人文科学和艺术，用于应用研究和实践。随着全球人口的增长以及由此产生的社会和环境问题的复杂性，可持续、健康和公平社区的规划和设计的重要性只会增加。在 PLA，这些领域回归到公共卫生、福利和生态改善的早期起源，通过整合规划、设计、社区发展和公共政策，满足城市、郊区、远郊和农村地区人们的不同需求。面对全球变化，我们的部门致力于成为健康和人类福祉的倡导者和领导者，同时保护、恢复和保护我们的自然环境。</p>
 
 <h3 id="博士项目">🎓2.1 <a href="https://guide.wisc.edu/graduate/planning-landscape-architecture/urban-regional-planning-phd/" target="_blank">博士项目</a></h3>
 
