@@ -1,7 +1,7 @@
 ---
 title : 伦敦政治经济学院，London School of Economics and Political Science
 feed: show
-date : 10-17-2023
+date : 17-10-2023
 ---
 
 <html lang="zh">
