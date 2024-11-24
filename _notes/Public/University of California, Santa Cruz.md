@@ -46,7 +46,7 @@ date: 20-11-2023
     <br>
     <br>
 
-<h2 id="社会学系">🏫4 <a href="https://sociology.ucsc.edu/about/contact.html" target="_blank">社会学系</a></h2>
+<h2 id="社会学系">🏫2 <a href="https://sociology.ucsc.edu/about/contact.html" target="_blank">社会学系</a></h2>
 
 <div class="project-box">
          <h3 id="主要教授与研究方向"><a href="https://sociology.ucsc.edu/about/directory-faculty.php" target="_blank">主要教授与研究方向</a></h3>
@@ -61,7 +61,7 @@ date: 20-11-2023
 <br>
 <br>
 
-<h2 id="政治学系">🏫5 <a href=" https://politics.ucsc.edu/about/index.html " target="_blank">政治学系</a></h2>
+<h2 id="政治学系">🏫3 <a href=" https://politics.ucsc.edu/about/index.html " target="_blank">政治学系</a></h2>
 
 <div class="project-box">
          <h3 id="主要教授与研究方向"><a href="https://politics.ucsc.edu/faculty/index.php" target="_blank">主要教授与研究方向</a></h3>
