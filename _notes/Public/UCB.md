@@ -120,44 +120,5 @@ date : 09-01-2024
         <p><strong> Carolina Reid：</strong>住房、社区发展、城市贫困与不平等、社区再投资法、信贷获取与房屋所有权。</p>
         <p><strong> Daniel Rodríguez：</strong>交通政策与规划以及环境规划与健康城市。</p>
         </div>
-<br>
-    <br>
-
-
-  <h2 id="其他人文社科院系1">🏫4 <a href=" https://ced.berkeley.edu/city " target="_blank">其他人文社科院系1</a></h2>
-
-    <div class="project-box">
-       <h3 id="主要教授与研究方向"><a href="https://ourenvironment.berkeley.edu/people/faculty-specialists" target="_blank">主要教授与研究方向</a></h3>
-        <p><strong> Daniel G. Chatman：</strong>土地利用与发展政策；公共交通服务；美国移民的出行模式与居住选择。</p>
-        <p><strong> Charisma Acey：</strong>美国和发展中国家的可持续城市化；环境正义；环境行为与治理；水和卫生基础设施；食品系统规划与粮食安全；减贫与基本服务获取的政治经济学；社会公平与参与式决策；公众参与GIS与空间分析。</p>
-        <p><strong> Carolina Reid：</strong>住房、社区发展、城市贫困与不平等、社区再投资法、信贷获取与房屋所有权。</p>
-        <p><strong> Daniel Rodríguez：</strong>交通政策与规划以及环境规划与健康城市。</p>
-        </div>
-<br>
-    <br>
-
-
-  <h2 id="其他人文社科院系2">🏫5 <a href=" https://ced.berkeley.edu/city " target="_blank">其他人文社科院系2</a></h2>
-
-    <div class="project-box">
-       <h3 id="主要教授与研究方向"><a href="https://ourenvironment.berkeley.edu/people/faculty-specialists" target="_blank">主要教授与研究方向</a></h3>
-        <p><strong> Daniel G. Chatman：</strong>土地利用与发展政策；公共交通服务；美国移民的出行模式与居住选择。</p>
-        <p><strong> Charisma Acey：</strong>美国和发展中国家的可持续城市化；环境正义；环境行为与治理；水和卫生基础设施；食品系统规划与粮食安全；减贫与基本服务获取的政治经济学；社会公平与参与式决策；公众参与GIS与空间分析。</p>
-        <p><strong> Carolina Reid：</strong>住房、社区发展、城市贫困与不平等、社区再投资法、信贷获取与房屋所有权。</p>
-        <p><strong> Daniel Rodríguez：</strong>交通政策与规划以及环境规划与健康城市。</p>
-        </div>
-<br>
-    <br>
-
-  <h2 id="其他人文社科院系3">🏫6 <a href=" https://ced.berkeley.edu/city " target="_blank">其他人文社科院系3</a></h2>
-
-    <div class="project-box">
-       <h3 id="主要教授与研究方向"><a href="https://ourenvironment.berkeley.edu/people/faculty-specialists" target="_blank">主要教授与研究方向</a></h3>
-        <p><strong> Daniel G. Chatman：</strong>土地利用与发展政策；公共交通服务；美国移民的出行模式与居住选择。</p>
-        <p><strong> Charisma Acey：</strong>美国和发展中国家的可持续城市化；环境正义；环境行为与治理；水和卫生基础设施；食品系统规划与粮食安全；减贫与基本服务获取的政治经济学；社会公平与参与式决策；公众参与GIS与空间分析。</p>
-        <p><strong> Carolina Reid：</strong>住房、社区发展、城市贫困与不平等、社区再投资法、信贷获取与房屋所有权。</p>
-        <p><strong> Daniel Rodríguez：</strong>交通政策与规划以及环境规划与健康城市。</p>
-        </div>
-
 </body>
 </html>
