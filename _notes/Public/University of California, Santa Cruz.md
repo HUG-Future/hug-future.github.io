@@ -50,7 +50,6 @@ date: 20-11-2023
 
 <div class="project-box">
          <h3 id="主要教授与研究方向"><a href="https://sociology.ucsc.edu/about/directory-faculty.php" target="_blank">主要教授与研究方向</a></h3>
-<p><strong> l：</strong>该教授xxx</p>
         <p><strong> Hiroshi Fukurai：</strong>城市研究、劳工与社会运动、社会学、环境正义、全球化、社区研究、科学与技术、社会正义、发展政治经济学、行动主义</p>
         <p><strong> Deborah Gould：</strong>社会学、法律研究、国际与全球事务、种族、批判种族与民族研究、土著人民、法律与政策、歧视与不平等、统计学</p>
         <p><strong> Julie H Guthman：</strong>农业生态学和农业，食品/营养，资本主义，加州历史，环境研究</p>
