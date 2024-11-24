@@ -14,7 +14,7 @@ date : 01-11-2023
     <h3>华盛顿州，美国</h3>
 
     <h2 id="地理学院">🏫1 <a href="https://geography.wisc.edu/" target="_blank">地理学院</a></h2>
-    <p><strong>介绍：</strong>UWM地理系是全球著名地理学府，在GIS和人文地理领域均具有广大影响力。著名华裔人文地理学者、人文主义地理学（humanistic geography）创始人段义孚先生曾再次任教。</p>
+    <p><strong>介绍：</strong>UWM地理系是全球著名地理学府，在GIS和人文地理领域均具有广大影响力。著名华裔人文地理学者、人文主义地理学（humanistic geography）创始人段义孚先生曾在此任教。</p>
 
 <h3 id="博士项目">🎓1.1 <a href="https://guide.wisc.edu/graduate/geography/geography-phd/" target="_blank">博士项目</a></h3>
 
