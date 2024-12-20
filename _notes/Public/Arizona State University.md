@@ -75,7 +75,6 @@ date: 08-11-2023
 <p><strong> Breandan O hUallachain：</strong>Economics, Industrial Location, Urban and Regional Economic Development</p>
 <p><strong> Deirdre Pfeiffer：</strong>Housing, Health, Social Equity, Community Wellbeing and Engagement, Mixed Methods</p>
 <p><strong> Jose-Benito Rosales Chavez：</strong>Food Environment, Community Development, Food Access, Dietary Behavior, Dietary Intake, Health Outcomes, Maternal and Child Health</p>
-<p><strong>Prof.15：</strong>: Transportation and Land Use, Urban Economics, Climate Policy</p>
 <p><strong> B.L. Turner：</strong>Human-Environment Relationships, Land Systems Science, Sustainability, Urban Sustainability, Tropical Forests, Ancient Maya</p>
 <p><strong> Jennifer Vanos：</strong>Human Biometeorology, Heat and Air Pollution, Bioclimatic Urban Design, Thermal Comfort, Children’s Health</p>
 <p><strong> Elizabeth Wentz：</strong>Shape and Pattern Analysis, Geographic Information Science, GIS in Urban Environments, Urban Remote Sensing, Water Resource Management</p>
