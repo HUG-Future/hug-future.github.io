@@ -64,7 +64,7 @@ date: 11-01-2024
     <h2 id="CENTRE FOR SUSTAINABILITY STUDIES，可持续发展研究中心">🏫1 <a href="https://www.lucsus.lu.se/" target="_blank">CENTRE FOR SUSTAINABILITY STUDIES，可持续发展研究中心</a></h2>
     <p><strong>介绍：</strong>Lund University Centre for Sustainability Studies (LUCSUS) is a world class sustainability centre for research, teaching and impact where we work to understand, explain, and catalyse social change and transformations in relation to material limits in the biosphere.</p>
 
-<h3 id="博士项目">🎓1.1 <a href="https://www.lucsus.lu.se/research/phd-programme" target="_blank">博士项目</a></h3>
+<h3 id="博士项目">🎓2.1 <a href="https://www.lucsus.lu.se/research/phd-programme" target="_blank">博士项目</a></h3>
 
 <h3 id="硕士项目">📖2.2 <a href=" https://www.lucsus.lu.se/"_blank">硕士项目</a></h3>
 
@@ -75,8 +75,6 @@ date: 11-01-2024
 <p><strong>入学要求：</strong>To be admitted to the programme, the student must hold a Bachelor’s degree corresponding to at least 180 ECTS. Proficiency in spoken and written English, equivalent to English 6/B in the Swedish upper secondary school system, is required. Recognition of qualifications is carried out in accordance with national guidelines.</p>
 <p><strong>课程链接：</strong><a href="项目网页链接" target="_blank">链接</a></p>
 
-    <br>
-    <br>
 
   <h2 id=" Department of Physical Geography and Ecosystem Science，自然地理与生态系统科学系">🏫3 <a href="https://www.nateko.lu.se/department-physical-geography-and-ecosystem-science" target="_blank Department of Physical Geography and Ecosystem Science，自然地理与生态系统科学系</a></h2>
     <p><strong>介绍：</strong> The Department of Physical Geography and Ecosystem Science at Lund University is dedicated to interdisciplinary studies of environmental and climate systems in local and global perspectives. We are also strong in Geographical Information Science. Our education offers the overview of how the Earth, the climate and ecosystems interact, as well as the aspect of society, and important tools for environmental management and rural and urban planning.</p>
@@ -115,7 +113,7 @@ date: 11-01-2024
 
     <br>
     <div class="project-box">
-         <h3 id="主要教授与研究方向"><a href="faculty链接" target="_blank">主要教授与研究方向</a></h3>
+         <h3 id="主要教授与研究方向"><a href=" https://portal.research.lu.se/en/organisations/dept-of-physical-geography-and-ecosystem-science/persons/ " target="_blank">主要教授与研究方向</a></h3>
 <p><strong>Prof.1：</strong>Zhendong Wu: My research applies a dynamic global vegetation model (LPJ-GUESS) to investigate questions related to the terrestrial carbon cycle as it responds to climate change, CO2 fertilization, and disturbance. I work with climate data and Carbon data from remote sensing, observations, and model simulation to quantify model uncertainty and improve model performance via model-data fusion. <a href="https://www.nateko.lu.se/zhendong-wu" target="_blank">Link</a></p>
 
 <p><strong>Prof.2：</strong>Veiko Lehsten: Biodiversity and Ecosystem services in a Changing Climate.</p>
@@ -137,12 +135,12 @@ date: 11-01-2024
 
 <p><strong>介绍：</strong> The School of Architecture produces creative architects with the ability to identify and address problems within the field of architecture and built environment.</p>
 
-<h3 id="博士项目">🎓3.1 <a href="https://www.lunduniversity.lu.se/vacancies " target="_blank">博士项目</a></h3>
+<h3 id="博士项目">🎓4.1 <a href="https://www.lunduniversity.lu.se/vacancies " target="_blank">博士项目</a></h3>
 
 
-<h3 id="硕士项目">📖3.2 <a href="硕士主页链接" target="_blank">硕士项目</a></h3>
+<h3 id="硕士项目">📖4.2 <a href="硕士主页链接" target="_blank">硕士项目</a></h3>
 
-<h4 id="Sustainable Urban Design - Master's Programme">3.2.1 <a href="https://www.lunduniversity.lu.se/lubas/i-uoh-lu-TASUD#apply" target="_blank">Sustainable Urban Design - Master's Programme</a></h4>
+<h4 id="Sustainable Urban Design - Master's Programme">4.2.1 <a href="https://www.lunduniversity.lu.se/lubas/i-uoh-lu-TASUD#apply" target="_blank">Sustainable Urban Design - Master's Programme</a></h4>
 <p><strong>介绍：</strong>The Master’s Programme in Sustainable Urban Design at the School of Architecture has a globally well-established reputation for developing humanistic urban design that promotes liveability, community building and social sustainability. Drawing on best practices and advanced research, the programme produces highly skilled professionals capable of meeting the challenges of sustainable urban design. This as productive, successful individuals who are creative, insightful and intellectually skilled in their approach to the profession and their practice.</p>
 <p><strong>学位、学制和学费：</strong>2年全日制硕士学位，总共SEK 490 000</p>
 <p><strong>申请截止时间：</strong>春季开学截止时间一般为去年8月15，秋季开学截止时间一般为1月15。</p>
@@ -151,7 +149,7 @@ date: 11-01-2024
 <br>
 <br>
 
-<h2 id="SCHOOL OF ECONOMICS AND MANAGEMENT，经济管理学院">🏫4 <a href="https://www.lusem.lu.se/start-en" target="_blank">SCHOOL OF ECONOMICS AND MANAGEMENT，经济管理学院</a></h2>
+<h2 id="SCHOOL OF ECONOMICS AND MANAGEMENT，经济管理学院">🏫5 <a href="https://www.lusem.lu.se/start-en" target="_blank">SCHOOL OF ECONOMICS AND MANAGEMENT，经济管理学院</a></h2>
 
 <div class="project-box">
          <h3 id="主要教授与研究方向"><a href="faculty链接" target="_blank">主要教授与研究方向</a></h3>
@@ -161,7 +159,7 @@ date: 11-01-2024
 <br>
 <br>
 
-<h2 id=" The International Institute for Industrial Environmental Economics，国际工业环境经济学研究所">🏫4 <a href="https://www.iiiee.lu.se/international-institute-industrial-environmental-economics"> The International Institute for Industrial Environmental Economics，国际工业环境经济学研究所</a></h2>
+<h2 id=" The International Institute for Industrial Environmental Economics，国际工业环境经济学研究所">🏫6 <a href="https://www.iiiee.lu.se/international-institute-industrial-environmental-economics"> The International Institute for Industrial Environmental Economics，国际工业环境经济学研究所</a></h2>
 
 <div class="project-box">
          <h3 id="主要教授与研究方向"><a href="faculty链接" target="_blank">主要教授与研究方向</a></h3>
@@ -171,4 +169,3 @@ date: 11-01-2024
 
 <br>
 <br>
-
