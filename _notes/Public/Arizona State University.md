@@ -61,28 +61,27 @@ date: 08-11-2023
     <br>
     <div class="project-box">
          <h3 id="主要教授与研究方向"><a href="faculty链接" target="_blank">主要教授与研究方向</a></h3>
-<p><strong>Prof.1：</strong> Greg Asner: Land Use, Biodiversity, Coral Reefs, Climate Change, Remote Sensing, Communities, Hawaii</p>
-<p><strong>Prof.2：</strong> Robert Balling: Climatology, Global Climate Change, GIS</p>
-<p><strong>Prof.3：</strong> Randall Cerveny: Climatology</p>
-<p><strong>Prof.4：</strong> Dylan Connor: Computational Social Science, Geography, Inequality, Population History, Sustainability</p>
-<p><strong>Prof.5：</strong> Ronald Dorn: Geomorphology, Rock Art Preservation, Rock Art Analysis, Quantification of Mineral Weathering, Geography, Geography Education, Tyranny of the Majority in Science, Rock Coating</p>
-<p><strong>Prof.6：</strong> Meagan Ehlenz: Community Development, Pillar Institutions, Urban Revitalization, Community Wealth Building, Shared Equity Models</p>
-<p><strong>Prof.7：</strong> Wei Li: Immigration and Integration, Racial/Ethnic Geography, Urban Ethnic Comparisons, Asian American Community Development, Ethnic Finance, High-Skill International Migration, Transnational Connections</p>
-<p><strong>Prof.8：</strong> Hue-Tam Jamme: Mobility, Mobility Transitions, Transit-Oriented Development, Digital Economy, Urbanism</p>
-<p><strong>Prof.9：</strong> Kelli Larson: Human-Environment Interaction, Risk Perception and Policy Attitudes, Landscape Preferences and Practices, Urban Ecology and Sustainability, Environmental Geography and Governance</p>
-<p><strong>Prof.10：</strong> WenWen Li: Geographic Information Science and Remote Sensing, Geospatial Network Infrastructure, Big Data, Semantic Interoperability, Spatiotemporal Data Mining and Environmental Applications, Geospatial Semantic Search, Distributed Geospatial Information Processing</p>
-<p><strong>Prof.11：</strong> Sara Meerow: Urban Resilience, Climate Change Adaptation, Green Infrastructure Planning, Urban Climate Change Governance, Urban Infrastructure Planning</p>
-<p><strong>Prof.12：</strong> Breandan O hUallachain: Economics, Industrial Location, Urban and Regional Economic Development</p>
-<p><strong>Prof.13：</strong> Deirdre Pfeiffer: Housing, Health, Social Equity, Community Wellbeing and Engagement, Mixed Methods</p>
-<p><strong>Prof.14：</strong> Jose-Benito Rosales Chavez: Food Environment, Community Development, Food Access, Dietary Behavior, Dietary Intake, Health Outcomes, Maternal and Child Health</p>
-<p><strong>Prof.15：</strong> Deborah Salon: Transportation and Land Use, Urban Economics, Climate Policy</p>
-<p><strong>Prof.16：</strong> B.L. Turner: Human-Environment Relationships, Land Systems Science, Sustainability, Urban Sustainability, Tropical Forests, Ancient Maya</p>
-<p><strong>Prof.17：</strong> Jennifer Vanos: Human Biometeorology, Heat and Air Pollution, Bioclimatic Urban Design, Thermal Comfort, Children’s Health</p>
-<p><strong>Prof.18：</strong> Elizabeth Wentz: Shape and Pattern Analysis, Geographic Information Science, GIS in Urban Environments, Urban Remote Sensing, Water Resource Management</p>
+<p><strong> Greg Asner：</strong>Land Use, Biodiversity, Coral Reefs, Climate Change, Remote Sensing, Communities, Hawaii</p>
+<p><strong> Robert Balling：</strong>Climatology, Global Climate Change, GIS</p>
+<p><strong> Randall Cerveny：</strong>Climatology</p>
+<p><strong> Dylan Connor：</strong>Computational Social Science, Geography, Inequality, Population History, Sustainability</p>
+<p><strong> Ronald Dorn：</strong>Geomorphology, Rock Art Preservation, Rock Art Analysis, Quantification of Mineral Weathering, Geography, Geography Education, Tyranny of the Majority in Science, Rock Coating</p>
+<p><strong> Meagan Ehlenz：</strong>Community Development, Pillar Institutions, Urban Revitalization, Community Wealth Building, Shared Equity Models</p>
+<p><strong> Wei Li：</strong>Immigration and Integration, Racial/Ethnic Geography, Urban Ethnic Comparisons, Asian American Community Development, Ethnic Finance, High-Skill International Migration, Transnational Connections</p>
+<p><strong> Hue-Tam Jamme：</strong>Mobility, Mobility Transitions, Transit-Oriented Development, Digital Economy, Urbanism</p>
+<p><strong> Kelli Larson：</strong>Human-Environment Interaction, Risk Perception and Policy Attitudes, Landscape Preferences and Practices, Urban Ecology and Sustainability, Environmental Geography and Governance</p>
+<p><strong> WenWen Li：</strong>Geographic Information Science and Remote Sensing, Geospatial Network Infrastructure, Big Data, Semantic Interoperability, Spatiotemporal Data Mining and Environmental Applications, Geospatial Semantic Search, Distributed Geospatial Information Processing</p>
+<p><strong> Sara Meerow：</strong>Urban Resilience, Climate Change Adaptation, Green Infrastructure Planning, Urban Climate Change Governance, Urban Infrastructure Planning</p>
+<p><strong> Breandan O hUallachain：</strong>Economics, Industrial Location, Urban and Regional Economic Development</p>
+<p><strong> Deirdre Pfeiffer：</strong>Housing, Health, Social Equity, Community Wellbeing and Engagement, Mixed Methods</p>
+<p><strong> Jose-Benito Rosales Chavez：</strong>Food Environment, Community Development, Food Access, Dietary Behavior, Dietary Intake, Health Outcomes, Maternal and Child Health</p>
+<p><strong>Prof.15：</strong>: Transportation and Land Use, Urban Economics, Climate Policy</p>
+<p><strong> B.L. Turner：</strong>Human-Environment Relationships, Land Systems Science, Sustainability, Urban Sustainability, Tropical Forests, Ancient Maya</p>
+<p><strong> Jennifer Vanos：</strong>Human Biometeorology, Heat and Air Pollution, Bioclimatic Urban Design, Thermal Comfort, Children’s Health</p>
+<p><strong> Elizabeth Wentz：</strong>Shape and Pattern Analysis, Geographic Information Science, GIS in Urban Environments, Urban Remote Sensing, Water Resource Management</p>
     </div>
     <br>
     <br>
-
 
 
 
