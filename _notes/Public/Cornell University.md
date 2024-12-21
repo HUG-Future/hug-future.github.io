@@ -13,7 +13,7 @@ date: 23-12-2023
 <body>
 <h3>纽约州 伊萨卡，美国</h3>
 
-    <h2 id=" Department of Earth and Atmospheric Sciences，地球与大气科学系">🏫1 <a href=" https://www.eas.cornell.edu/eas" target="_blank">Department of Earth and Atmospheric Sciences，地球与大气科学系</a></h2>
+    <h2 id="Department of Earth and Atmospheric Sciences，地球与大气科学系">🏫1 <a href=" https://www.eas.cornell.edu/eas" target="_blank">Department of Earth and Atmospheric Sciences，地球与大气科学系</a></h2>
 <p><strong>介绍：</strong> In Earth and Atmospheric Sciences, we are advancing fundamental research to understand human impacts on our planet and provide technologies and solutions for the future. We foster leaders in science that will go on to solve some of the biggest challenges of the 21st century. 在地球与大气科学领域，我们致力于推动基础研究，以了解人类对地球的影响，并提供未来的技术和解决方案。我们培养科学领域的领导者，帮助他们解决21世纪的一些重大挑战。</p>
 
 <h3 id="博士项目">🎓1.1 <a href=" https://www.eas.cornell.edu/eas/programs/graduate-programs/geological-sciences-graduate-program/ms-and-phd-programs-geological" target="_blank">博士项目</a> 或 <a href=" https://www.eas.cornell.edu/eas/programs/graduate-programs/geological-sciences-graduate-program/ms-and-phd-programs-geological" target="_blank">更多信息</a></h3>
