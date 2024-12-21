@@ -44,7 +44,7 @@ date: 08-12-2023
 <p><strong>入学要求：</strong>Meeting our academic requirements does not guarantee entry. You must demonstrate an ability to research independently, and possess a high level of theoretical understanding. Acceptance is subject to staff availability for supervision, and appropriate resources and facilities. You must write an initial statement of research intent to demonstrate your research capability and experience. All students must meet our English-language requirements as a condition of entry. GPE score greater than 6, IELTS score above 6.5, with no band lower than 6.</p>
 
 
-<h4 id="Urban-spaces-social-lives">1.1.1 <a href="https://www.auckland.ac.nz/en/science/about-the-faculty/school-of-environment/environment-research/urban-spaces-social-lives.html" target="_blank">Urban spaces and social lives，城市空间与社会生活</a></h4>
+<h4 id="Urban-spaces-social-lives">1.1.5 <a href="https://www.auckland.ac.nz/en/science/about-the-faculty/school-of-environment/environment-research/urban-spaces-social-lives.html" target="_blank">Urban spaces and social lives，城市空间与社会生活</a></h4>
 <p><strong>介绍：</strong>We consider the many lived experiences of social spaces, inequality and social difference (race, class, gender, age, sexuality), and the potential for progressive change in the worlds we inhabit. Our investigations also study the social experiences of a range of more-than-urban spaces and processes; from households to asylums, migration, post-disaster, and cultural diversity. We draw on ideas and approaches from geography and the broader social sciences to ask what creates the intersection and divergence of the urban and the social in analytical, practical and political terms. More detailed research topics are available on the website.</p>
 <p><strong>学位、学制和学费：</strong>3-4年博士学位，NZ7659.6*一年</p>
 <p><strong>申请截止时间：</strong>无</p>
@@ -181,9 +181,9 @@ date: 08-12-2023
 <p><strong>介绍：</strong> The Faculty of Arts is the home of the humanities, social sciences, languages, and indigenous studies at the University of Auckland.</p>\
 
 
-<h3 id="硕士项目">📖3.2 <a href=" https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-public-policy-mpp.html" target="_blank">硕士项目</a></h3>
+<h3 id="硕士项目">📖4.2 <a href=" https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-public-policy-mpp.html" target="_blank">硕士项目</a></h3>
 
-<h4 id="Master of Public Policy">1.2.1 <a href="https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-public-policy-mpp.html" target="_blank">Master of Public Policy</a></h4>
+<h4 id="Master of Public Policy">4.2.1 <a href="https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-public-policy-mpp.html" target="_blank">Master of Public Policy</a></h4>
 <p><strong>介绍：</strong>The MPP develops your expertise in the core principles, concepts and methods of public policy research and analysis, and advances your skills in solving public policy problems. You can connect theory with practice by studying the nature of policy, policy design and the policy process, and engaging in policy analysis and development. You’ll be able to follow your own interests through research and elective courses. You can apply to enrol in our internship course for hands-on experience in policy. Study this programme online. The Master of Public Policy is also available through Auckland Online. This will allow you to complete the programme in three years part-time through a set of fully online courses. Learn about the Master of Public Policy Online.</p>
 <p><strong>学位、学制和学费：</strong>全日制硕士学位和文凭，1年或者2年。</p>
 <p><strong>申请截止时间：</strong>2025年第一学期（3月3日），申请截止时间2024年12月8日。</p>
@@ -198,7 +198,6 @@ date: 08-12-2023
 </div>
 <br>
 <br>
-
 
 
 
