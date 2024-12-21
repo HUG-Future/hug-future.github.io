@@ -48,10 +48,8 @@ date: 23-11-2023
 <p><strong>入学要求：</strong>3推荐信；Statement of Purpose (1000-2000 words)；Resume；国际生需提供additional documents</p>
 
 
-
-    <br>
-    <div class="project-box">
-    <h3 id="主要教授与研究方向"><a href="#" target="_blank">主要教授与研究方向</a></h3>
+<div class="project-box">
+         <h3 id="主要教授与研究方向"><a href=" https://arch.umd.edu/programs/phd/phd-people/phd-faculty-staff " target="_blank">主要教授与研究方向</a></h3> 
     <p><strong> Matthew Bell, FAIA：</strong>Washington/Baltimore region; density and the urban block; architecture and urban design of cities after catastrophic events.</p>
     <p><strong> Ariel Bierbaum：</strong>Urban studies, planning, and public education.</p>
     <p><strong> Juan Burke：</strong>History and theory of architecture and urbanism from the sixteenth century to the present, emphasizing Latin America—particularly Mexico—and connections to Spain, Italy, and North America.</p>
@@ -78,8 +76,8 @@ date: 23-11-2023
     <p><strong> Delaney M. West：</strong>Architectural history, preservation, and urban heritage.</p>
     <p><strong> Joseph Williams：</strong>Urban design, landscape architecture, and ecological planning.</p>
 </div>
-<br>
-    <br>
+</body>
+</html>
 
 
 
