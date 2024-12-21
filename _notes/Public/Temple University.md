@@ -13,7 +13,7 @@ date: 22-01-2024
 <body>
 <h3>宾夕法尼亚，费城，美国</h3>
 
-    <h2 id="泰勒艺术与建筑学院">🏫1 <a href=" https://liberalarts.temple.edu/academics/departments-and-programs/geography-environment-and-urban-studies" target="_blank">泰勒艺术与建筑学院</a></h2>
+    <h2 id="地理、环境与城市研究系">🏫1 <a href=" https://liberalarts.temple.edu/academics/departments-and-programs/geography-environment-and-urban-studies " target="_blank">地理、环境与城市研究系</a></h2>
 <p><strong>介绍：</strong> 地理、环境和城市研究专业的学生将具备必要的知识和方法工具，以理解和解决各种环境、经济、社会和政治挑战，这些挑战对城市化世界中数十亿人的福祉至关重要。地理学是研究人、地点和环境之间相互作用的学科。城市研究是对都市生活、过程和问题的研究。从贫困到环境质量，不同的过程在城市空间中是如何变化的?地点对社区和居住在其中的人们有多重要?全球进程如何影响城市、社区和居民?我们的课程侧重于使用一系列地理方法进行社会变革的教学和研究。我们提供地理学和城市研究的学士、硕士和博士学位。这些课程结合了跨学科课程、强大的研究技能和技术培训，为学生解决全球化、可持续性和社会正义等紧迫问题做好准备。我们的学生毕业后在非营利组织、政府和私营部门找到了有竞争力、有意义的工作。</p>
 
 <h3 id="博士项目">🎓1.1 <a href="https://www.temple.edu/academics/degree-programs/?degree-level-ui=gr&degree-level-negate[0]=14&degree-level-negate[1]=84&degree-search=doctor" target="_blank">博士项目</a> 或 <a href="https://www.temple.edu/academics/degree-programs/?degree-level-ui=gr&degree-level-negate[0]=14&degree-level-negate[1]=84&degree-search=doctor" target="_blank">更多信息</a></h3>
@@ -76,9 +76,7 @@ date: 22-01-2024
     <br>
 
 
-
-
-    <h2 id="泰勒艺术与建筑学院">2 <a href=" https://tyler.temple.edu/" target="_blank">泰勒艺术与建筑学院</a></h2>
+    <h2 id="泰勒艺术与建筑学院">🏫2 <a href=" https://liberalarts.temple.edu/academics/departments-and-programs/geography-environment-and-urban-studies " target="_blank">泰勒艺术与建筑学院</a></h2>
     <p><strong>介绍：</strong> 泰勒艺术与建筑学院是一个大胆的思想家和制造者的小社区，也是全国领先的艺术、设计和建筑环境研究学院之一。我们来自不同的实践、文化和背景，通过学习而改变的共同经历激励着我们，并将我们联系在一起。坦普尔大学是费城的一所大型公立研究型大学，是一座充满文化活力的城市和城市实验室，致力于解决一些社会最紧迫的挑战，是艺术家、设计师、建筑师、教育工作者、研究人员和规划师的理想场所。80多年来，泰勒一直在培养毕业生，他们的独创性，坚韧和对社会公益的承诺在一个需要有远见的思想家和熟练的实践者的世界上留下了自己的印记。</p>
 
 <h3 id="博士项目">🎓2.1 <a href=" https://www.temple.edu/academics/degree-programs/?degree-level-ui=gr&degree-level-negate[0]=14&degree-level-negate[1]=84&degree-search=doctor " target="_blank">博士项目</a></h3>
@@ -122,16 +120,14 @@ date: 22-01-2024
     <br>
 
 
+    <h2 id="经济系">🏫3 <a href=" https://liberalarts.temple.edu/academics/departments-and-programs/economics " target="_blank">经济系</a></h2>
 
-    <h2 id=" Department of economics，经济系">3 <a href="https://liberalarts.temple.edu/academics/departments-and-programs/economics" target="_blank"> Department of economics，经济系</a></h2>
+    <h2 id="社会学系">🏫4 <a href=" https://liberalarts.temple.edu/departments-and-programs/sociology " target="_blank">社会学系</a></h2>
 
-    <h2 id=" Department of Sociology，社会学系">4 <a href="https://liberalarts.temple.edu/departments-and-programs/sociology" target="_blank"> Department of Sociology，社会学系</a></h2>
+    <h2 id="公共健康学院">🏫5 <a href=" http://cph.temple.edu/" target="_blank">公共健康学院</a></h2>
 
-    <h2 id=" College of Public Health，公共健康学院">5 <a href=" http://cph.temple.edu/" target="_blank"> College of Public Health，公共健康学院</a></h2>
+    <h2 id="社会工作系">🏫6 <a href=" https://cph.temple.edu/departments-research/departments/school-social-work " target="_blank">社会工作系</a></h2>
 
-    <h2 id=" School of Social Work，社会工作系">6 <a href="https://cph.temple.edu/departments-research/departments/school-social-work" target="_blank"> School of Social Work，社会工作系</a></h2>
-
-    <h2 id=" School of Sport, Tourism and Hospitality Management，体育、旅游与酒店管理学院">2 <a href= http://sthm.temple.edu/" target="_blank"> School of Sport, Tourism and Hospitality Management，体育、旅游与酒店管理学院</a></h2>
-
+    <h2 id="体育、旅游与酒店管理学院">🏫7 <a href=" http://sthm.temple.edu/" target="_blank">体育、旅游与酒店管理学院</a></h2>
 
 
