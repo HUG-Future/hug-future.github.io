@@ -46,7 +46,7 @@ date: 23-12-2023
 
 
 
-    <h2 id=" The Department of Natural Resources and the Environment、自然资源与环境系">🏫2 <a href=" https://cals.cornell.edu/natural-resources-environment " target="_blank"> The Department of Natural Resources and the Environment、自然资源与环境系</a></h2>
+<h2 id="The Department of Natural Resources and the Environment、自然资源与环境系">🏫2 <a href=" https://cals.cornell.edu/natural-resources-environment " target="_blank">The Department of Natural Resources and the Environment、自然资源与环境系</a></h2>
     <p><strong>介绍：</strong> The Department of Natural Resources and the Environment is a world leader in scholarship addressing social and ecological dimensions of natural resources and the environment to improve environmental sustainability, promote the well-being of communities, and ensure access to sustainable energy and environmental resources. 自然资源与环境系在学术研究方面居于世界领先地位，致力于解决自然资源和环境的社会及生态层面的问题，以改善环境可持续性、促进社区福祉，并确保可持续能源和环境资源的获取。</p>
 
 <h3 id="博士项目">🎓2.1 <a href=" https://gradschool.cornell.edu/" target="_blank">博士项目</a></h3>
@@ -98,7 +98,7 @@ date: 23-12-2023
 
 <h3 id="硕士项目">📖3.2 <a href=" " target="_blank">硕士项目</a></h3>
 
-<h4 id="Master of Regional Planning">1.1.7 <a href="https://aap.cornell.edu/academics/crp/graduate/planning/mrp#open-sec-0" target="_blank">Master of Regional Planning</a></h4>
+<h4 id="Master of Regional Planning">3.2.1 <a href="https://aap.cornell.edu/academics/crp/graduate/planning/mrp#open-sec-0" target="_blank">Master of Regional Planning</a></h4>
 <p><strong>介绍：</strong>该区域规划硕士项目是一个多层面、跨学科的课程，旨在培养新一代变革者，致力于建设更加公正、包容、可持续且充满活力的城市与社区。在CRP，我们相信规划师和城市学者有能力且应当应对当今世界最复杂和紧迫的挑战——从去碳化和气候适应，到无障碍设施和住房，再到公平的治理和政策制定——并携手创造适合各代人和多元身份群体的繁荣、健康的生活空间。CRP在国内外享有声誉的教师团队专注于空间、社会、经济和政策分析，提出涵盖住房、土地利用、环境、交通、历史保护、健康和城市设计的综合解决方案。我们的全球课堂让学生无论身处何地都能成为变革的推动者。</p>
 <p><strong>学位、学制和学费：</strong>M.R.P，两年，$44,768/年</p>
 <p><strong>申请截止时间：</strong>1月10日</p>
@@ -106,7 +106,7 @@ date: 23-12-2023
 <p><a href="https://courses.cornell.edu/preview_program.php?catoid=55&poid=28882" target="_blank">课程链接</a></p>
 <p><a href="https://aap.cornell.edu/admissions/graduate/city-and-regional-planning#:~:text=In%20addition%20to%20the%20requirements%20outlined%20by%20the,to%20submit%20a%20writing%20sample%20with%20their%20application." target="_blank">入学要求链接</a></p>
 
-<h4 id="Master of Science in Regional Science">1.1.8 <a href="https://aap.cornell.edu/academics/crp/graduate/ms-ma-rs-degree-details" target="_blank">Master of Science in Regional Science</a></h4>
+<h4 id="Master of Science in Regional Science">3.2.2 <a href="https://aap.cornell.edu/academics/crp/graduate/ms-ma-rs-degree-details" target="_blank">Master of Science in Regional Science</a></h4>
 <p><strong>介绍：</strong>区域科学硕士学位项目旨在培养学生成为区域科学领域的教育者、研究人员和政策分析师，或为区域科学及相关领域（如公共政策、经济学或规划学）的博士项目做准备。</p>
 <p><strong>学位、学制和学费：</strong>M.S.RS，两年，$68,380/年</p>
 <p><strong>申请截止时间：</strong>1月10日</p>
