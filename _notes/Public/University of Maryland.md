@@ -52,35 +52,34 @@ date: 23-11-2023
     <br>
     <div class="project-box">
     <h3 id="主要教授与研究方向"><a href="#" target="_blank">主要教授与研究方向</a></h3>
-    <p><strong>Prof.1：</strong> Matthew Bell, FAIA: Washington/Baltimore region; density and the urban block; architecture and urban design of cities after catastrophic events.</p>
-    <p><strong>Prof.2：</strong> Ariel Bierbaum: Urban studies, planning, and public education.</p>
-    <p><strong>Prof.3：</strong> Juan Burke: History and theory of architecture and urbanism from the sixteenth century to the present, emphasizing Latin America—particularly Mexico—and connections to Spain, Italy, and North America.</p>
-    <p><strong>Prof.4：</strong> Casey Dawkins: U.S. housing policy; metropolitan housing market dynamics; residential segregation causes, consequences, and measurement; link between land use regulations and housing affordability.</p>
-    <p><strong>Prof.5：</strong> Chengri Ding: Urban economics, land and housing policy, and regional science.</p>
-    <p><strong>Prof.6：</strong> Mohammad Gharipour: Architectural history, theory, and Islamic architecture.</p>
-    <p><strong>Prof.7：</strong> Marccus Hendricks: Urban planning, environmental justice, and disaster resilience.</p>
-    <p><strong>Prof.8：</strong> Kathryn Howell: Housing policy, urban displacement, and social equity.</p>
-    <p><strong>Prof.9：</strong> Marie Howland: Economic development, urban revitalization, and land use.</p>
-    <p><strong>Prof.10：</strong> Clara Irazábal: Urban planning, social justice, and Latin American cities.</p>
-    <p><strong>Prof.11：</strong> Hiroyuki Iseki: Transportation planning and policy, and infrastructure development.</p>
-    <p><strong>Prof.12：</strong> Dawn Jourdan: Planning law, ethics, and comprehensive planning.</p>
-    <p><strong>Prof.13：</strong> Brian Kelly, AIA: Architecture design, building technology, and sustainable practices.</p>
-    <p><strong>Prof.14：</strong> Susan Kern: Architectural history, preservation, and historical landscapes.</p>
-    <p><strong>Prof.15：</strong> Gerrit Knaap: Land use policy, smart growth, and regional planning.</p>
-    <p><strong>Prof.16：</strong> Michele Lamprakos: Architectural conservation, Islamic architecture, and heritage.</p>
-    <p><strong>Prof.17：</strong> Donald Linebaugh: Historic preservation, environmental history, and archaeology.</p>
-    <p><strong>Prof.18：</strong> Willow Lung-Amam: Urban inequality, gentrification, and immigrant communities.</p>
-    <p><strong>Prof.19：</strong> Michelle Magalong: Historic preservation, cultural heritage, and social justice.</p>
-    <p><strong>Prof.20：</strong> Georgeanne Matthews: Urban design, placemaking, and community engagement.</p>
-    <p><strong>Prof.21：</strong> John Park: Digital fabrication, computational design, and sustainable architecture.</p>
-    <p><strong>Prof.22：</strong> Jesse Saginor, AICP: Real estate development, public policy, and land economics.</p>
-    <p><strong>Prof.23：</strong> Madlen Simon, AIA: Design thinking, urbanism, and sustainable design.</p>
-    <p><strong>Prof.24：</strong> Delaney M. West: Architectural history, preservation, and urban heritage.</p>
-    <p><strong>Prof.25：</strong> Joseph Williams: Urban design, landscape architecture, and ecological planning.</p>
+    <p><strong> Matthew Bell, FAIA：</strong>Washington/Baltimore region; density and the urban block; architecture and urban design of cities after catastrophic events.</p>
+    <p><strong> Ariel Bierbaum：</strong>Urban studies, planning, and public education.</p>
+    <p><strong> Juan Burke：</strong>History and theory of architecture and urbanism from the sixteenth century to the present, emphasizing Latin America—particularly Mexico—and connections to Spain, Italy, and North America.</p>
+    <p><strong> Casey Dawkins：</strong>U.S. housing policy; metropolitan housing market dynamics; residential segregation causes, consequences, and measurement; link between land use regulations and housing affordability.</p>
+    <p><strong> Chengri Ding：</strong>Urban economics, land and housing policy, and regional science.</p>
+    <p><strong> Mohammad Gharipour：</strong>Architectural history, theory, and Islamic architecture.</p>
+    <p><strong> Marccus Hendricks：</strong>Urban planning, environmental justice, and disaster resilience.</p>
+    <p><strong> Kathryn Howell：</strong>Housing policy, urban displacement, and social equity.</p>
+    <p><strong> Marie Howland：</strong>Economic development, urban revitalization, and land use.</p>
+    <p><strong> Clara Irazábal：</strong>Urban planning, social justice, and Latin American cities.</p>
+    <p><strong> Hiroyuki Iseki：</strong>Transportation planning and policy, and infrastructure development.</p>
+    <p><strong> Dawn Jourdan：</strong>Planning law, ethics, and comprehensive planning.</p>
+    <p><strong> Brian Kelly, AIA：</strong>Architecture design, building technology, and sustainable practices.</p>
+    <p><strong> Susan Kern：</strong>Architectural history, preservation, and historical landscapes.</p>
+    <p><strong> Gerrit Knaap：</strong>Land use policy, smart growth, and regional planning.</p>
+    <p><strong> Michele Lamprakos：</strong>Architectural conservation, Islamic architecture, and heritage.</p>
+    <p><strong> Donald Linebaugh：</strong>Historic preservation, environmental history, and archaeology.</p>
+    <p><strong> Willow Lung-Amam：</strong>Urban inequality, gentrification, and immigrant communities.</p>
+    <p><strong> Michelle Magalong：</strong>Historic preservation, cultural heritage, and social justice.</p>
+    <p><strong> Georgeanne Matthews：</strong>Urban design, placemaking, and community engagement.</p>
+    <p><strong> John Park：</strong>Digital fabrication, computational design, and sustainable architecture.</p>
+    <p><strong> Jesse Saginor, AICP：</strong>Real estate development, public policy, and land economics.</p>
+    <p><strong> Madlen Simon, AIA：</strong>Design thinking, urbanism, and sustainable design.</p>
+    <p><strong> Delaney M. West：</strong>Architectural history, preservation, and urban heritage.</p>
+    <p><strong> Joseph Williams：</strong>Urban design, landscape architecture, and ecological planning.</p>
 </div>
 <br>
     <br>
-
 
 
 
