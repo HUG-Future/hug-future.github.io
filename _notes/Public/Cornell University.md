@@ -37,22 +37,21 @@ date: 23-12-2023
 <div class="project-box">
 
     <h3 id="主要教授与研究方向"><a href="https://cals.cornell.edu" target="_blank">主要教授与研究方向</a></h3>
-<p><strong>Prof.1：</strong>Richard Waldron Allmendinger: My research focuses on structural geology and tectonics, earthquake geology, structural geodesy, numerical kinematic modeling, interpretation of seismic reflection profiles, regional tectonics of South America, and field geology. <a href="https://cals.cornell.edu/richard-waldron-allmendinger" target="_blank">Link</a></p>
+<p><strong> Richard Waldron Allmendinger：</strong>My research focuses on structural geology and tectonics, earthquake geology, structural geodesy, numerical kinematic modeling, interpretation of seismic reflection profiles, regional tectonics of South America, and field geology. <a href="https://cals.cornell.edu/richard-waldron-allmendinger" target="_blank">Link</a></p>
 
-<p><strong>Prof.2：</strong>Stephen Colucci: I study the dynamics of large-scale midlatitude weather systems, such as cyclonic storm systems and anticyclonic fair weather systems, with recent interest in the role of the stratosphere in the lifecycles of these systems. <a href="https://cals.cornell.edu/stephen-colucci" target="_blank">Link</a></p>
+<p><strong> Stephen Colucci：</strong>I study the dynamics of large-scale midlatitude weather systems, such as cyclonic storm systems and anticyclonic fair weather systems, with recent interest in the role of the stratosphere in the lifecycles of these systems. <a href="https://cals.cornell.edu/stephen-colucci" target="_blank">Link</a></p>
     </div>
     <br>
     <br>
 
 
 
-
-    <h2 id=" The Department of Natural Resources and the Environment、自然资源与环境系">🏫1 <a href=" https://gradschool.cornell.edu/" target="_blank"> The Department of Natural Resources and the Environment、自然资源与环境系</a></h2>
+    <h2 id=" The Department of Natural Resources and the Environment、自然资源与环境系">🏫2 <a href=" https://cals.cornell.edu/natural-resources-environment " target="_blank"> The Department of Natural Resources and the Environment、自然资源与环境系</a></h2>
     <p><strong>介绍：</strong> The Department of Natural Resources and the Environment is a world leader in scholarship addressing social and ecological dimensions of natural resources and the environment to improve environmental sustainability, promote the well-being of communities, and ensure access to sustainable energy and environmental resources. 自然资源与环境系在学术研究方面居于世界领先地位，致力于解决自然资源和环境的社会及生态层面的问题，以改善环境可持续性、促进社区福祉，并确保可持续能源和环境资源的获取。</p>
 
 <h3 id="博士项目">🎓2.1 <a href=" https://gradschool.cornell.edu/" target="_blank">博士项目</a></h3>
 
-<h4 id="Doctor of Natural Resources and the Environment">1.1.2 <a href="https://cals.cornell.edu/natural-resources-environment/degrees-programs/graduate-studies/master-science-doctor-philosophy-ms-phd" target="_blank">Doctor of Natural Resources and the Environment</a></h4>
+<h4 id="Doctor of Natural Resources and the Environment">2.1.1 <a href="https://cals.cornell.edu/natural-resources-environment/degrees-programs/graduate-studies/master-science-doctor-philosophy-ms-phd" target="_blank">Doctor of Natural Resources and the Environment</a></h4>
 <p><strong>介绍：</strong>The Graduate Field of Natural Resources and the Environment is core to our mission of creating knowledge and facilitating learning to improve society’s stewardship of the environment and promote a conservation ethos for a sustainable planet. We foster a strong sense of community within the graduate field, which includes faculty and graduate students from within the Department of Natural Resources and the Environment and across Cornell University.</p>
 <p><strong>学位、学制和学费：</strong>博士（PhD），平均5年，$20,800/年</p>
 <p><strong>申请截止时间：</strong>秋季学期12月1日，春季学期9月30日</p>
@@ -60,7 +59,8 @@ date: 23-12-2023
 
 <h3 id="硕士项目">📖2.2 <a href="https://cals.cornell.edu/natural-resources-environment/degrees-programs/graduate-studies/master-science-doctor-philosophy-ms-phd” target="_blank"">硕士项目</a></h3>
 
-    <h4 id="Master of Natural Resources and the Environment">2.2.1 <a href="https://cals.cornell.edu/natural-resources-environment/degrees-programs/graduate-studies/master-science-doctor-philosophy-ms-phd" target="_blank">Master of Natural Resources and the Environment</a></h4>
+<h4 id=" Master of Natural Resources and the Environment ">1.2.2 <a href=" https://cals.cornell.edu/natural-resources-environment/degrees-programs/graduate-studies/master-science-doctor-philosophy-ms-phd " target="_blank"> Master of Natural Resources and the Environment </a></h4>
+
 <p><strong>介绍：</strong>The Graduate Field of Natural Resources and the Environment is core to our mission of creating knowledge and facilitating learning to improve society’s stewardship of the environment and promote a conservation ethos for a sustainable planet. We foster a strong sense of community within the graduate field, which includes faculty and graduate students from within the Department of Natural Resources and the Environment and across Cornell University.</p>
 <p><strong>学位、学制和学费：</strong>MS，两年到三年，$30,085/年</p>
 <p><strong>申请截止时间：</strong>秋季学期2月28日</p>
@@ -71,9 +71,9 @@ date: 23-12-2023
 
 <h3 id="主要教授与研究方向"><a href="faculty链接" target="_blank">主要教授与研究方向</a></h3>
 
-<p><strong>Prof.3：</strong>Bernd Blossey: My research focuses on the impacts of multiple “stressors,” including invasive plants, non-native earthworms, and deer, on a wide range of native organisms. <a href="https://cals.cornell.edu/bernd-blossey" target="_blank">Link</a></p>
+<p><strong> Bernd Blossey：</strong>My research focuses on the impacts of multiple “stressors,” including invasive plants, non-native earthworms, and deer, on a wide range of native organisms. <a href="https://cals.cornell.edu/bernd-blossey" target="_blank">Link</a></p>
 
-<p><strong>Prof.4：</strong>Paul Curtis: I specialize in resolving wildlife conflicts in suburban, forested, and agricultural landscapes, wildlife fertility control, and managing community-based wildlife issues. <a href="https://cals.cornell.edu/paul-curtis" target="_blank">Link</a></p>
+<p><strong> Paul Curtis：</strong>I specialize in resolving wildlife conflicts in suburban, forested, and agricultural landscapes, wildlife fertility control, and managing community-based wildlife issues. <a href="https://cals.cornell.edu/paul-curtis" target="_blank">Link</a></p>
     </div>
 
     <br>
@@ -117,11 +117,11 @@ date: 23-12-2023
     <br>
     <div class="project-box">
 <h3 id="主要教授与研究方向"><a href="https://cals.cornell.edu" target="_blank">主要教授与研究方向</a></h3>
-<p><strong>Prof.1：</strong>Sophie Oldfield: My research focuses on cities, collaborative practice, community-based planning and development, housing, international studies in planning, NGOs, participatory and collaborative planning, social policy, and urbanism. <a href="https://cals.cornell.edu/sophie-oldfield" target="_blank">Link</a></p>
+<p><strong> Sophie Oldfield：</strong>My research focuses on cities, collaborative practice, community-based planning and development, housing, international studies in planning, NGOs, participatory and collaborative planning, social policy, and urbanism. <a href="https://cals.cornell.edu/sophie-oldfield" target="_blank">Link</a></p>
 
-<p><strong>Prof.2：</strong>Bo Elberling: My work specializes in cities, historic preservation planning, planning history, real estate development, and urbanism. <a href="https://cals.cornell.edu/bo-elberling" target="_blank">Link</a></p>
+<p><strong> Bo Elberling：</strong>My work specializes in cities, historic preservation planning, planning history, real estate development, and urbanism. <a href="https://cals.cornell.edu/bo-elberling" target="_blank">Link</a></p>
 
-<p><strong>Prof.3：</strong>Stephan Schmidt: My research interests include community-based planning and development, international studies in planning, land use/spatial planning, planning history, regional science, suburban neighborhoods, sustainability, and urbanism. <a href="https://cals.cornell.edu/stephan-schmidt" target="_blank">Link</a></p>
+<p><strong> Stephan Schmidt：</strong>My research interests include community-based planning and development, international studies in planning, land use/spatial planning, planning history, regional science, suburban neighborhoods, sustainability, and urbanism. <a href="https://cals.cornell.edu/stephan-schmidt" target="_blank">Link</a></p>
  </div>
    <br>
    <br>
@@ -130,13 +130,12 @@ date: 23-12-2023
 
 <div class="project-box">
 <h3 id="主要教授与研究方向"><a href="https://cals.cornell.edu" target="_blank">主要教授与研究方向</a></h3>
-<p><strong>Prof.1：</strong>Rachel Bezner Kerr: My research focuses on the historical, political, and social roots of the food system in northern Malawi, sustainable agriculture, food security, and social processes in rural Africa. I also explore social relations linked to health and nutritional outcomes and local knowledge related to climate change adaptation. <a href="https://cals.cornell.edu/rachel-bezner-kerr" target="_blank">Link</a></p>
+<p><strong> Rachel Bezner Kerr：</strong>My research focuses on the historical, political, and social roots of the food system in northern Malawi, sustainable agriculture, food security, and social processes in rural Africa. I also explore social relations linked to health and nutritional outcomes and local knowledge related to climate change adaptation. <a href="https://cals.cornell.edu/rachel-bezner-kerr" target="_blank">Link</a></p>
 
-<p><strong>Prof.2：</strong>Sarah Evanega: My research specializes in science communications, science advocacy, and the intersection of biotechnology, policy, and social issues, with a focus on diversity and inclusion. <a href="https://cals.cornell.edu/sarah-evanega" target="_blank">Link</a></p>
+<p><strong> Sarah Evanega：</strong>My research specializes in science communications, science advocacy, and the intersection of biotechnology, policy, and social issues, with a focus on diversity and inclusion. <a href="https://cals.cornell.edu/sarah-evanega" target="_blank">Link</a></p>
  </div>
 <br>
 <br>
-
 
 
 
