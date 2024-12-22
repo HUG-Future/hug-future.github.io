@@ -47,7 +47,7 @@ date: 19-01-2024
     <br>
     <br>
 
-<h2 id="国际研究学院">🏫4 <a href="https://ou.edu/cis" target="_blank">国际研究学院</a></h2>
+<h2 id="国际研究学院">🏫2 <a href="https://ou.edu/cis" target="_blank">国际研究学院</a></h2>
 
 <div class="project-box">
          <h3 id="主要教授与研究方向"><a href="https://ou.edu/cis/people/faculty" target="_blank">主要教授与研究方向</a></h3>
@@ -60,7 +60,7 @@ date: 19-01-2024
 <br>
 <br>
 
-<h2 id="政治科学系">🏫5 <a href="https://www.ou.edu/cas/psc" target="_blank">政治科学系</a></h2>
+<h2 id="政治科学系">🏫3 <a href="https://www.ou.edu/cas/psc" target="_blank">政治科学系</a></h2>
 
 <div class="project-box">
          <h3 id="主要教授与研究方向"><a href="https://www.ou.edu/cas/psc/faculty" target="_blank">主要教授与研究方向</a></h3>
@@ -76,7 +76,7 @@ date: 19-01-2024
 <br>
 <br>
 
-<h2 id="社会学系">🏫6 <a href="https://www.ou.edu/cas/soc" target="_blank">社会学系</a></h2>
+<h2 id="社会学系">🏫4 <a href="https://www.ou.edu/cas/soc" target="_blank">社会学系</a></h2>
 
 <div class="project-box">
          <h3 id="主要教授与研究方向"><a href="https://www.ou.edu/cas/soc/people/faculty" target="_blank">主要教授与研究方向</a></h3>
