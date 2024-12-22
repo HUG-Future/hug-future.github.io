@@ -62,7 +62,7 @@ date: 07-01-2024
 
 
 
-    <h2 id="人文科学社会学与计算机科学学院（系）">🏫1 <a href="https://lettres.sorbonne-universite.fr/faculte-des-lettres/ufr/ufr-de-sociologie-et-informatique-pour-les-sciences-humaines" target="_blank">人文科学社会学与计算机科学学院（系）</a></h2>
+    <h2 id="人文科学社会学与计算机科学学院（系）">🏫2 <a href="https://lettres.sorbonne-universite.fr/faculte-des-lettres/ufr/ufr-de-sociologie-et-informatique-pour-les-sciences-humaines" target="_blank">人文科学社会学与计算机科学学院（系）</a></h2>
     <p><strong>介绍：</strong> 该学院汇集了人文学科社会学和计算机科学的培训两个研究部门，社会学系与ENC Paris-Saclay合作，通过特定技能（调查、文本分析、统计学、计算机科学）培训学生进行社会文化和历史研究。计算机科学、数学和语言学专注与人文科学相关的科学研究。</p>
 
 <h3 id="博士项目">🎓2.1 <a href="https://www.sorbonne-universite.fr/ecoles-doctorales/sciences-de-la-nature-et-de-lhomme-ecologie-et-evolution" target="_blank">博士项目</a></h3>
