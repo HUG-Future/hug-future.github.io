@@ -18,17 +18,19 @@ date: 24-01-2024
     <p><strong>介绍：</strong>地理学是一门地理空间科学，它探索人类与生物物理系统之间的关系，并处理我们这个时代的一些最关键的问题，例如环境危害、气候变化、资源管理系统的可持续性、国际发展以及社区和城市规划。</p>
 
 <h3 id="博士项目">🎓1.1 <a href=" https://geog.ufl.edu/programs/grad/ " target="_blank">博士项目</a></h3>
+<h4 id="地理学博士">1.1.1 <a href=" https://geog.ufl.edu/programs/grad/" target="_blank">地理学硕士</a></h4>
+<p><strong>介绍：</strong>地理系主要聚焦于七个重点领域进行研究：地球系统科学； 全球健康中的医学地理； 地点、网络和流动；地缘政治与全球经济；灾难、保护和冲突；可持续性和全球环境变化； 地理空间分析和技术。我们的研究生进行的研究范围广泛且跨学科，涉及全球各地的主题，包括土地覆盖和气候变化、森林砍伐和土地冲突、灾难性天气事件、河流修复、医疗保健可及性和新发传染病。
+</p>
 
-
-<h3 id="硕士项目"> 📖1.2 <a href=" " target="_blank">硕士项目</a></h3>
+<h3 id="硕士项目"> 📖1.2 <a href=" https://geog.ufl.edu/programs/grad/" target="_blank">硕士项目</a></h3>
 
     <h4 id="地理学硕士">1.2.1 <a href=" https://geog.ufl.edu/programs/grad/" target="_blank">地理学硕士</a></h4>
-    <p><strong>介绍：</strong>无具体项目信息，但https://geog.ufl.edu/programs/grad/ 包含genral information (admission, fundings, courses, etc.)。</p>
+    <p><strong>介绍：</strong>地理系提供广泛的学位选择和课程，为学生从事利用地理空间科学的各种职业做好准备。与教师和导师一起工作和学习，他们在该系的七个重点领域进行令人兴奋的、世界知名的研究：地球系统科学； 全球健康中的医学地理； 地点、网络和流动；地缘政治与全球经济；灾难、保护和冲突；可持续性和全球环境变化； 地理空间分析和技术。我们的研究生进行的研究范围广泛且跨学科，涉及全球各地的主题，包括土地覆盖和气候变化、森林砍伐和土地冲突、灾难性天气事件、河流修复、医疗保健可及性和新发传染病。</p>
    
   
     <br>
        <div class="project-box">
-       <h3 id="主要教授与研究方向"><a href=" " target="_blank">主要教授与研究方向</a></h3>
+       <h3 id="主要教授与研究方向"><a href="https://geog.ufl.edu/faculty/" target="_blank">主要教授与研究方向</a></h3>
         <p><strong> Jason Blackburn：</strong>全球健康医学地理学 (MGGH)。</p>
         <p><strong> Gabriela Hamerlinck：</strong>全球健康医学地理学 (MGGH)、可持续性与全球环境变化。</p>
         <p><strong> Yujie Hu：</strong>全球健康医学地理学 (MGGH)、地点、网络与流动、地缘政治与全球经济、灾难、保护与冲突。</p>
@@ -53,7 +55,7 @@ date: 24-01-2024
   
     <br>
        <div class="project-box">
-       <h3 id="主要教授与研究方向"><a href=" " target="_blank">主要教授与研究方向</a></h3>
+       <h3 id="主要教授与研究方向"><a href="https://dcp.ufl.edu/sbe/who/faculty/ " target="_blank">主要教授与研究方向</a></h3>
         <p><strong> Michael Montoya：</strong>教育学、郊区流行文化、画意美和高速公路。</p>
            </div>
 <br>
