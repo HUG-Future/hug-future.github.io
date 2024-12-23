@@ -120,3 +120,7 @@ exclude:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+url: "https://https://hug-future.github.io" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
