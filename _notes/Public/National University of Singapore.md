@@ -74,7 +74,7 @@ date: 28-09-2023
     <p><strong>入学要求：</strong>GRE 320+3.5，IELTS 6, TOEFL 85，本科学位或硕士学位。</p>
 <p><strong>课程链接：</strong><a href=" https://fass.nus.edu.sg/socanth/graduate-course-description/ " target="_blank">链接</a></p>
 
-<h3 id="硕士项目">📖3.2 <a href="https://cde.nus.edu.sg/arch/programmes/master-of-urban-planning/" target="_blank">硕士项目</a></h3>
+<h3 id="硕士项目">📖2.2 <a href="https://cde.nus.edu.sg/arch/programmes/master-of-urban-planning/" target="_blank">硕士项目</a></h3>
 
     <h4 id="城市规划硕士">3.2.1 <a href="https://cde.nus.edu.sg/arch/programmes/master-of-urban-planning/ " target="_blank">城市规划硕士</a></h4>
     <p><strong>介绍：</strong>城市规划硕士（MUP）课程利用新加坡和亚洲城市作为规划理念和方法实验室的经验，尝试高密度生活、生态敏感性、数据科学和社会政策，通过发展确保公平。该课程使毕业生掌握所有必要的技能和知识，在快速城市化的世界中成为城市规划专业人士和政策制定者。</p>
