@@ -76,7 +76,7 @@ date: 28-09-2023
 
 <h3 id="硕士项目">📖2.2 <a href="https://cde.nus.edu.sg/arch/programmes/master-of-urban-planning/" target="_blank">硕士项目</a></h3>
 
-    <h4 id="城市规划硕士">3.2.1 <a href="https://cde.nus.edu.sg/arch/programmes/master-of-urban-planning/ " target="_blank">城市规划硕士</a></h4>
+    <h4 id="城市规划硕士">2.2.1 <a href="https://cde.nus.edu.sg/arch/programmes/master-of-urban-planning/ " target="_blank">城市规划硕士</a></h4>
     <p><strong>介绍：</strong>城市规划硕士（MUP）课程利用新加坡和亚洲城市作为规划理念和方法实验室的经验，尝试高密度生活、生态敏感性、数据科学和社会政策，通过发展确保公平。该课程使毕业生掌握所有必要的技能和知识，在快速城市化的世界中成为城市规划专业人士和政策制定者。</p>
     <p><strong>学位、学制和学费：</strong>硕士，2年</p>
     <p><strong>申请截止时间：</strong> 12月31日（申请截止日期每年变更，请查询官网）</p>
