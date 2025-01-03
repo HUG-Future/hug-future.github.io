@@ -51,7 +51,7 @@ date: 26-01-2024
 
 <h3 id="硕士项目">📖2.2 <a href=" https://www.canr.msu.edu/csus/graduate/ " target="_blank">硕士项目</a></h3>
 
-    <h4 id="理学硕士计划-A ">1.2.1 <a href=" https://www.canr.msu.edu/csus/graduate/degrees/ms-a " target="_blank">理学硕士计划-A</a></h4>
+    <h4 id="理学硕士计划-A ">2.2.1 <a href=" https://www.canr.msu.edu/csus/graduate/degrees/ms-a " target="_blank">理学硕士计划-A</a></h4>
     <p><strong>介绍：</strong>社区可持续发展系提供理学硕士计划-A学位，为学生提供参与综合和应用研究并获得专业技能的机会。理学硕士计划-A 选项（也称为 MS-A）是需要完成论文的研究型学位。MS-A 强调综合和应用研究，旨在为博士研究或其他独立的研究生、研究相关工作奠定基础。</p>
     <p><strong>学位、学制和学费：</strong> 学生必须完成总共 30 个学分。</p>
     <p><strong>申请截止时间：</strong> （申请截止日期每年变更，请查询官网）</p>
