@@ -41,7 +41,6 @@ date: 31-01-2024
          <h3 id="主要教授与研究方向"><a href=" https://www.uni-goettingen.de/en/18522.html " target="_blank">主要教授与研究方向</a></h3>
 <p><strong> Christoph Dittrich：</strong>全球南方特大城市的农业食品系统、城乡界面和可持续资源使用。</p>
     </div>
-</div>
 
 </body>
 </html>
