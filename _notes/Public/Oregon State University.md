@@ -25,7 +25,9 @@ date: 01-01-2024
     <p><strong>入学要求：</strong>3封推荐信，Degree certificate(s)/graduation diploma(s), and transcript(s), GRE (not required), TOEFL iBT 80 (口语22，其他小分18), IELTS 6.5 (口语7.0)</p>
     <p><strong>课程链接：</strong><a href="https://gradschool.oregonstate.edu/programs/5455/geography-and-geospatial-science-phd-ms-minor" target="_blank">链接</a></p>
 
-    <h4 id="地理与地理空间科学硕士">1.1.2 <a href="https://gradschool.oregonstate.edu/programs/5455/geography-and-geospatial-science-phd-ms-minor" target="_blank">地理与地理空间科学硕士</a></h4>
+<h3 id="硕士项目"> 📖 1.2 <a href=" https://ceoas.oregonstate.edu/geography-and-geospatial-science-graduate-program " target="_blank">硕士项目</a></h3>
+
+    <h4 id="地理与地理空间科学硕士">1.2.1 <a href="https://gradschool.oregonstate.edu/programs/5455/geography-and-geospatial-science-phd-ms-minor" target="_blank">地理与地理空间科学硕士</a></h4>
     <p><strong>介绍：</strong>该项目是研究人类对地球的使用和相互作用，以及分析自然和人类系统中的空间和时间过程的学科。地理空间科学应用空间思维和计算方法来解决地理问题。地理学家结合实地、实验室和计算工作，分析、解释和解决三个主要主题领域的地理问题：（1）地理空间分析和建模，（2）地球系统科学，（3）全球变化风险和弹性。</p>
     <p><strong>学位、学制和学费：</strong>硕士，10月15日</p>
     <p><strong>申请截止时间：</strong>2024年10月15日（申请截止日期每年变更，请查询官网）</p>
@@ -71,4 +73,3 @@ date: 01-01-2024
 
 </body>
 </html>
-
