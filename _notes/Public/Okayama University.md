@@ -20,7 +20,7 @@ date : 15-12-2023
 
 <h3 id="硕士项目">📖1.2 <a href="https://www.gnst.okayama-u.ac.jp/en/divisions/mc-division_earth_en/" target="_blank">硕士项目</a></h3>
 
-    <h4 id=" 地球科学部（硕士课程） ">1.1.1 <a href=" https://www.gnst.okayama-u.ac.jp/en/divisions/mc-division_earth_en/ " target="_blank"> 地球科学部（硕士课程）</a></h4>
+    <h4 id=" 地球科学部（硕士课程） ">1.2.1 <a href=" https://www.gnst.okayama-u.ac.jp/en/divisions/mc-division_earth_en/ " target="_blank"> 地球科学部（硕士课程）</a></h4>
     <p><strong>介绍：</strong>  本学科重点研究地质历史、空间结构以及大气、水圈、地质圈和生物圈相互作用的机制。 通过这些活动，该部门向学生提供先进的知识，将他们培养成能够利用先进技术进行实地工作的研究人员和工程师。</p>
     <p><strong>学位、学制和学费：</strong>无信息</p>
     <p><strong>申请截止时间：</strong>无信息（申请截止日期每年变更，请查询官网）</p>
@@ -67,7 +67,7 @@ date : 15-12-2023
     <br>
 
 
-  <h2 id="管理科学部">🏫4 <a href=" https://shabun.ccsv.okayama-u.ac.jp/english/about_us/masters_course/ " target="_blank">管理科学部</a></h2>
+  <h2 id="管理科学部">🏫3 <a href=" https://shabun.ccsv.okayama-u.ac.jp/english/about_us/masters_course/ " target="_blank">管理科学部</a></h2>
 
     <div class="project-box">
        <h3 id="主要教授与研究方向"><a href="https://shabun.ccsv.okayama-u.ac.jp/english/about_us/masters_course/" target="_blank">主要教授与研究方向</a></h3>
@@ -77,7 +77,7 @@ date : 15-12-2023
     <br>
 
 
-  <h2 id="人类社会科学系">🏫5 <a href=" https://shabun.ccsv.okayama-u.ac.jp/english/about_us/doctors-course/ " target="_blank">人类社会科学系</a></h2>
+  <h2 id="人类社会科学系">🏫4 <a href=" https://shabun.ccsv.okayama-u.ac.jp/english/about_us/doctors-course/ " target="_blank">人类社会科学系</a></h2>
 
     <div class="project-box">
        <h3 id="主要教授与研究方向"><a href="https://shabun.ccsv.okayama-u.ac.jp/english/about_us/doctors-course/" target="_blank">主要教授与研究方向</a></h3>
