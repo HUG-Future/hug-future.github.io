@@ -83,7 +83,6 @@ date: 18-12-2023
     <br>
     <div class="project-box">
          <h3 id="主要教授与研究方向"><a href=" https://uwaterloo.ca/earth-environmental-sciences/contacts?title=&group[59]=59" target="_blank">主要教授与研究方向</a></h3>
-<p><strong>Prof.1：</strong>该教授xxx</p>
         <p><strong> Nandita Basu：</strong>环境和生态系统水文学、流域生物地球化学和土地利用变化、湿地恢复、水资源可持续性、气候变化和地球科学等</p>
         <p><strong> David Blowes：</strong>开发预防和修复受污染地下水的新技术</p>
         <p><strong> Andrea Brookfield：</strong>地表和地下综合水文学；水文模拟；水资源管理；污染与修复：水、土壤、空气；气候变化和地球科学等</p>
