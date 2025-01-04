@@ -18,7 +18,7 @@ date: 04-12-2023
 
 <h3 id="博士项目">🎓1.1 <a href="https://web.mit.edu/dusp/dusp_extension_unsec/handbook/dusp_handbook.pdf" target="_blank">博士项目</a></h3>
 
-<h4 id=" Urban Studies and Planning，城市研究与规划">1.2.1 <a href="https://oge.mit.edu/programs/urban-studies-and-planning/" target="_blank"> Urban Studies and Planning，城市研究与规划</a></h4>
+<h4 id=" Urban Studies and Planning，城市研究与规划">1.1.1 <a href="https://oge.mit.edu/programs/urban-studies-and-planning/" target="_blank"> Urban Studies and Planning，城市研究与规划</a></h4>
     <p><strong>介绍：</strong>博士学位是城市规划或城市研究的高级研究学位。入学要求与硕士学位基本相同，但更注重学术准备、专业经验以及学生的研究兴趣与院系研究活动的契合度。几乎所有成功的申请者之前都已经完成了硕士学位。博士课程强调研究能力的发展以及研究方法的应用来探索关键的规划问题。学生在教师顾问的指导下工作。他们可以将研究重点放在该系教师拥有专业知识的任何规划子领域。</p>
     <p><strong>学位、学制和学费：</strong>哲学博士（PhD）、5年、无学费</p>
     <p><strong>申请截止时间：</strong>12月15 日（申请截止日期每年变更，请查询官网）</p>
@@ -27,14 +27,14 @@ date: 04-12-2023
 
 <h3 id="硕士项目">📖1.2 <a href="硕士主页链接" target="_blank">硕士项目</a></h3>
     
-<h4 id=" Master of Science in Real Estate Development (MSRED)，房地产开发">1.1.1 <a href=" https://oge.mit.edu/programs/center-for-real-estate/" target="_blank"> Master of Science in Real Estate Development (MSRED)，房地产开发</a></h4>
+<h4 id=" Master of Science in Real Estate Development (MSRED)，房地产开发">1.2.1 <a href=" https://oge.mit.edu/programs/center-for-real-estate/" target="_blank"> Master of Science in Real Estate Development (MSRED)，房地产开发</a></h4>
     <p><strong>介绍：</strong>成功的候选人通常以本科或研究生学位完成学科，作为房地产工作的基础。传统相关学科包括：工程、建筑、建筑、规划、经济、金融、商业和法律。大多数被录取的学生都有良好的学术记录，加上三到五年的相关专业经验。相关职业包括房地产经纪人、建筑经理、城市规划师、建筑师、商业贷款官员、顾问、财务分析师或工程师。</p>
     <p><strong>学位、学制和学费：</strong>房地产开发硕士（Master of Science in Real Estate Development (SM)）、2个学期、学费较高</p>
     <p><strong>申请截止时间：</strong>12月 15 日（申请截止日期每年变更，请查询官网）</p>
     <p><strong>入学要求：</strong> GRE或GMAT 、雅思或托福、作品集（可选）、大量的专业房地产工作经验（至少3-5年）、微观经济学课程</p>
     <p><strong>课程链接：</strong><a href=" https://oge.mit.edu/programs/center-for-real-estate/" target="_blank">链接</a></p>
 
-    <h4 id=" Master in City Planning，城市规划">1.2.1 <a href=" https://oge.mit.edu/programs/urban-studies-and-planning/" target="_blank"> Master in City Planning，城市规划</a></h4>
+    <h4 id=" Master in City Planning，城市规划">1.2.2 <a href=" https://oge.mit.edu/programs/urban-studies-and-planning/" target="_blank"> Master in City Planning，城市规划</a></h4>
     <p><strong>介绍：</strong> 城市研究与规划系为将在美国和国外的公共、私人和非营利机构、公司和国际机构中担任专业角色的男性和女性提供研究生教育。该系致力于为 MCP 学生提供填补传统和新兴规划角色所需的技能和专业知识。MCP 获得美国规划协会的认可。 为期两年的城市规划硕士学位课程强调掌握有效实践的工具，因此与城市事务本科文科课程或强调高级研究技能的博士课程不同。 MCP 毕业生从事多种工作，从“传统”城市规划到经济、社会和环境规划以及城市设计。 除了基本的核心要求外，该计划还提供四个专业领域：城市设计与开发；环境政策和规划；住房、社区和经济发展；和国际发展。 MCP 学生在向该系提出申请时，选择这些专业领域之一，并在适用时表明对交通规划、城市信息系统和区域规划等跨领域项目的兴趣。</p>
     <p><strong>学位、学制和学费：</strong> Master in City Planning (MCP)、4个学期、学费较高</p>
     <p><strong>申请截止时间：</strong>12月 15 日（申请截止日期每年变更，请查询官网）</p>
