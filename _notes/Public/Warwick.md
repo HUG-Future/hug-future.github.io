@@ -94,7 +94,7 @@ date : 08-01-2024
     <p><strong>申请截止时间：</strong> 8月2日（申请截止日期每年变更，请查询官网）</p>
     <p><strong>入学要求：</strong> 相关学科的本科学位和硕士学位（或同等学历）；雅思 7.0（单项最低的两项 6.0/6.5，其余 7.0 或以上） </p>
 <p><strong>课程链接：</strong><a href=" https://warwick.ac.uk/study/postgraduate/courses/phd-sociology " target="_blank">链接</a></p>
-    <h4> 4.2.1 Women's and Gender Studies，女性与性别研究</h4>
+    <h4> 4.1.2 Women's and Gender Studies，女性与性别研究</h4>
     <p><strong>介绍：</strong> 在妇女和性别研究博士学位中扩展学生对社会和文化问题的理解。华威大学社会学系在英国排名第 9（2022 年卫报大学指南），为学生提供完善且充满活力的博士课程，以扩展学生的研究技能和知识。 </p>
     <p><strong>学位、学制和学费：</strong> 哲学博士（PhD）、全日制4年/非全日制7年、£13,842/y</p>
     <p><strong>申请截止时间：</strong> 8月2日（申请截止日期每年变更，请查询官网）</p>
@@ -177,7 +177,7 @@ date : 08-01-2024
     <p><strong>申请截止时间：</strong>8月2日（申请截止日期每年变更，请查询官网）</p>
     <p><strong>入学要求：</strong> 相关本科学位；雅思 7.0（单项最低的两项 6.0/6.5，其余 7.0 或以上）。 </p>
 <p><strong>课程链接：</strong><a href=" https://warwick.ac.uk/study/postgraduate/courses/ma-international-politics-east-asia " target="_blank">链接</a></p>
-    <h4> 4.2.3 International Political Economy，国际政治经济</h4>
+    <h4> 5.2.3 International Political Economy，国际政治经济</h4>
     <p><strong>介绍：</strong>国际政治经济学（IPE）是一个研究领域，涉及快速变化和充满争议的全球背景下的权力、财富和代理权的分配。由于兴趣广泛，IPE 鼓励采用多元化且通常不拘一格的学习方法。 这是一个真正的全球性课程，吸引了来自世界各地的学生。学生将受益于引人入胜的知识环境，并能够从贸易、金融、发展和全球治理领域的一系列前沿选项中进行选择。 </p>
     <p><strong>学位、学制和学费：</strong> 文学硕士（MA）、一年、£14,095</p>
     <p><strong>申请截止时间：</strong>8月2日（申请截止日期每年变更，请查询官网）</p>
