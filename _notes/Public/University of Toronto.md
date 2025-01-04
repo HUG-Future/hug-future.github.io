@@ -107,7 +107,7 @@ date : 05-10-2023
     <br>
     <br>
 
-  <h2 id="Department of Sociology, 社会学系">🏫3 <a href=" https://www.sociology.utoronto.ca/ " target="_blank">Department of Sociology, 社会学系</a></h2>
+  <h2 id="Department of Sociology, 社会学系">🏫2 <a href=" https://www.sociology.utoronto.ca/ " target="_blank">Department of Sociology, 社会学系</a></h2>
 
     <div class="project-box">
        <h3 id="主要教授与研究方向"><a href="https://www.sociology.utoronto.ca/" target="_blank">主要教授与研究方向</a></h3>
@@ -124,7 +124,7 @@ date : 05-10-2023
     <br>
 
 
-  <h2 id=" Department of Politics, 政治学系">🏫4 <a href=" https://politics.utoronto.ca/ " target="_blank"> Department of Politics, 政治学系</a></h2>
+  <h2 id=" Department of Politics, 政治学系">🏫3 <a href=" https://politics.utoronto.ca/ " target="_blank"> Department of Politics, 政治学系</a></h2>
 
     <div class="project-box">
        <h3 id="主要教授与研究方向"><a href="https://ourenvironment.berkeley.edu/people/faculty-specialists" target="_blank">主要教授与研究方向</a></h3>
@@ -145,7 +145,7 @@ date : 05-10-2023
 <br>
     <br>
 
-  <h2 id=" Department of Anthropology, 人类学系">🏫5 <a href=" https://www.anthropology.utoronto.ca/" target="_blank"> Department of Anthropology, 人类学系</a></h2>
+  <h2 id=" Department of Anthropology, 人类学系">🏫4 <a href=" https://www.anthropology.utoronto.ca/" target="_blank"> Department of Anthropology, 人类学系</a></h2>
 
     <div class="project-box">
        <h3 id="主要教授与研究方向"><a href="https://www.anthropology.utoronto.ca/" target="_blank">主要教授与研究方向</a></h3>
