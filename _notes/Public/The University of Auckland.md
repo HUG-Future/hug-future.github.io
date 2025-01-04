@@ -17,7 +17,7 @@ date: 08-12-2023
 <p><strong>介绍：</strong> The Faculty of Science brings together 10 diverse schools and departments to provide outstanding quality teaching and research opportunities.
 </p>
 
-<h3 id="博士项目">🎓1.1 <a href=" https://www.auckland.ac.nz/en/study/study-options/find-a-study-option.html " target="_blank">博士项目</a> 或 <a https://www.auckland.ac.nz/en/study/study-options/find-a-study-option.html " target="_blank">更多信息</a></h3>
+<h3 id="博士项目">🎓1.1 <a href=" https://www.auckland.ac.nz/en/study/study-options/find-a-study-option.html " target="_blank">博士项目</a></h3>
 
 <h4 id="Environmental-change">1.1.1 <a href="https://www.auckland.ac.nz/en/science/about-the-faculty/school-of-environment/environment-research/environmental-change.html" target="_blank">Environmental change，环境变化</a></h4>
 <p><strong>介绍：</strong>We research the origin, evolution, and adaptation of life on Earth, the adaptation of tropical islands to climate change, and the use of proxy records for paleoenvironmental change. If humanity continues along its current trajectory of consumption and production, the 21st century will likely produce an environment more threatened than we have ever experienced. In many parts of the world, ecosystem services are already at risk, with defences against natural hazards and climate change near their limits. Using records of past environments, previous environmental change, and extreme environmental events, we seek to answer some of the critical questions facing the world today. More detailed research topics are available on the website.</p>
@@ -98,8 +98,7 @@ date: 08-12-2023
 <p><strong>入学要求：</strong>Meeting our academic requirements does not guarantee entry. You must demonstrate an ability to research independently, and possess a high level of theoretical understanding. Acceptance is subject to staff availability for supervision, and appropriate resources and facilities. You must write an initial statement of research intent to demonstrate your research capability and experience. All students must meet our English-language requirements as a condition of entry. IELTS score require 6.5, No bands less than 6.0.</p>
 
 
-<h3 id="硕士项目">📖2.2 <a href=" https://www.lucsus.lu.se/"_blank">硕士项目</a></h3>
-
+<h3 id="硕士项目">📖2.2 <a href=" https://www.auckland.ac.nz/en/creative/study-with-us/master-your-creative-mind.html " target="_blank">硕士项目</a></h3>
 
 
 <h4 id="Master-of-Architecture-and-Urban-Design">2.2.1 <a href="https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-architecture-professional-and-urban-design-marchprofurdes.html" target="_blank">Master of Architecture (Professional) and Urban Design，建筑和城市设计硕士</a></h4>
