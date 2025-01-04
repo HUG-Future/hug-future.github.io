@@ -13,7 +13,7 @@ date: 17-12-2023
 <body>
     <h3>贝尔法斯特，英国</h3>
 
-    <h2 id="自然与建筑环境学院">🏫1 <a href=" https://www.qub.ac.uk/schools/NBE/" target="_blank">自然与建筑环境学院a></h2>
+    <h2 id="自然与建筑环境学院">🏫1 <a href=" https://www.qub.ac.uk/schools/NBE/" target="_blank">自然与建筑环境学院</a></h2>
     <p><strong>介绍：</strong>欢迎来到女王大学最新的学校——汇聚我们成熟的建筑、土木与结构工程、地理、规划、考古学与古生态学学科——研究自然和建成环境中的挑战与机遇。您将在这些页面中发现一个充满热情、积极向上的学校，它建立在严谨的跨学科团队、敏锐的分析、深入推理和创造性思维之上。</p>
 
 <h3 id="博士项目">🎓1.1 <a href=" https://www.qub.ac.uk/schools/NBE/Study/PostgraduateResearch/" target="_blank">博士项目</a></h3>
