@@ -42,7 +42,7 @@ date: 17-11-2023
     <p><strong>入学要求：</strong> iBT：英语作为外语考试 （TOEFL） 90 分（笔试不低于 21 分，其他单项至少 19 分）等表征最低语言要求的考核指标</p>
     <p><strong>课程链接：</strong><a href=" https://www.ucd.ie/geography/study/taughtmasters/mageopoliticstheglobaleconomy/" target="_blank">链接</a></p>
 
-    <h4 id="关键地理学">1.2.3 <a href=" https://www.ucd.ie/geography/study/taughtmasters/critical-geographies/ " target="_blank">关键地理学</a></h4>
+    <h4 id="批判地理学">1.2.3 <a href=" https://www.ucd.ie/geography/study/taughtmasters/critical-geographies/ " target="_blank">批判地理学</a></h4>
     <p><strong>介绍：</strong>当你听到无政府主义、权力关系或非殖民主义时，你会想到什么？关键地理学的核心是关于我们如何创造更宜居的生活。你想改变世界，但不确定怎么做吗？为了改变世界，你必须了解权力关系在哪里，以及它们是如何造就我们生活的地方的。在知识空间中思考、思考、思考、讨论和辩论的能力，在那里你得到支持和指导，这是UCD地理学院批判性地理学硕士：危机、气候和不平等的目标。</p>
     <p><strong>学位、学制和学费：</strong>文学硕士，学费包括研究费用13,730欧元和授课费用22,600欧元</p>
     <p><strong>申请截止时间：</strong>全年不同时间开放（申请截止日期每年变更，请查询官网）</p>
