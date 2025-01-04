@@ -57,9 +57,9 @@ date: 23-12-2023
 <p><strong>申请截止时间：</strong>秋季学期12月1日，春季学期9月30日</p>
 <p><strong>入学要求：</strong>自然科学、社会科学、数学和人文科学等多个专业学生；推荐信；个人陈述；工作经验证明（学生通常在本科毕业后拥有数年工作经验）；托福iBT最低总分为100 分（口语22/阅读20/听力15/写作20），雅思总分7分；必须有一名教职人员愿意监督并确保学生获得资金。</p>
 
-<h3 id="硕士项目">📖2.2 <a href="https://cals.cornell.edu/natural-resources-environment/degrees-programs/graduate-studies/master-science-doctor-philosophy-ms-phd” target="_blank"">硕士项目</a></h3>
+<h3 id="硕士项目"> 📖 2.1 <a href="https://cals.cornell.edu/natural-resources-environment/degrees-programs/graduate-studies/master-science-doctor-philosophy-ms-phd" target="_blank">硕士项目</a></h3>
 
-<h4 id=" Master of Natural Resources and the Environment ">1.2.2 <a href=" https://cals.cornell.edu/natural-resources-environment/degrees-programs/graduate-studies/master-science-doctor-philosophy-ms-phd " target="_blank"> Master of Natural Resources and the Environment </a></h4>
+<h4 id=" Master of Natural Resources and the Environment ">2.2.1 <a href=" https://cals.cornell.edu/natural-resources-environment/degrees-programs/graduate-studies/master-science-doctor-philosophy-ms-phd " target="_blank"> Master of Natural Resources and the Environment </a></h4>
 
 <p><strong>介绍：</strong>The Graduate Field of Natural Resources and the Environment is core to our mission of creating knowledge and facilitating learning to improve society’s stewardship of the environment and promote a conservation ethos for a sustainable planet. We foster a strong sense of community within the graduate field, which includes faculty and graduate students from within the Department of Natural Resources and the Environment and across Cornell University.</p>
 <p><strong>学位、学制和学费：</strong>MS，两年到三年，$30,085/年</p>
