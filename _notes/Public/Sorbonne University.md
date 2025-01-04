@@ -67,7 +67,7 @@ date: 07-01-2024
 
 <h3 id="博士项目">🎓2.1 <a href="https://www.sorbonne-universite.fr/ecoles-doctorales/sciences-de-la-nature-et-de-lhomme-ecologie-et-evolution" target="_blank">博士项目</a></h3>
 
-<h3 id="硕士项目">📖2.2 <a href="” target="_blank"">硕士项目</a></h3>
+<h3 id="硕士项目">📖2.2 <a href="https://lettres.sorbonne-universite.fr/faculte-des-lettres/ufr/ufr-de-sociologie-et-informatique-pour-les-sciences-humaines" target="_blank"">硕士项目</a></h3>
 
     <h4 id="当代社会学硕士学位">2.2.1 <a href="https://lettres.sorbonne-universite.fr/faculte/unites-de-formation-et-de-recherche-ufr/ufr-de-sociologie-et-informatique-pour-les-" target="_blank">当代社会学硕士学位</a></h4>
 <p><strong>介绍：</strong>本课程旨在根据对法国和国外主要当前问题和辩论的了解，获得社会学文化（社会学传统、经济社会学、政治社会学、规范和价值观社会学等）。</p>
