@@ -43,17 +43,17 @@ date: 11-01-2024
     <br>
     <div class="project-box">
          <h3 id="主要教授与研究方向"><a href="faculty链接" target="_blank">主要教授与研究方向</a></h3>
-<p><strong>Prof.1：</strong> Agnes Andersson Djurfeldt: Development geography, rural processes of change in sub-Saharan Africa, gender-based access to resources, rural and multi-spatial livelihoods, consumption, intra-household division of labor and income, urbanization, inclusive urban growth, kinship relations, linkages to rural agriculture, local governance.</p>
+<p><strong> Agnes Andersson Djurfeldt：</strong>Development geography, rural processes of change in sub-Saharan Africa, gender-based access to resources, rural and multi-spatial livelihoods, consumption, intra-household division of labor and income, urbanization, inclusive urban growth, kinship relations, linkages to rural agriculture, local governance.</p>
 
-<p><strong>Prof.2：</strong> Eric Clark: Political economy of space, social geographic change, gentrification, land rent, financialization of built environments, accumulation by dispossession, political ecology, ecologically unequal exchange, biocultural coevolution, sustainability and inequality, urban contexts, historical political ecology, sustainable development, islands, agriculture.</p>
+<p><strong> Eric Clark：</strong>Political economy of space, social geographic change, gentrification, land rent, financialization of built environments, accumulation by dispossession, political ecology, ecologically unequal exchange, biocultural coevolution, sustainability and inequality, urban contexts, historical political ecology, sustainable development, islands, agriculture.</p>
 
-<p><strong>Prof.3：</strong> Tomas Germundsson: Enclosure reforms, landowning patterns, Swedish smallholding movement, landscape of great landed estates, modern peri-urban landscape, cross-disciplinary landscape changes, landscape heritage issues, planning issues, climate change effects, sea level rise, coastal planning, drought effects on farming (2018).</p>
+<p><strong> Tomas Germundsson：</strong>Enclosure reforms, landowning patterns, Swedish smallholding movement, landscape of great landed estates, modern peri-urban landscape, cross-disciplinary landscape changes, landscape heritage issues, planning issues, climate change effects, sea level rise, coastal planning, drought effects on farming (2018).</p>
 
-<p><strong>Prof.4：</strong> Magnus Jirström: Rural and agricultural development in low-income countries, socio-economic and environmental impacts of technological change in smallholder agriculture, income diversification among smallholders, agricultural policy, state role in agricultural transformations, urban agriculture, urban food system transformation in secondary cities, role of local organizations and NGOs in rural development.</p>
+<p><strong> Magnus Jirström：</strong>Rural and agricultural development in low-income countries, socio-economic and environmental impacts of technological change in smallholder agriculture, income diversification among smallholders, agricultural policy, state role in agricultural transformations, urban agriculture, urban food system transformation in secondary cities, role of local organizations and NGOs in rural development.</p>
 
-<p><strong>Prof.5：</strong> Alf Hornborg: Cultural and political dimensions of human-environmental relations, world-system analysis, environmental history, ecological economics, political ecology, development studies.</p>
+<p><strong> Alf Hornborg：</strong>Cultural and political dimensions of human-environmental relations, world-system analysis, environmental history, ecological economics, political ecology, development studies.</p>
 
-<p><strong>Prof.6：</strong> Kristoffer Ekberg: Environmental history, political history, climate obstruction, social movements, business and think tank responses to environmentalism, extractive sector, neoliberal think tanks post-1960s.</p>
+<p><strong> Kristoffer Ekberg：</strong>Environmental history, political history, climate obstruction, social movements, business and think tank responses to environmentalism, extractive sector, neoliberal think tanks post-1960s.</p>
     </div>
     <br>
     <br>
@@ -61,12 +61,13 @@ date: 11-01-2024
 
 
 
-    <h2 id="CENTRE FOR SUSTAINABILITY STUDIES，可持续发展研究中心">🏫1 <a href="https://www.lucsus.lu.se/" target="_blank">CENTRE FOR SUSTAINABILITY STUDIES，可持续发展研究中心</a></h2>
+    <h2 id="CENTRE FOR SUSTAINABILITY STUDIES，可持续发展研究中心">🏫2 <a href="https://www.lucsus.lu.se/" target="_blank">CENTRE FOR SUSTAINABILITY STUDIES，可持续发展研究中心</a></h2>
     <p><strong>介绍：</strong>Lund University Centre for Sustainability Studies (LUCSUS) is a world class sustainability centre for research, teaching and impact where we work to understand, explain, and catalyse social change and transformations in relation to material limits in the biosphere.</p>
 
 <h3 id="博士项目">🎓2.1 <a href="https://www.lucsus.lu.se/research/phd-programme" target="_blank">博士项目</a></h3>
 
-<h3 id="硕士项目">📖2.2 <a href=" https://www.lucsus.lu.se/"_blank">硕士项目</a></h3>
+<h3 id="硕士项目"> 📖 2.2 <a href=" https://www.lucsus.lu.se/" target="_blank">硕士项目</a></h3>
+
 
     <h4 id="Environmental Studies and Sustainability Science">2.2.1 <a href="项目网页链接" target="_blank">Environmental Studies and Sustainability Science</a></h4>
 <p><strong>介绍：</strong>LUMES is an interdisciplinary programme focusing on sustainability challenges from a local to a global level through combining both social and natural science perspectives. Building on students’ previous knowledge and experiences, emphasis is placed on understanding present societal development patterns and the environmental problems they create, as well as approaches for formulating strategies for future sustainable pathways. The programme takes an interdisciplinary and holistic approach to sustainability, which provides students with a broad knowledge of the interaction between cultural, economic, environmental, political, and social dimensions of sustainability.</p>
@@ -76,7 +77,9 @@ date: 11-01-2024
 <p><strong>课程链接：</strong><a href="项目网页链接" target="_blank">链接</a></p>
 
 
-  <h2 id=" Department of Physical Geography and Ecosystem Science，自然地理与生态系统科学系">🏫3 <a href="https://www.nateko.lu.se/department-physical-geography-and-ecosystem-science" target="_blank Department of Physical Geography and Ecosystem Science，自然地理与生态系统科学系</a></h2>
+    <h2 id=" Department of Physical Geography and Ecosystem Science，自然地理与生态系统科学系">🏫3 <a href=" https://www.nateko.lu.se/department-physical-geography-and-ecosystem-science " target="_blank"> Department of Physical Geography and Ecosystem Science，自然地理与生态系统科学系</a></h2>
+
+
     <p><strong>介绍：</strong> The Department of Physical Geography and Ecosystem Science at Lund University is dedicated to interdisciplinary studies of environmental and climate systems in local and global perspectives. We are also strong in Geographical Information Science. Our education offers the overview of how the Earth, the climate and ecosystems interact, as well as the aspect of society, and important tools for environmental management and rural and urban planning.</p>
 
 <h3 id="博士项目">🎓3.1 <a href="https://www.nateko.lu.se/education/post-graduate-studies/phd-studies-ines" target="_blank">博士项目</a></h3>
@@ -116,15 +119,15 @@ date: 11-01-2024
          <h3 id="主要教授与研究方向"><a href=" https://portal.research.lu.se/en/organisations/dept-of-physical-geography-and-ecosystem-science/persons/ " target="_blank">主要教授与研究方向</a></h3>
 <p><strong>Prof.1：</strong>Zhendong Wu: My research applies a dynamic global vegetation model (LPJ-GUESS) to investigate questions related to the terrestrial carbon cycle as it responds to climate change, CO2 fertilization, and disturbance. I work with climate data and Carbon data from remote sensing, observations, and model simulation to quantify model uncertainty and improve model performance via model-data fusion. <a href="https://www.nateko.lu.se/zhendong-wu" target="_blank">Link</a></p>
 
-<p><strong>Prof.2：</strong>Veiko Lehsten: Biodiversity and Ecosystem services in a Changing Climate.</p>
+<p><strong> Veiko Lehsten：</strong>Biodiversity and Ecosystem services in a Changing Climate.</p>
 
-<p><strong>Prof.3：</strong>Jan Hendrik Blanke: Forecasting ecosystem functions and services under global change.</p>
+<p><strong> Jan Hendrik Blanke：</strong>Forecasting ecosystem functions and services under global change.</p>
 
-<p><strong>Prof.4：</strong>Jonathan Seaquist: Biodiversity and Ecosystem services in a Changing Climate.</p>
+<p><strong> Jonathan Seaquist：</strong>Biodiversity and Ecosystem services in a Changing Climate.</p>
 
-<p><strong>Prof.5：</strong>Anders Ahlström: Study Earth's great cycle of carbon and its interplay with climate and management.</p>
+<p><strong> Anders Ahlström：</strong>Study Earth's great cycle of carbon and its interplay with climate and management.</p>
 
-<p><strong>Prof.6：</strong>Yuzuo Zhu: Biodiversity and Ecosystem services in a Changing Climate.</p>
+<p><strong> Yuzuo Zhu：</strong>Biodiversity and Ecosystem services in a Changing Climate.</p>
 
  </div>
    <br>
@@ -153,8 +156,8 @@ date: 11-01-2024
 
 <div class="project-box">
          <h3 id="主要教授与研究方向"><a href="faculty链接" target="_blank">主要教授与研究方向</a></h3>
-<p><strong>Prof.1：</strong>Susanne Arvidsson: Nature-based future solutions. <a href="https://www.lusem.lu.se/susanne-arvidsson" target="_blank">链接</a></p>
-<p><strong>Prof.2：</strong>Thomas Kalling: I am a strategy professor whose research focuses in particular on change, innovation and organisational renewal. This typically includes the management of pressure from societal, technological and political changes and cues, but also endogenous processes emanating internally whereby different instances of business models and operations are altered.</p>
+<p><strong> Susanne Arvidsson：</strong>Nature-based future solutions. <a href="https://www.lusem.lu.se/susanne-arvidsson" target="_blank">链接</a></p>
+<p><strong> Thomas Kalling：</strong>I am a strategy professor whose research focuses in particular on change, innovation and organisational renewal. This typically includes the management of pressure from societal, technological and political changes and cues, but also endogenous processes emanating internally whereby different instances of business models and operations are altered.</p>
  </div>
 <br>
 <br>
@@ -163,8 +166,8 @@ date: 11-01-2024
 
 <div class="project-box">
          <h3 id="主要教授与研究方向"><a href="faculty链接" target="_blank">主要教授与研究方向</a></h3>
-<p><strong>Prof.1：</strong>Aleh Cherp: Prof. Cherp's research focuses on energy transitions and feasibility of climate mitigation pathways in the ENGAGE H2020 project and on non-technical feasibility of low-carbon electrification in Sweden and Northern Europe in MISTRA-Electric. Aleh Cherp has served as a coordinating lead author on Energy and Security in the Global Energy Assessment, as a panel chair for the European Research Council and as the Research Director and Academic Secretary of Central European University (Austria) where he also holds a professor post.</p>
-<p><strong>Prof.2：</strong>Marianne Ekdahl: Sustainable Production and Consumption.</p>
+<p><strong> Aleh Cherp：</strong>Prof. Cherp's research focuses on energy transitions and feasibility of climate mitigation pathways in the ENGAGE H2020 project and on non-technical feasibility of low-carbon electrification in Sweden and Northern Europe in MISTRA-Electric. Aleh Cherp has served as a coordinating lead author on Energy and Security in the Global Energy Assessment, as a panel chair for the European Research Council and as the Research Director and Academic Secretary of Central European University (Austria) where he also holds a professor post.</p>
+<p><strong> Marianne Ekdahl：</strong>Sustainable Production and Consumption.</p>
  </div>
 
 <br>
