@@ -76,7 +76,7 @@ date: 22-01-2024
     <br>
 
 
-    <h2 id="泰勒艺术与建筑学院">🏫2 <a href=" https://liberalarts.temple.edu/academics/departments-and-programs/geography-environment-and-urban-studies " target="_blank">泰勒艺术与建筑学院</a></h2>
+    <h2 id="泰勒艺术与建筑学院">🏫2 <a href="https://tyler.temple.edu/" target="_blank">泰勒艺术与建筑学院</a></h2>
     <p><strong>介绍：</strong> 泰勒艺术与建筑学院是一个大胆的思想家和制造者的小社区，也是全国领先的艺术、设计和建筑环境研究学院之一。我们来自不同的实践、文化和背景，通过学习而改变的共同经历激励着我们，并将我们联系在一起。坦普尔大学是费城的一所大型公立研究型大学，是一座充满文化活力的城市和城市实验室，致力于解决一些社会最紧迫的挑战，是艺术家、设计师、建筑师、教育工作者、研究人员和规划师的理想场所。80多年来，泰勒一直在培养毕业生，他们的独创性，坚韧和对社会公益的承诺在一个需要有远见的思想家和熟练的实践者的世界上留下了自己的印记。</p>
 
 <h3 id="博士项目">🎓2.1 <a href=" https://www.temple.edu/academics/degree-programs/?degree-level-ui=gr&degree-level-negate[0]=14&degree-level-negate[1]=84&degree-search=doctor " target="_blank">博士项目</a></h3>
