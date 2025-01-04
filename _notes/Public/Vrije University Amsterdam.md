@@ -34,14 +34,14 @@ date: 20-01-2024
     <p><strong>入学要求：</strong> TOEFL至少取得92分/IELTS至少取得6.5分（单科不少于6.0分）</p>
     <p><strong>课程链接：</strong><a href=" https://vu.nl/en/education/master/earth-sciences/curriculum " target="_blank">链接</a></p>
 
-    <h4 id="环境与资源管理">1.2.2 <a href=" https://vu.nl/en/education/master/environment-and-resource-management " target="_blank">环境与资源管理</a></h4>
+    <h4 id="环境与资源管理">1.2.3 <a href=" https://vu.nl/en/education/master/environment-and-resource-management " target="_blank">环境与资源管理</a></h4>
     <p><strong>介绍：</strong>环境与资源管理硕士课程将培养您成为具有变革者技能和知识的可持续发展专业人士。从过渡到可持续的食物和能源系统，到寻找解决洪水和塑料的办法。通过该硕士课程，你将走上寻找更可持续发展的世界的解决方案的道路。</p>
     <p><strong>学位、学制和学费：</strong>硕士、1年</p>
     <p><strong>申请截止时间：</strong>12月1日（申请截止日期每年变更，请查询官网）</p>
     <p><strong>入学要求：</strong> TOEFL至少取得92分/IELTS至少取得6.5分（单科不少于6.0分）</p>
     <p><strong>课程链接：</strong><a href=" https://vu.nl/en/education/master/environment-and-resource-management/curriculum" target="_blank">链接</a></p>
 
-    <h4 id="生态与进化">1.2.2 <a href=" https://vu.nl/en/education/master/ecology-and-evolution" target="_blank">生态与进化</a></h4>
+    <h4 id="生态与进化">1.2.4 <a href=" https://vu.nl/en/education/master/ecology-and-evolution" target="_blank">生态与进化</a></h4>
     <p><strong>介绍：</strong>如果这是一个你感兴趣的领域，你想为科学和可持续发展做出贡献，阿姆斯特丹自由大学的生态与进化硕士课程是为你准备的。你将从植物、动物、真菌、细菌和系统的角度学习生态学。您还将在分子水平以及区域和全球范围内探索生态和进化过程。此外，您将进行实地观察和实验，以确定进化和/或生态系统模式和功能。硕士课程为期两年，用英语授课。在第一年，你将学习生态学和进化，并进行你的第一次实习。</p>
     <p><strong>学位、学制和学费：</strong>硕士、2年</p>
     <p><strong>申请截止时间：</strong>12月1日（申请截止日期每年变更，请查询官网）</p>
@@ -62,7 +62,7 @@ date: 20-01-2024
     <br>
     <br>
 
-<h2 id="艺术、文化、历史与考古系">🏫4 <a href=" https://vu.nl/en/about-vu/faculties/faculty-of-humanities/departments/art-culture-history-and-antiquity" target="_blank">艺术、文化、历史与考古系</a></h2>
+<h2 id="艺术、文化、历史与考古系">🏫2 <a href=" https://vu.nl/en/about-vu/faculties/faculty-of-humanities/departments/art-culture-history-and-antiquity" target="_blank">艺术、文化、历史与考古系</a></h2>
 
 <div class="project-box">
          <h3 id="主要教授与研究方向"><a href=" https://vu.nl/en/about-vu/faculties/faculty-of-humanities/departments/art-culture-history-and-antiquity " target="_blank">主要教授与研究方向</a></h3>
@@ -73,7 +73,7 @@ date: 20-01-2024
 <br>
 <br>
 
-<h2 id="社会与文化人类学系">🏫5 <a href=" https://arts-sciences.buffalo.edu/sociology.html" target="_blank">社会与文化人类学</a></h2>
+<h2 id="社会与文化人类学系">🏫3 <a href=" https://arts-sciences.buffalo.edu/sociology.html" target="_blank">社会与文化人类学</a></h2>
 
 <div class="project-box">
          <h3 id="主要教授与研究方向"><a href=" https://arts-sciences.buffalo.edu/sociology.html" target="_blank">主要教授与研究方向</a></h3>
@@ -84,7 +84,7 @@ date: 20-01-2024
 <br>
 <br>
 
-<h2 id="政策与公共管理系">🏫6 <a href=" https://vu.nl/en/about-vu/faculties/faculty-of-social-sciences/departments/political-science-and-public-administration" target="_blank">政策与公共管理系</a></h2>
+<h2 id="政策与公共管理系">🏫4 <a href=" https://vu.nl/en/about-vu/faculties/faculty-of-social-sciences/departments/political-science-and-public-administration" target="_blank">政策与公共管理系</a></h2>
 
 <div class="project-box">
          <h3 id="主要教授与研究方向"><a href=" https://vu.nl/en/about-vu/faculties/faculty-of-social-sciences/departments/political-science-and-public-administration" target="_blank">主要教授与研究方向</a></h3>
@@ -98,7 +98,7 @@ date: 20-01-2024
 <br>
 <br>
 
-<h2 id="空间经济系">🏫6 <a href="https://vu.nl/en/about-vu/faculties/school-of-business-and-economics/departments/department-of-spatial-economics" target="_blank">空间经济系</a></h2>
+<h2 id="空间经济系">🏫5 <a href="https://vu.nl/en/about-vu/faculties/school-of-business-and-economics/departments/department-of-spatial-economics" target="_blank">空间经济系</a></h2>
 
 <div class="project-box">
          <h3 id="主要教授与研究方向"><a href="https://vu.nl/en/about-vu/faculties/school-of-business-and-economics/departments/department-of-spatial-economics" target="_blank">主要教授与研究方向</a></h3>
