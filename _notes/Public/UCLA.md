@@ -78,23 +78,21 @@ date : 06-10-2023
     <p><strong>入学要求：</strong>3年以下专业经验的申请人应提交至少2封学术信和1封专业信。具有三年以上专业经验的申请人可选择提交三份专业信函.</p>
     <p><strong>课程链接：</strong><a href=" https://grad.ucla.edu/programs/school-of-public-health/environmental-health-sciences-department/environmental-health-sciences/" target="_blank">链接</a></p>
 
-<h3 id="硕士项目">📖3.2 <a href=" https://grad.ucla.edu/ " target="_blank">硕士项目</a></h3>
+<h3 id="硕士项目">📖2.2 <a href=" https://grad.ucla.edu/ " target="_blank">硕士项目</a></h3>
 
-    <h4 id="环境健康科学硕士">3.2.1 <a href=" https://grad.ucla.edu/programs/school-of-public-health/environmental-health-sciences-department/environmental-health-sciences/" target="_blank">环境健康科学硕士</a></h4>
+    <h4 id="环境健康科学硕士">2.2.1 <a href=" https://grad.ucla.edu/programs/school-of-public-health/environmental-health-sciences-department/environmental-health-sciences/" target="_blank">环境健康科学硕士</a></h4>
     <p><strong>介绍：</strong>环境问题从未如此突出。在加州大学洛杉矶分校菲尔丁公共卫生学院环境健康科学系（EHS）内，世界知名学者继续发展环境与健康之间联系的知识，并教育科学家、公共卫生领导人和政策制定者，告知预防有害暴露的战略，同时促进更健康的环境、建筑和职业环境。</p>
     <p><strong>学位、学制和学费：</strong>硕士，6个季度</p>
     <p><strong>申请截止时间：</strong>2024年12月1日（申请截止日期每年变更，请查询官网）</p>
     <p><strong>入学要求：</strong>3年以下专业经验的申请人应提交至少2封学术信和1封专业信。具有三年以上专业经验的申请人可选择提交三份专业信函.</p>
     <p><strong>课程链接：</strong><a href=" https://grad.ucla.edu/programs/school-of-public-health/environmental-health-sciences-department/environmental-health-sciences/" target="_blank">链接</a></p>
 
-    <h4 id=" 环境健康科学硕士">3.2.2 <a href=" https://grad.ucla.edu/programs/school-of-public-health/environmental-health-sciences-department/environmental-health-sciences-mph/" target="_blank"> 环境健康科学硕士</a></h4>
+    <h4 id=" 环境健康科学硕士">2.2.2 <a href=" https://grad.ucla.edu/programs/school-of-public-health/environmental-health-sciences-department/environmental-health-sciences-mph/" target="_blank"> 环境健康科学硕士</a></h4>
     <p><strong>介绍：</strong>环境问题从未如此突出。在加州大学洛杉矶分校菲尔丁公共卫生学院环境健康科学系（EHS）内，世界知名学者继续发展环境与健康之间联系的知识，并教育科学家、公共卫生领导人和政策制定者，告知预防有害暴露的战略，同时促进更健康的环境、建筑和职业环境。</p>
     <p><strong>学位、学制和学费：</strong>环境健康科学硕士，6个季度</p>
     <p><strong>申请截止时间：</strong>2024年12月1日（申请截止日期每年变更，请查询官网）</p>
     <p><strong>入学要求：</strong>3年以下专业经验的申请人应提交至少2封学术信和1封专业信。具有三年以上专业经验的申请人可选择提交三份专业信函</p>
     <p><strong>课程链接：</strong><a href=" https://grad.ucla.edu/programs/school-of-public-health/environmental-health-sciences-department/environmental-health-sciences-mph/ " target="_blank">链接</a></p>
-
-    </div>
 <br>
     <br>
 
@@ -125,7 +123,6 @@ date : 06-10-2023
        <h3 id="主要教授与研究方向"><a href=" https://luskin.ucla.edu/faculty" target="_blank">主要教授与研究方向</a></h3>
         <p><strong> Kian Goh：</strong气候变化和全球城市化背景下的城市生态设计，空间政治和社会动员之间的关系，城市理论，城市设计，环境规划和城市政治生态学</p>
         <p><strong> V. Kelly Turner：</strong>生态系统服务，环境设计，环境管理，制度/决策，社会-生态系统，城市生态学，城市可持续性</p>
-        </div>
 <br>
     <br>
 
@@ -140,8 +137,8 @@ date : 06-10-2023
         <p><strong> Megan Mullin：</strong>美国政治，气候变化，环境正义，环境政治，地方政府，政治经济学，公众舆论，城市政治，水政策。</p>
         <p><strong> V. Kelly Turner：</strong>生态系统服务，环境设计，环境管理，制度/决策，社会-生态系统，城市生态学，城市可持续性。</p>
         <p><strong> Liz Koslov：</strong>气候变化，灾害，环境正义，民族志，媒介，城市文化与政治，城市政治生态学。</p>
-       </div>
-
+</div>
 </body>
 </html>
+
 
