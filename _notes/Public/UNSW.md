@@ -39,7 +39,7 @@ date : 10-10-2023
     <h2>🏫2 <a href=" https://www.unsw.edu.au/arts-design-architecture/our-schools/social-sciences#tdsub" target="_blank"> Social Sciences  社会科学 </a></h2>
     <p><strong>介绍：</strong>发展规划部门开展世界领先的研究和研究生教学，帮助建设国家政府、地方当局、非政府组织、援助机构和企业的能力，致力于全球南方的社会公正和可持续发展。</p>
 
-<h3>🎓1.1 <a href=" https://www.unsw.edu.au/research/hdr/find-a-supervisor#search=&sort=relevance&startRank=1&numRanks=12&componentId=36c3802e-58bd-404b-90f6-07d44daf6b35" target="_blank">博士项目</a></h3>
+<h3>🎓2.1 <a href=" https://www.unsw.edu.au/research/hdr/find-a-supervisor#search=&sort=relevance&startRank=1&numRanks=12&componentId=36c3802e-58bd-404b-90f6-07d44daf6b35" target="_blank">博士项目</a></h3>
 
 <h3> 📖 2.2 硕士项目</h3>
 
