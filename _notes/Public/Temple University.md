@@ -79,9 +79,9 @@ date: 22-01-2024
     <h2 id="泰勒艺术与建筑学院">🏫2 <a href="https://tyler.temple.edu/" target="_blank">泰勒艺术与建筑学院</a></h2>
     <p><strong>介绍：</strong> 泰勒艺术与建筑学院是一个大胆的思想家和制造者的小社区，也是全国领先的艺术、设计和建筑环境研究学院之一。我们来自不同的实践、文化和背景，通过学习而改变的共同经历激励着我们，并将我们联系在一起。坦普尔大学是费城的一所大型公立研究型大学，是一座充满文化活力的城市和城市实验室，致力于解决一些社会最紧迫的挑战，是艺术家、设计师、建筑师、教育工作者、研究人员和规划师的理想场所。80多年来，泰勒一直在培养毕业生，他们的独创性，坚韧和对社会公益的承诺在一个需要有远见的思想家和熟练的实践者的世界上留下了自己的印记。</p>
 
-<h3 id="博士项目">🎓2.1 <a href=" https://www.temple.edu/academics/degree-programs/?degree-level-ui=gr&degree-level-negate[0]=14&degree-level-negate[1]=84&degree-search=doctor " target="_blank">博士项目</a></h3>
+<h3 id="博士项目">🎓2.1 <a href="https://www.temple.edu/academics/degree-programs/art-history-phd-ta-arth-phd" target="_blank">博士项目</a></h3>
 
-<h3 id="硕士项目">📖2.2 <a href="” target="_blank"">硕士项目</a></h3>
+<h3 id="硕士项目">📖2.2 <a href= "https://tyler.temple.edu/aed-graduate-studies-0" target="_blank"">硕士项目</a></h3>
 
 <h4 id="MSc in City and Regional Planning">2.2.1 <a href="https://www.temple.edu/academics/degree-programs/city-and-regional-planning-ms-ta-ctrp-ms" target="_blank">MSc in City and Regional Planning</a></h4>
 <p><strong>介绍：</strong>通过坦普尔大学泰勒艺术与建筑学院的城市与区域规划硕士学位，培养解决社区、城市和地区复杂挑战所必需的知识和技能。这个45学分的专业认证研究生学位课程为学生在政府，非营利和私营部门的城市和区域规划方面提供了充满活力的职业机会。本课程的毕业生有资格成为美国注册规划师协会候选人，预认证规划师。在经验丰富的专业人士的指导下，城市和区域规划硕士学生将学习如何在多层次的监管框架和多元化的社会中应对政策制定的挑战。他们获得必要的沟通技巧和工具，在规划和决策过程中有效地与一系列社区、行政利益相关者和利益团体合作。城市和区域规划硕士课程培养社会和环境规划以及政府结构方面的技能，并为规划开发先进的计算机应用程序。这个项目的强项是可持续发展、环境规划和社区参与。研究生课程的学生将获得对规划的物理和经济方面的广泛理解，对规划决策的社会和环境影响的敏感性，以及相关政府结构的知识。</p>
@@ -117,8 +117,7 @@ date: 22-01-2024
     </div>
 
     <br>
-    <br>
-
+   
 
     <h2 id="经济系">🏫3 <a href=" https://liberalarts.temple.edu/academics/departments-and-programs/economics " target="_blank">经济系</a></h2>
 
