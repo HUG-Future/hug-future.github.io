@@ -34,13 +34,13 @@ date: 26-10-2023
     <p><strong>申请截止时间：</strong>一般8月底前</p>
 <p><strong>入学要求：</strong> IELTS：6.5，小分不低于6.0。</p>
 
-  <h4 id="气候变化，环境与社会硕士">1.2.1 <a href=" https://www.nottingham.ac.uk/pgstudy/course/taught/climate-change-environment-and-society-msc " target="_blank">气候变化，环境与社会硕士</a></h4>
+  <h4 id="气候变化，环境与社会硕士">1.2.2 <a href=" https://www.nottingham.ac.uk/pgstudy/course/taught/climate-change-environment-and-society-msc " target="_blank">气候变化，环境与社会硕士</a></h4>
     <p><strong>介绍：</strong>气候变化如何影响社会和环境，社会又如何影响气候变化？我们的气候变化、环境和社会理学硕士课程将教您在社会层面应对气候挑战的实用性。您将通过跨学科的视角学习，将气候变化的社会和物理方面与相关学科的组织和项目管理技能相结合。您将深入了解我们目前面临的风险、我们如何有效地管理这些风险以及社会如何适应以更具弹性地应对未来。通过了解气候挑战的复杂性并锻炼解决问题的技能。</p>
     <p><strong>学位、学制和学费：</strong>全日制硕士，1年，£25,250</p>
     <p><strong>申请截止时间：</strong>一般8月底前</p>
 <p><strong>入学要求：</strong> IELTS：6.5，小分不低于6.0。本科学位：2：1（或国际同等学历），包括涉及气候变化内容的科目或一些与气候变化性质的职业经验。</p>
 
-  <h4 id="全球环境与可持续性硕士">1.2.2 <a href=" https://www.nottingham.ac.uk/pgstudy/course/taught/global-environmental-sustainability-msc. " target="_blank">全球环境与可持续性硕士</a></h4>
+  <h4 id="全球环境与可持续性硕士">1.2.3 <a href=" https://www.nottingham.ac.uk/pgstudy/course/taught/global-environmental-sustainability-msc. " target="_blank">全球环境与可持续性硕士</a></h4>
     <p><strong>介绍：</strong>在这个跨学科的课程中，您将研究影响可持续发展的环境、社会、经济和政治因素，并将理论转化为实际成果。与联合国可持续发展目标保持一致，我们的全球环境可持续性理学硕士课程侧重于可持续发展挑战，以及如何通过研究一系列基于地点的案例研究来开发本地化解决方案。通过结合课程内容和您的最终项目，您将能够培养一系列可转移技能，从而扩展您的职业选择。</p>
     <p><strong>学位、学制和学费：</strong>全日制硕士，1年，£25,250</p>
     <p><strong>申请截止时间：</strong>一般8月底前</p>
