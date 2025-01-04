@@ -21,7 +21,7 @@ date: 09-01-2024
 
 <h3 id="硕士项目"> 📖1.2 <a href=" " target="_blank">硕士项目</a></h3>
 
-    <h4 id="硕士计划 I（论文）和计划 II（综合考试）">2.1.1 <a href=" https://geography.ucdavis.edu/masters-program " target="_blank">硕士计划 I（论文）和计划 II（综合考试）</a></h4>
+    <h4 id="硕士计划 I（论文）和计划 II（综合考试）">1.2.1 <a href=" https://geography.ucdavis.edu/masters-program " target="_blank">硕士计划 I（论文）和计划 II（综合考试）</a></h4>
     <p><strong>介绍：</strong>计划 I 和计划 II 的学生都至少修读 36 个学分。 对于计划 I 的学生： 该计划要求修读 36 个研究生和高年级课程学分（仅限 100 系列和 200 系列）和一篇论文。这些学分中只有 4 个可以来自 299 门课程。 对于计划 II 的学生： 该计划要求修读 36 个研究生和高年级课程学分（仅限 100 系列和 200 系列）和一篇综合考试。这些学分中只有 4 个可以来自 299 门课程。</p>
     <p><strong>学位、学制和学费：</strong>课程要求 - 至少 36 个学分</p>
     <p><strong>申请截止时间：</strong>见项目链接</p>
