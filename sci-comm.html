@@ -4,7 +4,6 @@ title: ​HUG Future科普专栏Sci-comm
 layout: Post
 content-type: static
 ---
-
 <!DOCTYPE html>
 <html lang="zh">
 <head>
@@ -17,6 +16,22 @@ content-type: static
             margin: 0;
             padding: 0;
             line-height: 1.8;
+        }
+
+        .title {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        .intro {
+            padding: 20px;
+            background-color: #f9f9f9;
+            margin: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            line-height: 1.6;
         }
 
         .gallery {
@@ -95,6 +110,32 @@ content-type: static
     </style>
 </head>
 <body>
+    <div class="intro">
+        <p><strong>HUG Sci-comm</strong> is a new column aimed at providing graduate students with the opportunity to showcase their research and share the latest findings with the public and decision-makers. Every two weeks, we will share interesting and accessible research discoveries, bringing the latest advancements in fields like geography, environment, climate, and planning to a wider audience.</p>
+        <p>Although many doctoral and master’s students contribute to or lead research projects published in top-tier journals and recognized within their fields, they often lack the opportunity to share these findings with a broader audience. Research in disciplines such as geography, environment, climate, planning, and public health is highly applicable and directly related to people's lives, yet the public rarely has direct access to the latest knowledge. This column aims to help people better understand the places they live—why they are improving or deteriorating—and to lay the groundwork for a more sustainable and equitable future for all.</p>
+        <p>Each edition of HUG Sci-comm will be published on multiple platforms (such as Xiaohongshu, Bilibili, LinkedIn, X, the HUG Future website, etc.). The content will be based on published academic papers, with the HUG Future editorial team assisting authors in crafting suitable topics for effective science communication, making complex research easy to understand. We welcome young scholars from all fields, especially those working in interdisciplinary areas, to share their research, including but not limited to geography, environmental science, urban planning, public health, earth sciences, biology, political science, economics, and public administration.</p>
+        <p><strong>Submission Guidelines:</strong><br>
+        • Title (max. 20 words)<br>
+        • Body (initial draft, max. 100 words)<br>
+        • Author(s) and affiliation (early-stage researchers preferred; the submitter must be an author of the academic paper, but author order is not restricted)<br>
+        • Source paper (link or PDF, with preference for papers from reputable peer-reviewed journals)<br>
+        Please send your submissions to: <a href="mailto:qinxf@bu.edu">qinxf@bu.edu</a></p>
+    </div>
+
+    <div class="intro">
+        <p><strong>HUG Sci-comm</strong> 是一个全新的栏目，旨在给研究生提供一个展示自己研究成果的机会，向公众和决策者科普最新的研究发现。每两周，我们将会分享一些有趣、易懂的科研发现，将地理、环境、气候和规划等领域的最新科研成果带给更多人。</p>
+        <p>虽然许多博士和硕士研究生所参与甚至主持的研究项目发表在了领域内的顶尖期刊，获得了业内的认可，但他们往往没有足够的机会将这些成果分享给更广泛的读者。地理，环境，气候，规划，公共健康等相关和交叉学科的研究具有非常高的应用性，与人们的生活息息相关，但是大众却鲜有渠道直接了解到最新的知识。这个栏目正是为了帮助人们了解他们所在之地，理解它为什么变好或变差，是为了未来建立人们可以公平得享受的、可持续的美好生活。</p>
+        <p>每期 HUG Sci-comm 的内容将同步更新于各大平台（小红书、bilibili, LinkedIn, X, HUG Future 网页等）。各期科普内容将基于已发表的学术论文，HUG Future 的编辑团队会帮助作者设计适合的传播主题，让复杂的科研成果变得简单易懂。我们欢迎各领域尤其是交叉学科的青年学者分享他们的研究：地理学、环境科学、城乡规划、公共健康、地球科学、生物、政治科学、经济学、公共管理等等。</p>
+        <p><strong>投稿方式：</strong><br>
+        • 标题（最多20个字）<br>
+        • 正文（初稿不超过100字）<br>
+        • 作者及单位（优先考虑青年学者），投稿者必须为该学术文章的作者，但作者顺序不限。<br>
+        • 所基于的论文（链接或PDF，优先考虑权威期刊）<br>
+        请将稿件发送至：<a href="mailto:qinxf@bu.edu">qinxf@bu.edu</a></p>
+    </div>
+
+    <div class="title">第一期 (Vol. 1)</div>
+
     <div class="gallery">
         <a href="./assets/img/sci-comm202501/Slide1.png">
             <img src="./assets/img/sci-comm202501/Slide1.png" alt="Image 1" onclick="openModal(0)">
@@ -119,50 +160,11 @@ content-type: static
         </a>
     </div>
 
-    <!-- Modal -->
+    <!-- Modal Section -->
     <div id="imageModal" class="modal">
         <button class="close" onclick="closeModal()">&times;</button>
-        <button class="prev" onclick="changeImage(-1)">&#10094;</button>
-        <button class="next" onclick="changeImage(1)">&#10095;</button>
-        <div class="modal-content">
-            <img id="modalImage" src="" alt="">
-        </div>
-    </div>
+        <button class="prev" onclick="changeImage(-
 
-    <script>
-        const images = [
-            './assets/img/sci-comm202501/Slide1.png',
-            './assets/img/sci-comm202501/Slide2.png',
-            './assets/img/sci-comm202501/Slide3.png',
-            './assets/img/sci-comm202501/Slide4.png',
-            './assets/img/sci-comm202501/Slide5.png',
-            './assets/img/sci-comm202501/Slide6.png',
-            './assets/img/sci-comm202501/Slide7.png'
-        ];
-
-        let currentImageIndex = 0;
-
-        function openModal(index) {
-            const modal = document.getElementById('imageModal');
-            const modalImage = document.getElementById('modalImage');
-            modal.style.display = 'flex';
-            currentImageIndex = index;
-            modalImage.src = images[currentImageIndex];
-        }
-
-        function closeModal() {
-            const modal = document.getElementById('imageModal');
-            modal.style.display = 'none';
-        }
-
-        function changeImage(direction) {
-            const modalImage = document.getElementById('modalImage');
-            currentImageIndex = (currentImageIndex + direction + images.length) % images.length;
-            modalImage.src = images[currentImageIndex];
-        }
-    </script>
-</body>
-</html>
 
 
 
