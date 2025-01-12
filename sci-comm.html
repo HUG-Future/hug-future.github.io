@@ -160,11 +160,51 @@ content-type: static
         </a>
     </div>
 
-    <!-- Modal Section -->
+   
+<!-- Modal -->
     <div id="imageModal" class="modal">
         <button class="close" onclick="closeModal()">&times;</button>
-        <button class="prev" onclick="changeImage(-
+        <button class="prev" onclick="changeImage(-1)">&#10094;</button>
+        <button class="next" onclick="changeImage(1)">&#10095;</button>
+        <div class="modal-content">
+            <img id="modalImage" src="" alt="">
+        </div>
+    </div>
 
+    <script>
+        const images = [
+            './assets/img/sci-comm202501/Slide1.png',
+            './assets/img/sci-comm202501/Slide2.png',
+            './assets/img/sci-comm202501/Slide3.png',
+            './assets/img/sci-comm202501/Slide4.png',
+            './assets/img/sci-comm202501/Slide5.png',
+            './assets/img/sci-comm202501/Slide6.png',
+            './assets/img/sci-comm202501/Slide7.png'
+        ];
+
+        let currentImageIndex = 0;
+
+        function openModal(index) {
+            const modal = document.getElementById('imageModal');
+            const modalImage = document.getElementById('modalImage');
+            modal.style.display = 'flex';
+            currentImageIndex = index;
+            modalImage.src = images[currentImageIndex];
+        }
+
+        function closeModal() {
+            const modal = document.getElementById('imageModal');
+            modal.style.display = 'none';
+        }
+
+        function changeImage(direction) {
+            const modalImage = document.getElementById('modalImage');
+            currentImageIndex = (currentImageIndex + direction + images.length) % images.length;
+            modalImage.src = images[currentImageIndex];
+        }
+    </script>
+</body>
+</html>
 
 
 
