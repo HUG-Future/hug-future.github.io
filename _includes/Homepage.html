@@ -34,7 +34,7 @@
 </div>
 
 
-/*<style>
+<style>
     /* 核心项目标题样式 */
     .核心项目 h1 {
         text-align: center;
@@ -64,15 +64,15 @@
         z-index: 1;
     }
 
-    /* 容器样式 */
+    /* 容器样式 - 默认横排 */
     .blocks-container {
         display: flex;
-        flex-direction: column; /* 改为竖向排列 */
-        align-items: center; /* 居中对齐内容 */
+        justify-content: space-between;
+        align-items: flex-start;
         width: 100%;
-        max-width: 600px; /* 宽度限制在小屏幕适合的尺寸 */
+        max-width: 1200px;
         margin-top: 20px;
-        padding: 0;
+        padding: 0 10px;
         box-sizing: border-box;
     }
 
@@ -80,19 +80,19 @@
         display: flex;
         flex-direction: column;
         align-items: center;
-        margin: 10px 0; /* 竖向排列时调整间距 */
+        margin: 10px;
         border: 1px solid #ccc;
         border-radius: 8px;
         overflow: hidden;
-        width: 100%; /* 竖向排列时，宽度设置为100% */
-        height: auto; /* 高度根据内容自适应 */
+        width: calc(30% - 20px);
+        height: 500px;
         box-sizing: border-box;
     }
 
     /* 图片样式 */
     .blocks-container img {
         width: 100%;
-        height: auto; /* 图片高度自适应 */
+        height: 70%;
         object-fit: cover;
     }
 
@@ -118,9 +118,23 @@
         margin: 0;
         line-height: 1.5;
     }
+
+    /* 手机端样式 - 竖排布局 */
+    @media (max-width: 768px) {
+        .blocks-container {
+            flex-direction: column; /* 竖向排列 */
+            align-items: center; /* 居中内容 */
+        }
+
+        .blocks-container .block {
+            width: 90%; /* 宽度根据屏幕调整 */
+            height: auto; /* 高度自适应 */
+        }
+    }
 </style>
 
-    <style>
+
+/*    <style>
         /* Center the heading horizontally */
         .核心项目 h1 {
             text-align: center;
