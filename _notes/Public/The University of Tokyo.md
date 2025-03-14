@@ -61,7 +61,7 @@ date : 19-12-2023
          <h3 id="主要教授与研究方向"><a href=" https://www.l.u-tokyo.ac.jp/postgraduate/index.html " target="_blank">主要教授与研究方向</a></h3>
 <p><strong> 高谷幸: </strong> 研究重点是日本的移民，特别是非正规移民、移民妇女和移民政策</p>
         <p><strong> 游圣靖:</strong> 社区和住房社会学</p>
-        <p><strong> 赤川学:</strong> s注于性别的历史社会学以及人口减少社会的理论</p>
+        <p><strong> 赤川学:</strong> 注于性别的历史社会学以及人口减少社会的理论</p>
    </div>
    <br>
    <br>
