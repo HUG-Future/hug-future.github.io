@@ -43,7 +43,7 @@ date : 16-12-2023
     <p><strong>课程链接：</strong><a href="https://www.hues.kyushu-u.ac.jp/eng/curriculum-policy/" target="_blank">链接</a></p>
 
     <h4 id="可持续建筑与城市系统国际硕士课程">1.2.3 <a href="https://www.hues.kyushu-u.ac.jp/eng/curriculum-policy/" target="_blank">可持续建筑与城市系统国际硕士课程</a></h4>
-    <p><strong>介绍：</strong>该项目正在寻找希望在这些领域取得进步的学生：鸟瞰图，使人们能够了解有关维持的各个领域，而不仅仅是城市和建筑的专业领域。国际能力使合作成为可能，同时在国际层面积极沟通。实用技能使人们能够根据高水平的专业知识提出解决每个领域个别问题的实用方法</p>
+    <p><strong>介绍：</strong>该项目正在寻找希望在这些领域取得进步的学生，使人们能够了解有关维持的各个领域，而不仅仅是城市和建筑的专业领域。国际能力使合作成为可能，同时在国际层面积极沟通。实用技能使人们能够根据高水平的专业知识提出解决每个领域个别问题的实用方法</p>
     <p><strong>学位、学制和学费：</strong>硕士，2年</p>
     <p><strong>申请截止时间：</strong>2月和6月（申请截止日期每年变更，请查询官网）</p>
     <p><strong>入学要求：</strong>要求xxx</p>
