@@ -1,0 +1,357 @@
+---
+
+title: ​HUG Future科普专栏Sci-comm
+layout: Post
+content-type: static
+---
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HUG Sci-comm</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.8;
+        }
+
+        .title {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        .intro {
+            padding: 20px;
+            background-color: #f9f9f9;
+            margin: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            line-height: 1.6;
+        }
+
+        .gallery {
+            display: flex;
+            overflow-x: auto;
+            scroll-snap-type: x mandatory;
+            padding: 20px;
+            gap: 10px;
+        }
+
+        .gallery a {
+            flex: 0 0 24%; /* Four images visible at a time */
+            scroll-snap-align: start;
+        }
+
+        .gallery img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            cursor: pointer;
+        }
+
+        .introduction {
+            margin: 20px;
+            padding: 20px;
+            background-color: #f9f9f9;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .introduction h2 {
+            margin-top: 0;
+            color: #333;
+        }
+
+        .introduction p {
+            text-align: justify;
+            color: #555;
+        }
+
+        .introduction ul {
+            margin: 10px 0 0 20px;
+            color: #555;
+        }
+
+        .introduction ul li {
+            margin-bottom: 8px;
+        }
+
+        .contact {
+            font-weight: bold;
+            color: #000;
+        }
+
+        .lang-switch {
+            margin: 20px;
+            text-align: center;
+        }
+
+        .lang-switch button {
+            padding: 10px 20px;
+            font-size: 16px;
+            border: none;
+            background-color: #0073e6;
+            color: white;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .lang-switch button:hover {
+            background-color: #005bb5;
+        }
+
+        /* Modal Styles */
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.8);
+            z-index: 1000;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .modal-content {
+            position: relative;
+            max-width: 90%;
+            max-height: 90%;
+        }
+
+        .modal-content img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+
+        .close, .prev, .next {
+            position: absolute;
+            top: 50%;
+            color: white;
+            font-size: 24px;
+            background: rgba(0, 0, 0, 0.5);
+            border: none;
+            cursor: pointer;
+            transform: translateY(-50%);
+            padding: 10px;
+            border-radius: 50%;
+        }
+
+        .close {
+            top: 10%;
+            right: 5%;
+            font-size: 28px;
+        }
+
+        .prev {
+            left: 5%;
+        }
+
+        .next {
+            right: 5%;
+        }
+    </style>
+
+     <script>
+        function toggleLanguage(lang) {
+            const englishSection = document.getElementById('english-intro');
+            const chineseSection = document.getElementById('chinese-intro');
+            if (lang === 'en') {
+                englishSection.style.display = 'block';
+                chineseSection.style.display = 'none';
+            } else {
+                englishSection.style.display = 'none';
+                chineseSection.style.display = 'block';
+            }
+        }
+    </script>
+    
+</head>
+<body>
+    
+    <div class="title">第一期 (Vol. 1)</div>
+
+    <div class="gallery">
+        <a href="./assets/img/sci-comm202501/Slide1.png">
+            <img src="./assets/img/sci-comm202501/Slide1.png" alt="Image 1" onclick="openModal(0)">
+        </a>
+        <a href="./assets/img/sci-comm202501/Slide2.png">
+            <img src="./assets/img/sci-comm202501/Slide2.png" alt="Image 2" onclick="openModal(1)">
+        </a>
+        <a href="./assets/img/sci-comm202501/Slide3.png">
+            <img src="./assets/img/sci-comm202501/Slide3.png" alt="Image 3" onclick="openModal(2)">
+        </a>
+        <a href="./assets/img/sci-comm202501/Slide4.png">
+            <img src="./assets/img/sci-comm202501/Slide4.png" alt="Image 4" onclick="openModal(3)">
+        </a>
+        <a href="./assets/img/sci-comm202501/Slide5.png">
+            <img src="./assets/img/sci-comm202501/Slide5.png" alt="Image 5" onclick="openModal(4)">
+        </a>
+        <a href="./assets/img/sci-comm202501/Slide6.png">
+            <img src="./assets/img/sci-comm202501/Slide6.png" alt="Image 6" onclick="openModal(5)">
+        </a>
+        <a href="./assets/img/sci-comm202501/Slide7.png">
+            <img src="./assets/img/sci-comm202501/Slide7.png" alt="Image 7" onclick="openModal(6)">
+        </a>
+    </div>
+
+   <div class="title">第二期 (Vol. 2)</div>
+
+    <div class="gallery">
+        <a href="./assets/img/sci-comm202502/Slide1.jpeg">
+            <img src="./assets/img/sci-comm202502/Slide1.jpeg" alt="Image 1" onclick="openModal(0)">
+        </a>
+        <a href="./assets/img/sci-comm202502/Slide2.jpeg">
+            <img src="./assets/img/sci-comm202502/Slide2.jpeg" alt="Image 2" onclick="openModal(1)">
+        </a>
+        <a href="./assets/img/sci-comm202502/Slide3.jpeg">
+            <img src="./assets/img/sci-comm202502/Slide3.jpeg" alt="Image 3" onclick="openModal(2)">
+        </a>
+        <a href="./assets/img/sci-comm202502/Slide4.jpeg">
+            <img src="./assets/img/sci-comm202502/Slide4.jpeg" alt="Image 4" onclick="openModal(3)">
+        </a>
+        <a href="./assets/img/sci-comm202502/Slide5.jpeg">
+            <img src="./assets/img/sci-comm202502/Slide5.jpeg" alt="Image 5" onclick="openModal(4)">
+        </a>
+        <a href="./assets/img/sci-comm202502/Slide6.jpeg">
+            <img src="./assets/img/sci-comm202502/Slide6.jpeg" alt="Image 6" onclick="openModal(5)">
+        </a>
+        <a href="./assets/img/sci-comm202502/Slide7.jpeg">
+            <img src="./assets/img/sci-comm202502/Slide7.jpeg" alt="Image 7" onclick="openModal(6)">
+        </a>
+    </div>
+
+       <div class="title">第三期 (Vol. 3)</div>
+
+    <div class="gallery">
+        <a href="./assets/img/sci-comm202503/slides1.png.PNG">
+            <img src="./assets/img/sci-comm202503/slides1.png.PNG" alt="Image 1" onclick="openModal(0)">
+        </a>
+        <a href="./assets/img/sci-comm202503/slides2.png.PNG">
+            <img src="./assets/img/sci-comm202503/slides2.png.PNG" alt="Image 2" onclick="openModal(1)">
+        </a>
+        <a href="./assets/img/sci-comm202503/slides3.png.PNG">
+            <img src="./assets/img/sci-comm202503/slides3.png.PNG" alt="Image 3" onclick="openModal(2)">
+        </a>
+        <a href="./assets/img/sci-comm202503/slides4.png.PNG">
+            <img src="./assets/img/sci-comm202503/slides4.png.PNG" alt="Image 4" onclick="openModal(3)">
+        </a>
+        <a href="./assets/img/sci-comm202503/slides5.png.PNG">
+            <img src="./assets/img/sci-comm202503/slides5.png.PNG" alt="Image 5" onclick="openModal(4)">
+        </a>
+        <a href="./assets/img/sci-comm202503/slides6.png.PNG">
+            <img src="./assets/img/sci-comm202503/slides6.png.PNG" alt="Image 6" onclick="openModal(5)">
+        </a>
+        <a href="./assets/img/sci-comm202503/slides7.png.PNG">
+            <img src="./assets/img/sci-comm202503/slides7.png.PNG" alt="Image 7" onclick="openModal(6)">
+        </a>
+        <a href="./assets/img/sci-comm202503/slides8.png.PNG">
+            <img src="./assets/img/sci-comm202503/slides8.png.PNG" alt="Image 8" onclick="openModal(7)">
+        </a>
+    </div>
+<!-- Modal -->
+    <div id="imageModal" class="modal">
+        <button class="close" onclick="closeModal()">&times;</button>
+        <button class="prev" onclick="changeImage(-1)">&#10094;</button>
+        <button class="next" onclick="changeImage(1)">&#10095;</button>
+        <div class="modal-content">
+            <img id="modalImage" src="" alt="">
+        </div>
+    </div>
+
+    <script>
+        const images = [
+            './assets/img/sci-comm202501/Slide1.png',
+            './assets/img/sci-comm202501/Slide2.png',
+            './assets/img/sci-comm202501/Slide3.png',
+            './assets/img/sci-comm202501/Slide4.png',
+            './assets/img/sci-comm202501/Slide5.png',
+            './assets/img/sci-comm202501/Slide6.png',
+            './assets/img/sci-comm202501/Slide7.png'
+        ];
+
+        let currentImageIndex = 0;
+
+        function openModal(index) {
+            const modal = document.getElementById('imageModal');
+            const modalImage = document.getElementById('modalImage');
+            modal.style.display = 'flex';
+            currentImageIndex = index;
+            modalImage.src = images[currentImageIndex];
+        }
+
+        function closeModal() {
+            const modal = document.getElementById('imageModal');
+            modal.style.display = 'none';
+        }
+
+        function changeImage(direction) {
+            const modalImage = document.getElementById('modalImage');
+            currentImageIndex = (currentImageIndex + direction + images.length) % images.length;
+            modalImage.src = images[currentImageIndex];
+        }
+    </script>
+
+    <div class="lang-switch">
+        <button onclick="toggleLanguage('zh')">中文</button>
+        <button onclick="toggleLanguage('en')">English</button>
+    </div>
+
+    <div class="introduction" id="chinese-intro">
+        <h2>HUG Sci-comm</h2>
+        <p>
+            是一个全新的栏目，旨在给研究生提供一个展示自己研究成果的机会，向公众和决策者科普最新的研究发现。每两周，我们将会分享一些有趣、易懂的科研发现，将地理、环境、气候和规划等领域的最新科研成果带给更多人。
+        </p>
+        <p>
+            虽然许多博士和硕士研究生所参与甚至主持的研究项目发表在了领域内的顶尖期刊，获得了业内的认可，但他们往往没有足够的机会将这些成果分享给更广泛的读者。地理，环境，气候，规划，公共健康等相关和交叉学科的研究具有非常高的应用性，与人们的生活息息相关，但是大众却鲜有渠道直接了解到最新的知识。这个栏目正是为了帮助人们了解他们所在之地。理解它为什么变好或变差，是为了未来建立人们可以公平得享受的、可持续的美好生活。
+        </p>
+        <p>
+            每期 HUG Sci-comm 的内容将同步更新于各大平台（小红书、bilibili, LinkedIn, X, HUG Future 网页等）。各期科普内容将基于已发表的学术论文，HUG Future 的编辑团队会帮助作者设计适合的传播主题，让复杂的科研成果变得简单易懂。我们欢迎各领域尤其是交叉学科的青年学者分享他们的研究：地理学、环境科学、城乡规划、公共健康、地球科学、生物、政治科学、经济学、公共管理等等。
+        </p>
+        <p><strong>投稿方式：</strong></p>
+        <ul>
+            <li>标题（最多20个字）</li>
+            <li>正文（初稿不超过100字）</li>
+            <li>作者及单位（优先考虑青年学者），投稿者必须为该学术文章的作者，但作者顺序不限。</li>
+            <li>所基于的论文（链接或PDF，优先考虑权威期刊）</li>
+        </ul>
+        <p class="contact">请将稿件发送至：yanlin.zhao@wur.nl</p>
+    </div>
+
+    <div class="introduction" id="english-intro" style="display: none;">
+        <h2>HUG Sci-comm</h2>
+        <p>
+            HUG Sci-comm is a new column aimed at providing graduate students with the opportunity to showcase their research and share the latest findings with the public and decision-makers. Every two weeks, we will share interesting and accessible research discoveries, bringing the latest advancements in fields like geography, environment, climate, and planning to a wider audience.
+        </p>
+        <p>
+            Although many doctoral and master’s students contribute to or lead research projects published in top-tier journals and recognized within their fields, they often lack the opportunity to share these findings with a broader audience. Research in disciplines such as geography, environment, climate, planning, and public health is highly applicable and directly related to people's lives, yet the public rarely has direct access to the latest knowledge. This column aims to help people better understand the places they live—why they are improving or deteriorating—and to lay the groundwork for a more sustainable and equitable future for all.
+        </p>
+        <p>
+            Each edition of HUG Sci-comm will be published on multiple platforms (such as Xiaohongshu, Bilibili, LinkedIn, X, the HUG Future website, etc.). The content will be based on published academic papers, with the HUG Future editorial team assisting authors in crafting suitable topics for effective science communication, making complex research easy to understand. We welcome young scholars from all fields, especially those working in interdisciplinary areas, to share their research, including but not limited to geography, environmental science, urban planning, public health, earth sciences, biology, political science, economics, and public administration.
+        </p>
+        <p><strong>Submission Guidelines:</strong></p>
+        <ul>
+            <li>Title (max. 20 words)</li>
+            <li>Body (initial draft, max. 100 words)</li>
+            <li>Author(s) and affiliation (early-stage researchers preferred; the submitter must be an author of the academic paper, but author order is not restricted)</li>
+            <li>Source paper (link or PDF, with preference for papers from reputable peer-reviewed journals)</li>
+        </ul>
+        <p class="contact">Please send your submissions to: yanlin.zhao@wur.nl</p>
+        <p>Join us in making science accessible to everyone!</p>
+    </div>
+    
+</body>
+</html>
+
+
+
+<br>
+<br>
