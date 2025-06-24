@@ -1,7 +1,7 @@
 ---
 title : 伦敦国王学院，King's College London
 feed: show
-date : 09-30-2023
+date : 2023-09-30
 ---
 
 <html lang="zh">
