@@ -72,7 +72,6 @@ date : 2025-07-03
     <p><strong>申请截止时间：</strong> - 优先申请：2 月 1 日；常规申请：4 月 1 日；最后申请：7 月 1 日</p>
     <p><strong>入学要求：</strong> TOEFL iBT ≥ 80 / IELTS ≥ 6.5；学士学位，GPA ≥ 3.00。需提交三封推荐信，个人陈述，所有先前就读院校的官方成绩单，个人简历。 </p>
     <p><strong>课程链接：</strong><a href=" https://psm.utah.edu/degree-programs/earth-resource.php" target="_blank">链接</a></p>
-    </div>
 <br>
     <br>
 
