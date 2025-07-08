@@ -94,8 +94,8 @@ date : 06-30-2025
         <p><strong> Prof.4: James Duminy：</strong> My research examines the ways that cities and urbanisation are governed, focusing on sub-Saharan Africa within the wider context of the global South. I am interested in how urban processes relate to food security and health risks, and the ways in which those links are problematized and addressed. In doing so, I work at the interface of the historical and contemporary, the empirical and theoretical.</p>
         <p><strong> Prof.5: Jonathan Bamber：</strong> I am a physicist who uses Earth Observation (EO) data, primarily from satellites but also airborne platforms, to study the cryosphere and polar regions. My research interests are broad but can loosely be described as cryospheric processes and their interaction with the rest of the climate system. Most of my research focuses on using EO techniques, including laser and radar altimetry, Synthetic Aperture Radar, imaging spectrometry and gravimetry, to investigate the behaviour of the ice sheets covering Antarctica and Greenland. I have, however, also applied similar methods to study the Patagonian Ice Caps, Svalbard, Himalayan glaciers and Arctic sea ice. Much of my most recent research relates to the impact of melting land ice on sea level rise (SLR) and also the response of the ocean to changes in freshwater forcing. Thus, I have worked on investigating the stability of the Atlantic Meridional Overturning Circulation (AMOC) among other oceanography problems such as closing the Sea Level Budget and the fate of freshwater fluxes in the North Atlantic.</p>
         <p><strong> Prof.6: Paul Bates：</strong> He has widespread research interests in risk, resilience, uncertainty, governance and decision-making in relation to natural hazards and global water issues. Paul's main science contribution has been to improve the prediction of flood inundation through the development of new computer models, the use of data from new airborne, satellite and ground sensors and through the better characterization of risk and uncertainty.</p>
-    </div>
-    <br>
+        </div>
+<br>
     <br>
 
 
