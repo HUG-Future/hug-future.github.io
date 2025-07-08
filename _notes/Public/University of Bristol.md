@@ -1,7 +1,7 @@
 ---
-title : 布里斯托尔大学，University of Bristol 
+title: "布里斯托尔大学，University of Bristol"
 feed: show
-date : 06-30-2025
+date: 2025-06-30
 ---
 
 <html lang="zh">
@@ -13,17 +13,17 @@ date : 06-30-2025
 <body>
     <h3>布里斯托市，英国</h3>
 
-    <h2 id=" 地理科学学院 ">🏫1 <a href=" https://www.bristol.ac.uk/geography/ " target="_blank">地理科学学院</a></h2>
+    <h2 id="地理科学学院">🏫1 <a href="https://www.bristol.ac.uk/geography/" target="_blank">地理科学学院</a></h2>
     <p><strong>介绍：</strong> 学院一直致力于成为环境过程、环境系统和人文科学综合研究和教学的主要国际中心之一。我们的使命是将尽可能高质量的研究与卓越的教学相结合，既对学生友好又刺激。我们是英国唯一一个在每次举行的英国国家研究评估活动中都名列前茅（5*）的地理系。我们的研究可以根据我们所解决的物理和社会科学问题的全球意义来描述。我们的教学计划反映了我们的研究专长，提供由各自领域的领导者教授的前沿创新课程。我们拥有庞大而充满活力的研究生社区，专注于博士课程和国际知名的社会与空间硕士课程。我们的研究生中有很大一部分继续担任学术职务，为学院闻名于世的智力和科学卓越的国际侨民增添了光彩。研究生社区具有强烈的国际性和跨学科性，并为研究生研究提供了令人兴奋的学术环境。</p>
 
-<h3 id="博士项目">🎓1.1 <a href=" https://www.bristol.ac.uk/geography/courses/postgraduate/ " target="_blank">博士项目</a></h3>
+<h3 id="博士项目">🎓1.1 <a href="https://www.bristol.ac.uk/geography/courses/postgraduate/" target="_blank">博士项目</a></h3>
 
-    <h4 id=" 人文地理学博士 ">1.1.1 <a href=" https://www.bristol.ac.uk/geography/courses/postgraduate/humanphd.html" target="_blank"> 人文地理学博士</a></h4>
+    <h4 id="人文地理学博士">1.1.1 <a href="https://www.bristol.ac.uk/geography/courses/postgraduate/humanphd.html" target="_blank">人文地理学博士</a></h4>
     <p><strong>介绍：</strong> 人文地理学博士生通常与该系的历史和文化、政治经济学和定量空间科学的研究小组保持一致，尽管许多学生根据其专业主题的需要进行跨小组。在人文地理学领域，我们在广泛的方法论方法方面拥有国际专业知识，包括先进的定量建模、定性分析和文献方法。我们定期招收已经有资金或愿意自费学习的学生。对于申请，我们要求未来的学生提供他们有兴趣研究的主题的研究报告。三个研究小组：①政治经济学，地理学研究专长包括城市和城市变化、新自由主义、全球化、政府性、监管和分析政治经济学、批判政治经济学、社会分层、可持续发展、全球发展、农村发展、生计、殖民、移民和农业生态学。②历史和文化地理学，主要兴趣包括思想史、自然、景观和表现的历史地理学、当代社会理论和哲学、体现和物质性、后人类主义、后殖民主义、非殖民主义、女权主义地理学、英国历史人口学、环境史、伦理学和主观性。③定量空间科学，研究侧重于对社会、住房、健康和政治数据的定量分析。擅长多级建模、GIS、空间统计、空间时间序列分析、生态推断和非线性系统、地理计算和机器学习等方法。 </p>
     <p><strong>学位、学制和学费：</strong>博士、4年、20,700英镑</p>
     <p><strong>申请截止时间：</strong>无（明确表示申请无截止日期，欢迎随时申请，但注意奖学金的申请时间）</p>
     <p><strong>入学要求：</strong> 雅思6.5（6/7）、相关本科学历、推荐信2封、个人陈述、研究陈述、面试 </p>
-<p><strong>课程链接：</strong><a href=" https://www.bristol.ac.uk/geography/courses/postgraduate/humanphd.html " target="_blank">链接</a></p>
+<p><strong>课程链接：</strong><a href="https://www.bristol.ac.uk/geography/courses/postgraduate/humanphd.html" target="_blank">链接</a></p>
 
     <h4 id=" 物理地理学博士 ">1.1.2 <a href=" https://www.bristol.ac.uk/geography/courses/postgraduate/physphd.html" target="_blank"> 物理地理学博士</a></h4>
     <p><strong>介绍：</strong> 学校的自然地理学研究集中在多个主题上。这些都是基于英国研究委员会的优先领域以及工业界和其他利益相关者的利益。我们的三个研究小组是：①全球环境变化，布里斯托尔动态全球环境研究计划（BRIDGE）小组旨在提高对自然气候和环境变异性以及全球碳循环与气候之间关系的理解。这些知识用于改进我们对未来变化及其对生态系统和人类社会各个方面的影响的预测。②冰川学，布里斯托尔冰川学中心（Bristol Glaciology Centre）领导着对冰盖过程、冰下环境和海平面变化的世界级研究。其目的是增进对冰盖和冰川的现在、过去和未来行为的了解，以及冰冻圈、海洋和大气在不断变化的气候条件下之间的联系。③水文学，水文研究小组专注于研究使用先进的数值方法对水文和水力问题进行建模。特别是，它专门从事河流洪水建模、水质监测、不确定性分析技术、集水区和山坡运输过程，并结合现场监测和大规模实验工作。 </p>
