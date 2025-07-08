@@ -1,5 +1,5 @@
 --
-title: 利物浦大学, University of Liverpool
+title: 利物浦大学，University of Liverpool
 feed: show
 date: 2025-06-29
 --
