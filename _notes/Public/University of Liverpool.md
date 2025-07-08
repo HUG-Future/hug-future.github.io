@@ -1,3 +1,8 @@
+--
+title: 利物浦大学, University of Liverpool
+feed: show
+date: 2025-06-29
+--
 <html lang="zh">
 <head>
 <meta charset="UTF-8">
