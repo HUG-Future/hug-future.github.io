@@ -1,5 +1,5 @@
 ---
-title : University of California, Santa Barbara，加州大学圣芭芭拉分校
+title : 加州大学圣芭芭拉分校，University of California, Santa Barbara
 feed: show
 date : 2024-01-01
 ---
@@ -7,7 +7,7 @@ date : 2024-01-01
 <html lang="zh">
 <head>
     <meta charset="UTF-8">
-    <title>University of California, Santa Barbara，加州大学圣芭芭拉分校</title>
+    <title>加州大学圣芭芭拉分校，University of California, Santa Barbara</title>
     <link rel="stylesheet" href="/assets/css/CSS.css">
 </head>
 <body>
