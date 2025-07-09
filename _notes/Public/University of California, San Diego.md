@@ -50,7 +50,7 @@ date : 2025-07-09
     <br><br>
 
     <h2 id="城市研究与规划系">🏫2 <a href="https://usp.ucsd.edu/" target="_blank">城市研究与规划系</a></h2>
-    <p><strong>介绍：</strong>We are a community of planners, designers, and analysts committed to understanding and transforming cities and environments, bridging research with practice. We provide students with tools to understand the politics, economics and culture of human settlements amid a rapidly changing climate and society.</p>
+    <p><strong>介绍：</strong>我们是一个由规划师、设计师和分析师组成的社区，致力于理解和改造城市与环境，将研究与实践相结合。我们为学生提供工具，帮助他们理解人类聚居地在快速变化的气候和社会中的政治、经济和文化。</p>
     <h3 id="硕士项目">🎓2.1 硕士项目</h3>
     <p>暂无（即将开设）</p>
     <h3 id="博士项目">🎓2.2 博士项目</h3>
