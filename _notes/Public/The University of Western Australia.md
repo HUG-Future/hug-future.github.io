@@ -1,5 +1,5 @@
 ---
-title : The University of Western Australia，西澳大学
+title : 西澳大学，The University of Western Australia
 feed: show
 date : 2025-07-08
 ---
@@ -7,7 +7,7 @@ date : 2025-07-08
 <html lang="zh">
 <head>
     <meta charset="UTF-8">
-    <title>The University of Western Australia，西澳大学</title>
+    <title>西澳大学，The University of Western Australia</title>
     <link rel="stylesheet" href="/assets/css/CSS.css">
 </head>
 <body>
