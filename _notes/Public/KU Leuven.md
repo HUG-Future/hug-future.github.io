@@ -151,13 +151,12 @@ date : 2025-07-05
    <br>
    <br>
 
-  <h2 id="Faculty of Social Sciences ，社会科学学院">🏫3 <a href="https://soc.kuleuven.be/fsw/english" target="_blank">Faculty of Social Sciences ，社会科学学院</a></h2>
+  <h2 id="Faculty of Social Sciences ，社会科学学院">🏫4 <a href="https://soc.kuleuven.be/fsw/english" target="_blank">Faculty of Social Sciences ，社会科学学院</a></h2>
     <p><strong>介绍：</strong>我们的教师希望激励他人。通过科学、通过对社会挑战和变化的深刻理解来激励他人。我们相信社会会努力理解自己，并自我反省。我们相信这些知识能提供解决方案，并加强我们的社区。它还能激励我们的学生珍惜社会。</p>
 
-<h3 id="博士项目">🎓3.1 <a href="https://soc.kuleuven.be/fsw/doctoralprogramme" target="_blank">博士项目</a></h3>
+<h3 id="博士项目">🎓4.1 <a href="https://soc.kuleuven.be/fsw/doctoralprogramme" target="_blank">博士项目</a></h3>
 
-<h3 id="硕士项目">📖3.2 <a href="https://soc.kuleuven.be/fsw/toekomstigestudenten/english#MA" target="_blank">硕士项目</a></h3>
-</div>
+<h3 id="硕士项目">📖4.2 <a href="https://soc.kuleuven.be/fsw/toekomstigestudenten/english#MA" target="_blank">硕士项目</a></h3>
 
 </body>
 </html>
