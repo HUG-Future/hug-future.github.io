@@ -1,7 +1,7 @@
 ---
 title : 拉夫堡大学，Loughborough University
 feed: show
-date : 2023-10-30
+date : 2025-07-28
 ---
 
 <html lang="zh">
@@ -52,9 +52,9 @@ date : 2023-10-30
     <br>
     <div class="project-box">
          <h3 id="主要教授与研究方向"><a href=" https://www.lboro.ac.uk/subjects/geography-environment/staff/" target="_blank">主要教授与研究方向</a></h3>
-<p><strong> Professor Ed Brown</strong>治理和国际发展问题领域，最近的研究成果特别关注全球南方的能源获取和低碳能源转型。</p>
-        <p><strong> Professor Mark Howells</strong> Mark的研究重点是气候兼容增长（CCG），他目前领导着由拉夫堡大学、牛津大学、剑桥大学、伦敦大学学院、帝国理工学院和开放大学组成的CCG联盟，实施英国政府3500万英镑的CCG计划（2021-2025）。</p>
-        <p><strong> Dr Long Seng To</strong>Long Seng的研究解决了在气候变化、灾害和冲突等日益增加的长期压力和突发冲击的背景下，为所有人提供负担得起、可靠、可持续和现代能源的挑战。</p>
+<p><strong> Ed Brown: </strong>治理和国际发展问题领域，最近的研究成果特别关注全球南方的能源获取和低碳能源转型。</p>
+        <p><strong> Mark Howells: </strong> Mark的研究重点是气候兼容增长（CCG），他目前领导着由拉夫堡大学、牛津大学、剑桥大学、伦敦大学学院、帝国理工学院和开放大学组成的CCG联盟，实施英国政府3500万英镑的CCG计划（2021-2025）。</p>
+        <p><strong> Long Seng To: </strong>Long Seng的研究解决了在气候变化、灾害和冲突等日益增加的长期压力和突发冲击的背景下，为所有人提供负担得起、可靠、可持续和现代能源的挑战。</p>
     </div>
     <br>
     <br>
@@ -75,8 +75,8 @@ date : 2023-10-30
     <div class="project-box">
          <h3 id="主要教授与研究方向"><a href="faculty链接" target="_blank">主要教授与研究方向</a></h3>
 <p><strong> Taimaz Larimian 博士：</strong> Taimaz Larimian 博士：城市社会可持续性、可持续城市发展和社区规划、通过环境设计预防犯罪 （CPTED）、社区发展和社区复原力、城市品牌和社会包容、文化主导的城市更新</p>
-        <p><strong> M. Sohail 教授：</strong>通过合作为底层 10 亿人提供可持续的城市基础设施——政策、规划、采购、管理和创新，包括变革性技术。</p>
-        <p><strong> Dr Asya Natapov </strong>我的研究活动涉及三个主题的交叉点：城市规划与设计、空间认知和计算。我的工作将建筑环境视为物理特性和认知过程之间相互关系的复杂系统。我的目标是将城市规划的实践从基于经济因素和交通需求的传统模型重新引导，通过适应性和综合性方法来丰富它，以提高步行性、可持续性和弹性。特别是，我专注于视觉感知的分析和建模，并研究这种基本认知特性如何促进城市的空间记忆、导航、寻路和情感体验。</p>
+        <p><strong> M. Sohail: </strong>通过合作为底层 10 亿人提供可持续的城市基础设施——政策、规划、采购、管理和创新，包括变革性技术。</p>
+        <p><strong> Asya Natapov: </strong>我的研究活动涉及三个主题的交叉点：城市规划与设计、空间认知和计算。我的工作将建筑环境视为物理特性和认知过程之间相互关系的复杂系统。我的目标是将城市规划的实践从基于经济因素和交通需求的传统模型重新引导，通过适应性和综合性方法来丰富它，以提高步行性、可持续性和弹性。特别是，我专注于视觉感知的分析和建模，并研究这种基本认知特性如何促进城市的空间记忆、导航、寻路和情感体验。</p>
     </div>
     <br>
     <br>
