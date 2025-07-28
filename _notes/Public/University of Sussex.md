@@ -1,7 +1,7 @@
 ---
 title : 苏赛克斯大学，University of Sussex
 feed: show
-date : 11-26-2023
+date : 2023-11-26
 ---
 
 <html lang="zh">
