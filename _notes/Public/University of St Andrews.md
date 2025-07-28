@@ -48,11 +48,9 @@ date : 2023-10-15
     <h2 id="地理与可持续发展学院">🏫2 <a href=" https://www.st-andrews.ac.uk/geography-sustainable-development/" target="_blank">地理与可持续发展学院</a></h2>
     <p><strong>介绍：</strong>地理学是对地球景观、人民、地方和环境的综合研究，为人类目前面临的一些最紧迫的问题提供了见解。该学科在将社会科学（人文地理学）与其对文化、社会和经济动态的理解以及地球科学（自然地理学）与自然景观和环境过程联系起来方面是独一无二的。可持续发展将使学生能够成为当地和全球公民，并应对环境和社会的挑战。学院内的学者将他们的研究兴趣、激情和专业知识置于教学的前沿，为学生创造一个具有挑战性和令人兴奋的学习环境。</p>
 
-<h3 id="博士项目">🎓2.1 <a href=" https://www.st-andrews.ac.uk/geography-sustainable-development/prospective/pgr/" target="_blank">博士项目</a></h3>
+<h3 id="硕士项目">📖2.1 <a href=" https://www.st-andrews.ac.uk/geography-sustainable-development/prospective/pgt/" target="_blank">硕士项目</a></h3>
 
-<h3 id="硕士项目">📖2.2 <a href=" https://www.st-andrews.ac.uk/geography-sustainable-development/prospective/pgt/" target="_blank">硕士项目</a></h3>
-
-    <h4 id="可持续发展硕士">2.2.1 <a href=" https://www.st-andrews.ac.uk/subjects/sustainable-development/global-sustainable-development-msc/" target="_blank">可持续发展硕士</a></h4>
+    <h4 id="可持续发展硕士">2.1.1 <a href=" https://www.st-andrews.ac.uk/subjects/sustainable-development/global-sustainable-development-msc/" target="_blank">可持续发展硕士</a></h4>
     <p><strong>介绍：</strong>我们的可持续发展计划解决了21世纪许多最紧迫的发展（环境和社会）挑战，使我们的学生能够评估关于这些挑战是什么以及如何最好地解决这些挑战的各种有争议的想法，并教授在政策方向上发展这些想法所需的技能。我们涵盖了广泛的环境、社会和经济问题，如气候变化、发展、健康、能源、政策变化和保护。我们的可持续发展硕士由跨学科的批判性社会科学领导。这意味着我们从关于人类对气候和环境影响的科学共识开始，但也认识到是社会和政治背景阻碍了重要的变化。社会科学视角通过关注权力、知识和政治等问题来解决当前的差距。在这方面，我们的课程特别关注正义和公平问题。我们致力于以研究为导向的教学，学术严谨，并教你实施以研究为主导的政策所需的技能。</p>
     <p><strong>学位、学制和学费：</strong> Msc，一年，£29,950</p>
     <p><strong>申请截止时间：</strong>2024.8.8（申请截止日期每年变更，请查询官网）</p>
@@ -68,7 +66,7 @@ date : 2023-10-15
     <br>
 
 
-<h2 id="国际关系学院">🏫4 <a href=" https://www.st-andrews.ac.uk/international-relations/" target="_blank">国际关系学院</a></h2>
+<h2 id="国际关系学院">🏫3 <a href=" https://www.st-andrews.ac.uk/international-relations/" target="_blank">国际关系学院</a></h2>
 
 <div class="project-box">
          <h3 id="主要教授与研究方向"><a href="faculty链接" target="_blank">主要教授与研究方向</a></h3>
