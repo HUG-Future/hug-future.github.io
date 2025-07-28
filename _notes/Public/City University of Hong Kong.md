@@ -47,7 +47,7 @@ date : 2024-01-03
     <br>
     <br>
 
-<h2 id="公共与国际事务系">🏫4 <a href="http://www.cityu.edu.hk/pia/" target="_blank">公共与国际事务系</a></h2>
+<h2 id="公共与国际事务系">🏫2 <a href="http://www.cityu.edu.hk/pia/" target="_blank">公共与国际事务系</a></h2>
 
 <div class="project-box">
          <h3 id="主要教授与研究方向"><a href="https://www.cityu.edu.hk/pia/people.aspx?r=Academic_Staff" target="_blank">主要教授与研究方向</a></h3>
