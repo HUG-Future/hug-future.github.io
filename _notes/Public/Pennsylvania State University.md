@@ -37,7 +37,7 @@ date : 2023-11-14
     </div>
     <br>
     <br>
-<h2 id="社会学和犯罪学系">🏫4 <a href=" https://sociology.la.psu.edu/about/" target="_blank">社会学和犯罪学系</a></h2>
+<h2 id="社会学和犯罪学系">🏫2 <a href=" https://sociology.la.psu.edu/about/" target="_blank">社会学和犯罪学系</a></h2>
 
 <div class="project-box">
          <h3 id="主要教授与研究方向"><a href=" https://sociology.la.psu.edu/people/" target="_blank">主要教授与研究方向</a></h3>
