@@ -496,8 +496,6 @@ date : 2023-09-23
         <p><strong> Paul Tobin：</strong>欧洲和欧盟政治；比较政治学；环境政治；公共政策；Python 编程语言作为社会科学的工具。</p>
         <p><strong> Sherilyn MacGregor：</strong>环境（不）可持续性、性别（不）平等以及公民理论和实践等主题；权力关系、环境和社会正义、劳动和责任的性别分工以及富裕社会的生态政治转型策略等。</p>
   </div>
-   <br>
-   <br>
 
 </body>
 </html>
