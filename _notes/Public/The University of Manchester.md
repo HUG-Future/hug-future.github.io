@@ -221,7 +221,7 @@ date : 2023-09-23
     <p><strong>入学要求：</strong>任何学科一等或高级二等（2.1）荣誉本科学位，国内本科成绩82%以上；雅思6.5（写作6.5，其他不低于6.0）/托福90（写作22，其他不低于20）</p>
     <p><strong>课程链接：</strong><a href=" https://www.manchester.ac.uk/study/masters/courses/list/20494/msc-global-development-politics-governance-and-development-policy/all-content/#course-profile " target="_blank">链接</a></p>
 
-    <h4 id=" Global Development (Poverty and Inequality)">2.2.14 <a href=" https://www.manchester.ac.uk/study/masters/courses/list/20496/msc-global-development-poverty-and-inequality/all-content/#course-profile " target="_blank"> Global Development (Poverty and Inequality)a></h4>
+    <h4 id=" Global Development (Poverty and Inequality)">2.2.14 <a href=" https://www.manchester.ac.uk/study/masters/courses/list/20496/msc-global-development-poverty-and-inequality/all-content/#course-profile " target="_blank"> Global Development (Poverty and Inequality)</a></h4>
     <p><strong>介绍：</strong>全球发展与贫困和不平等理学硕士课程旨在帮助学生以批判性和建设性的方式理解和解决贫困和不平等问题。目前超过 14 亿人陷入贫困，加上国家和国际层面日益加剧的不平等，给世界带来了最大的道德挑战。学生将在充满活力和刺激的环境中，通过顶尖学者的高水平学术培训，了解贫困和不平等的不同概念和特征。 </p>
     <p><strong>学位、学制和学费：</strong>理学硕士（MSc）</p>
     <p><strong>申请截止时间：</strong>8月31日（申请截止日期每年变更，请查询官网）</p>
