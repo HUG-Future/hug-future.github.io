@@ -65,18 +65,6 @@ date : 2023-10-15
     <br>
     <br>
 
-
-<h2 id="国际关系学院">🏫3 <a href=" https://www.st-andrews.ac.uk/international-relations/" target="_blank">国际关系学院</a></h2>
-
-<div class="project-box">
-         <h3 id="主要教授与研究方向"><a href="faculty链接" target="_blank">主要教授与研究方向</a></h3>
-<p><strong> Prof Raymond Hinnebusch </strong>该教授xxx</p>
-        <p><strong> Prof Adam Ferhani </strong>安全政治、国际政治社会学和边境研究领域</p>
-</div>
-<br>
-<br>
-
-
 </body>
 </html>
 
