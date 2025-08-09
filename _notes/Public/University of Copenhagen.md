@@ -44,14 +44,6 @@ date: 2025-08-08
     <p><strong>入学要求：</strong>已获得哥本哈根大学/奥尔堡大学/罗斯基勒大学/丹麦技术大学地理学相关专业学士学位的申请人自动被视为符合申请条件，其他申请人需提交自我评估表（对本科课程的描述）；英语雅思学术类6.5（不看小分），托福83分（不接受MyBest score）；学术简历</p>
     <p><strong>课程链接：</strong><a href="https://studies.ku.dk/masters/geography-and-geoinformatics/programme-structure/ " target="_blank">链接</a></p>
 
-    <h4 id="项目名称">1.2.2 <a href="项目网页链接" target="_blank">项目名称</a></h4>
-    <p><strong>介绍：</strong>该项目xxx</p>
-    <p><strong>学位、学制和学费：</strong>学位xxx</p>
-    <p><strong>申请截止时间：</strong>时间xxx（申请截止日期每年变更，请查询官网）</p>
-    <p><strong>入学要求：</strong>要求xxx</p>
-    <p><strong>课程链接：</strong><a href="课程网页链接" target="_blank">链接</a></p>
-
-   
     <br>
     <div class="project-box">
          <h3 id="主要教授与研究方向"><a href="faculty链接" target="_blank">主要教授与研究方向</a></h3>
