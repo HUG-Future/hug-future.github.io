@@ -80,7 +80,6 @@ date: 2024-01-21
          <h3 id="主要教授与研究方向"><a href="faculty链接" target="_blank">主要教授与研究方向</a></h3>
 <p><strong>Keith Ihlanfeldt: </strong>urban and regional economics, local public finance, and labor economics</p>
         <p><strong>Manoj Atolia: </strong>development and international economics with an emphasis on the analysis of economic reforms and government policy in developing countries</p>
-        <p><strong>Prof.3：</strong>该教授xxx</p>
  </div>
 <br>
 <br>
