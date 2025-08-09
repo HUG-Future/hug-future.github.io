@@ -33,24 +33,6 @@ date: 2025-08-08
     <p><strong>入学要求：</strong>本科学历为相近专业，英语CEFR-B2至少取得2.5分或同等水平</p>
     <p><strong>课程链接：</strong><a href="https://www.uni-bonn.de/en/studying/degree-programs/degree-programs-a-z/geography-of-environmental-risks-and-human-security-msc" target="_blank">链接</a></p>
 
-
-<h3 id="硕士项目">📖1.2 <a href="" target="_blank">硕士项目</a></h3>
-
-    <h4 id="">1.2.1 <a href="</a></h4>
-    <p><strong>介绍：</strong></p>
-    <p><strong>学位、学制和学费：</strong></p>
-    <p><strong>申请截止时间：</strong>（申请截止日期每年变更，请查询官网）</p>
-    <p><strong>入学要求：</strong></p>
-    <p><strong>课程链接：</strong><a href=" " target="_blank">链接</a></p>
-
-    <h4 id="项目名称">1.2.2 <a href="项目网页链接" target="_blank">项目名称</a></h4>
-    <p><strong>介绍：</strong>该项目xxx</p>
-    <p><strong>学位、学制和学费：</strong>学位xxx</p>
-    <p><strong>申请截止时间：</strong>时间xxx（申请截止日期每年变更，请查询官网）</p>
-    <p><strong>入学要求：</strong>要求xxx</p>
-    <p><strong>课程链接：</strong><a href="课程网页链接" target="_blank">链接</a></p>
-
-   
     <br>
     <div class="project-box">
          <h3 id="主要教授与研究方向"><a href="https://www.geographie.uni-bonn.de/en/department-1" target="_blank">主要教授与研究方向</a></h3>
