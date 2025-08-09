@@ -1,7 +1,7 @@
 ---
-title :埃克塞特大学，University of Exeter
+title: 埃克塞特大学，University of Exeter
 feed: show
-date : 
+date: 2025-08-08
 ---
 
 <html lang="zh">
@@ -90,54 +90,7 @@ date :
     <br>
     <br>
 
-  <h2 id="">🏫3 <a href="" target="_blank"></a></h2>
-    <p><strong>介绍：</strong></p>
-
-<h3 id="博士项目">🎓3.1 <a href="" target="_blank">博士项目</a></h3>
-
-    <h4 id="">3.1.1 <a href="" target="_blank"></a></h4>
-    <p><strong>介绍：</strong></p>
-    <p><strong>学位、学制和学费：</strong></p>
-    <p><strong>申请截止时间：</strong>（申请截止日期每年变更，请查询官网）</p>
-    <p><strong>入学要求：</strong></p>
-    <p><strong>课程链接：</strong><a href="" target="_blank">链接</a></p>
-
-    <h4 id="项目名称">3.1.2 <a href="项目网页链接" target="_blank">项目名称</a></h4>
-    <p><strong>介绍：</strong>该项目xxx</p>
-    <p><strong>学位、学制和学费：</strong>学位xxx</p>
-    <p><strong>申请截止时间：</strong>时间xxx（申请截止日期每年变更，请查询官网）</p>
-    <p><strong>入学要求：</strong>要求xxx</p>
-    <p><strong>课程链接：</strong><a href="课程网页链接" target="_blank">链接</a></p>
-
-
-<h3 id="硕士项目">📖3.2 <a href="" target="_blank">硕士项目</a></h3>
-
-    <h4 id="">3.2.1 <a href="" target="_blank"></a></h4>
-    <p><strong>介绍：</strong></p>
-    <p><strong>学位、学制和学费：</strong></p>
-    <p><strong>申请截止时间：</strong>（申请截止日期每年变更，请查询官网）</p>
-    <p><strong>入学要求：</strong></p>
-    <p><strong>课程链接：</strong><a href="" target="_blank">链接</a></p>
-
-    <h4 id="">3.2.2 <a href="" target="_blank"></a></h4>
-    <p><strong>介绍：</strong></p>
-    <p><strong>学位、学制和学费：</strong></p>
-    <p><strong>申请截止时间：</strong>（申请截止日期每年变更，请查询官网）</p>
-    <p><strong>入学要求：</strong></p>
-    <p><strong>课程链接：</strong><a href="" target="_blank">链接</a></p>
-
-
-    <br>
-    <div class="project-box">
-         <h3 id="主要教授与研究方向"><a href="faculty链接" target="_blank">主要教授与研究方向</a></h3>
-<p><strong></strong>u</p>
-        <p><strong></strong></p>
-        <p><strong></strong></p>
-   </div>
-   <br>
-   <br>
-
-<h2 id="经济学系">🏫4 <a href="https://www.exeter.ac.uk/study/pg-research/degrees/economics/" target="_blank">经济学系</a></h2>
+<h2 id="经济学系">🏫3 <a href="https://www.exeter.ac.uk/study/pg-research/degrees/economics/" target="_blank">经济学系</a></h2>
 
 <div class="project-box">
          <h3 id="主要教授与研究方向"><a href="https://www.exeter.ac.uk/study/pg-research/degrees/economics/" target="_blank">主要教授与研究方向</a></h3>
@@ -148,7 +101,7 @@ date :
 <br>
 <br>
 
-<h2 id="政治和国际关系">🏫5 <a href="https://www.exeter.ac.uk/study/pg-research/degrees/economics/" target="_blank">政治和国际关系</a></h2>
+<h2 id="政治和国际关系">🏫4 <a href="https://www.exeter.ac.uk/study/pg-research/degrees/economics/" target="_blank">政治和国际关系</a></h2>
 
 <div class="project-box">
          <h3 id="主要教授与研究方向"><a href="https://www.exeter.ac.uk/study/pg-research/degrees/economics/" target="_blank">主要教授与研究方向</a></h3>
@@ -159,13 +112,12 @@ date :
 <br>
 <br>
 
-<h2 id="社会学、哲学和人类学">🏫6 <a href="https://www.exeter.ac.uk/study/pg-research/degrees/sociology/" target="_blank">社会学、哲学和人类学</a></h2>
+<h2 id="社会学、哲学和人类学">🏫5 <a href="https://www.exeter.ac.uk/study/pg-research/degrees/sociology/" target="_blank">社会学、哲学和人类学</a></h2>
 
 <div class="project-box">
          <h3 id="主要教授与研究方向"><a href="https://www.exeter.ac.uk/study/pg-research/degrees/sociology/" target="_blank">主要教授与研究方向</a></h3>
 <p><strong>Jane Elliott：</strong>研究兴趣包括性别与就业、健康老龄化、纵向研究方法、定性和定量研究与叙事相结合。</p>
         <p><strong>Steven Emery：</strong>究兴趣是文化价值观、实践和权力在农业景观管理中的关系。我感兴趣的是文化价值观如何影响农民的决策、实践和对外来政策干预的反应。我认为价值观是动态的，通过社会互动（使用修辞-文化-理论的视角）不断协商，但也受到意识形态的操纵。更具体地说，我将这种方法应用于对农民的农业环境和协作行为的研究，展示了对农业文化的更细致入微的理解如何允许对行为理论、政策干预和新自由主义粮食系统进行更广泛的批判性反思。在粮食安全、减缓和适应气候变化、生物多样性保护和景观遗产等相互竞争的需求之间，关于土地利用的辩论可能从未像现在这样重要和有争议。通过在跨学科团队中工作，并与多个利益相关者团体一起工作，我的研究为这种在社会和环境上都公正的辩论寻求解决方案。</p>
-        <p><strong>Prof.3：</strong>该教授xxx</p>
 </div>
 
 </body>
